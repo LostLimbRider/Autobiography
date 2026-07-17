@@ -15,6 +15,7 @@ Lost Limb Riders
 514 N 6th St
 Fort Dodge, IA 50501
 515‑890‑5765
+general_llr@outlook.com
 
 ---
 
@@ -71,6 +72,8 @@ We serve:
 **What makes us different:**
 
 We are not a clinical program. We are not a hospital. We are a community of people who have lived the experience and choose to show up for others. The motorcycle aspect of our organization is not incidental — it is central. Riding together breaks down barriers. It transforms the conversation from illness and loss into freedom, adventure, and capability. It shows the world — and more importantly, it shows new amputees — that life after limb loss is not smaller. It is different. And it can be extraordinary.
+
+Lost Limb Riders is a support group and a riding club — even for those who don't ride. Everyone is welcome.
 
 ---
 
@@ -197,7 +200,7 @@ Every amputee who receives a peer visit, every new rider who discovers they can 
 
 John Thompson's motto has carried him through the hardest moments of his life. It is the foundation of everything he builds.
 
-> **"I Can. I Will."**
+> **"I CAN. I WILL."**
 
 He invites you to be part of this journey. Whether you ride, volunteer, donate, sponsor, or simply spread the word — you are helping build something that will outlast any one of us. You are helping ensure that the next person who loses a limb in Iowa will not face it alone.
 
@@ -211,5 +214,6 @@ Thank you for your time. Thank you for your consideration. And if you ever want 
 **Founder:** John Thompson
 **Address:** 514 N 6th St, Fort Dodge, IA 50501
 **Phone:** 515‑890‑5765
+**Email:** general_llr@outlook.com
 
-*I Can. I Will.*
+*I CAN. I WILL.*
