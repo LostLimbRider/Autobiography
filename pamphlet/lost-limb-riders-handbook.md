@@ -181,7 +181,7 @@ The organization exists because healing should have witnesses. Rebuilding should
 
 ## **Mission Statement**
 
-Lost Limb Riders exists to support amputees, limb‑different individuals, and their families through community, mentorship, public awareness, adaptive opportunities, and practical resources that restore hope, rebuild confidence, and remind every person that nobody is left behind and nobody stands alone.
+Lost Limb Riders exists to support amputees, limb‑different individuals, and their families through community, mentorship, public awareness, adaptive opportunities, and practical resources—including housing and independence advocacy—that restore hope, rebuild confidence, and remind every person that nobody is left behind and nobody stands alone.
 
 ## **Vision Statement**
 
@@ -330,6 +330,21 @@ Programs are how the mission becomes real. Each program should be designed with 
 **Expected outcomes:** Reduced crisis pressure, improved resource access, faster connection to appropriate agencies, and stronger trust in the organization.
 
 **Future expansion:** Microgrant fund, partner referral network, case navigation volunteers, transportation partnerships, and emergency home accessibility support.
+
+
+## **Housing and Independence Advocacy**
+
+**Purpose:** To ensure that no amputee faces a housing crisis alone when unsafe, inaccessible, or unstable housing threatens health, recovery, safety, or independence.
+
+**How it works:** Lost Limb Riders helps members identify housing barriers, document practical accessibility needs, and connect with appropriate resources. The organization may advocate when housing conditions interfere with medically necessary care, mobility, hygiene, wound care, prosthetic use, transportation access, or safe daily living. Advocacy may include helping members communicate with landlords or housing providers, locating accessible housing options, connecting eligible members with rental application fee, security deposit, moving expense, utility, HUD, VA, state, local, and nonprofit resources, and building a volunteer network that can help members navigate paperwork, phone calls, appointments, and referrals.
+
+**Who it serves:** Amputees, limb‑different individuals, veterans, families, caregivers, and members whose living conditions create barriers to healing, independence, or safe participation in daily life.
+
+**Expected outcomes:** Safer housing conditions, stronger access to accessible housing, reduced crisis pressure, fewer recovery setbacks caused by preventable environmental barriers, improved hygiene and wound‑care consistency, stronger connection to public and nonprofit resources, and greater independence at home.
+
+**Real‑world example:** An amputee recovering from limb loss may be medically instructed to clean and care for a wound every day, but that instruction becomes difficult or impossible when a housing provider fails to provide hot water. In that situation, housing is not a separate issue from healthcare. It directly affects infection prevention, dignity, healing, and quality of life. Lost Limb Riders will treat those moments as mission‑critical because independence cannot be rebuilt in unsafe or unsupported living conditions.
+
+**Future expansion:** Accessible housing resource guides, landlord and housing provider education, partnerships with fair‑housing advocates and disability rights organizations, volunteer housing navigators, emergency relocation support when funding allows, and a referral network with HUD‑approved housing counselors, VA representatives, county agencies, legal aid providers, and nonprofit partners.
 
 ## **Confidence Through Adaptive Activity**
 
