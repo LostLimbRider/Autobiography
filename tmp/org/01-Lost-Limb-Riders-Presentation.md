@@ -73,7 +73,7 @@ A community of amputees and supporters who ride motorcycles, support each other,
 
 "Thank you for your time. Thank you for your support. And if you ever want to ride with us — you're welcome."
 
-"I Can. I Will. We Can. We Will."
+"I Can. I Will. Nobody Is Left Behind. Nobody Stands Alone."
 
 ---
 

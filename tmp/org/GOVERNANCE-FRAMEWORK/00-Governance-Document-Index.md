@@ -14,7 +14,7 @@ This index organizes the Lost Limb Riders Governance Framework for board review,
 
 4. Board Orientation Guide — onboarding process, documents, first 30‑60‑90 day expectations, training agenda, and acknowledgments.
 
-5. Governance Policies — Conflict of Interest, Code of Ethics, Confidentiality, Whistleblower, Document Retention and Destruction, Records Management, Non‑Discrimination, and Accessibility and Inclusion.
+5. Governance Policies — Conflict of Interest, Code of Ethics, Confidentiality, Whistleblower, Document Retention and Destruction, Records Management, Non‑Discrimination, Accessibility and Inclusion, Privacy, and Harassment.
 
 6. Committee Charters — Executive, Finance, Governance, Audit, Fundraising, Programs, Safety and Risk, and Membership Committee charters.
 

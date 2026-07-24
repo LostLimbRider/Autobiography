@@ -2,11 +2,11 @@
 
 ## Mission
 
-To provide peer support, community, and hope to amputees and their families through shared experiences, group activities, and mentorship.
+Lost Limb Riders exists to support amputees, limb‑different individuals, and their families through community, mentorship, public awareness, adaptive opportunities, and practical resources—including housing and independence advocacy—that restore hope, rebuild confidence, and remind every person that nobody is left behind and nobody stands alone.
 
 ## Vision
 
-A world where no amputee feels alone in their journey.
+Our vision is to become a trusted national model for post‑limb‑loss community support—connecting amputees and families with peer encouragement, accessible programs, public education, and partnerships that help people live boldly, independently, and with renewed purpose.
 
 ---
 
@@ -51,5 +51,7 @@ BBQs, fundraisers, awareness events, and social gatherings.
 
 ## Contact
 
-Lost Limb Riders
+Lost Limb Riders  
 [Contact information to be added]
+
+*"I Can. I Will. Nobody Is Left Behind. Nobody Stands Alone."*

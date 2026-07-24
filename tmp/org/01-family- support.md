@@ -45,7 +45,7 @@
 
 ## **Purpose**
 
-Lost Limb Riders, Inc. ("Lost Limb Riders" or "the Organization") is a nonprofit organization dedicated to supporting amputees, limb-different individuals, and their families through community, mentorship, public awareness, adaptive opportunities, and practical resources. Founded by John Thompson — an amputee, cancer survivor, heart attack survivor, recovering addict, motorcycle rider, and motivational speaker — Lost Limb Riders was created from lived experience and a conviction that no one should face limb loss alone.
+Lost Limb Riders, Inc. ("Lost Limb Riders" or "the Organization") is a nonprofit organization dedicated to supporting amputees, limb‑different individuals, and their families through community, mentorship, public awareness, adaptive opportunities, and practical resources—including housing and independence advocacy. Founded by John Thompson — an amputee, cancer survivor, heart attack survivor, recovering addict, motorcycle rider, and motivational speaker — Lost Limb Riders was created from lived experience and a conviction that no one should face limb loss alone.
 
 This Program Operations Manual ("Manual") establishes the complete operational framework for the **Family Support Initiative**, the Organization's signature program designed to provide comprehensive, wraparound support to families navigating the challenges of limb loss. The Manual defines governance structures, administrative processes, program delivery standards, risk controls, performance metrics, and quality improvement mechanisms required to operate the Family Support Initiative at a level consistent with the expectations of board oversight, grant review, corporate sponsorship, healthcare partnerships, and government accountability.
 
@@ -103,18 +103,17 @@ The Board of Directors ("Board") is the governing body of Lost Limb Riders. The 
 
 ### **Board Composition**
 
-The Board shall consist of no fewer than five (5) and no more than fifteen (15) voting members. Board composition should reflect diversity of perspective, professional expertise, and community representation. At minimum, the Board should include:
+The Board shall consist of no fewer than five (5) and no more than eleven (11) voting directors, as established in the Corporate Bylaws, Article IV, Section 4.02. The recommended launch size is seven (7) voting directors. Board composition should reflect diversity of perspective, professional expertise, and community representation. At minimum, the Board should include:
 
 - A representative with nonprofit governance or management experience
 - A representative with financial, accounting, or audit expertise
-- A representative with legal or compliance experience
 - A representative with healthcare, rehabilitation, or disability services expertise
-- A representative with marketing, communications, or public relations expertise
 - An amputee or limb-different individual with lived experience relevant to the mission
 - A family member or caregiver of an amputee
 - A representative with fundraising, development, or grant management experience
-- A representative with event planning or community organizing experience
-- A representative with human resources, volunteer management, or organizational development experience
+- A representative with safety, risk management, or motorcycle safety experience
+
+**Note:** Board composition, size, and term requirements are governed by the Corporate Bylaws. In the event of any discrepancy between this Manual and the Bylaws, the Bylaws control. See `DOCUMENT-CONTROLLED-MISSION-STATEMENT.md` and the Governance Framework for authoritative governance language.
 
 ### **Board Officers**
 
@@ -143,19 +142,35 @@ Oversees financial reporting to the Board, reviews annual budgets and financial 
 
 ### **Board Committees**
 
-The Board may establish standing or ad hoc committees as needed. At minimum, the following committees are recommended:
+Standing committees are established by the Corporate Bylaws, Article VI, Section 6.01. The eight (8) standing committees are:
+
+**Executive Committee**
+Handles urgent governance matters between Board meetings. Acts only within authority delegated by the Board. All actions reported to the full Board at the next meeting.
 
 **Finance Committee**
 Responsible for budget oversight, financial policy review, audit coordination, investment oversight (if applicable), and financial risk assessment. The Treasurer chairs this committee.
 
-**Governance/Nominating Committee**
-Responsible for Board recruitment, orientation, self-evaluation, succession planning, policy review, and bylaw maintenance.
+**Governance Committee**
+Responsible for Board recruitment, nominations, orientation, self-evaluation, succession planning, policy review, bylaw maintenance, and governance culture.
 
-**Program Committee**
-Responsible for reviewing program performance, participant outcomes, partnership health, and strategic alignment of programs with mission.
+**Audit Committee**
+Provides independent oversight of audits, reviews, financial integrity, fraud risk, and whistleblower matters involving finance. Applicable when audit or financial review is required.
 
-**Fundraising/Development Committee**
-Responsible for overseeing fundraising strategy, grant pipeline, major gift cultivation, corporate sponsorship development, and campaign planning.
+**Fundraising Committee**
+Responsible for ethical fundraising, donor stewardship, sponsorships, grants, campaigns, and community partnerships.
+
+**Programs Committee**
+Responsible for reviewing program performance, participant outcomes, partnership health, participant benefit, program evaluation, family support, education, advocacy, and community engagement.
+
+**Safety and Risk Committee**
+Responsible for participant safety, motorcycle event risk, volunteer risk, insurance coordination, incident review, emergency planning, and risk culture.
+
+**Membership Committee**
+Responsible for building an inclusive community of participants, riders, families, volunteers, donors, chapters, and supporters.
+
+The Board may also create temporary committees or task forces for defined projects per Bylaws Article VI, Section 6.02. Committee charters are maintained in the Governance Framework (`GOVERNANCE-FRAMEWORK/06-Committee-Charters.md`).
+
+**Note:** Committee structure is governed by the Corporate Bylaws. In the event of any discrepancy between this Manual and the Bylaws, the Bylaws control.
 
 ### **Board Member Expectations**
 
@@ -167,7 +182,7 @@ All Board members shall:
 - Complete a conflict of interest disclosure annually
 - Complete Board orientation within 90 days of appointment
 - Comply with all organizational policies, including confidentiality, conflict of interest, and code of ethics
-- Serve staggered terms of three (3) years, with a maximum of two (2) consecutive terms
+- Serve staggered terms of two (2) years, with a maximum of three (3) consecutive terms, as established in the Corporate Bylaws, Article IV, Section 4.05
 
 ### **Succession Planning**
 
@@ -465,7 +480,7 @@ The Events & Partnerships Coordinator manages event planning, execution, and eva
 
 ## **How the Family Support Initiative Fulfills the Lost Limb Riders Mission**
 
-Lost Limb Riders exists to support amputees, limb-different individuals, and their families through community, mentorship, public awareness, adaptive opportunities, and practical resources. The Family Support Initiative is the Organization's most comprehensive expression of this mission, translating aspirational values into structured, measurable, sustained program delivery.
+Lost Limb Riders exists to support amputees, limb‑different individuals, and their families through community, mentorship, public awareness, adaptive opportunities, and practical resources—including housing and independence advocacy—that restore hope, rebuild confidence, and remind every person that nobody is left behind and nobody stands alone. The Family Support Initiative is the Organization's most comprehensive expression of this mission, translating aspirational values into structured, measurable, sustained program delivery.
 
 ### **Community**
 
@@ -498,7 +513,7 @@ The Family Support Initiative is designed not only to serve individual families 
 - Position Lost Limb Riders as a national leader in community-based limb-loss support
 - Contribute to the broader evidence base for peer-driven, family-centered disability support
 
-The Initiative is not an isolated program. It is the operational foundation upon which Lost Limb Riders builds its long-term capacity to fulfill its mission. Every intake form, every mentor match, every event, every partnership, and every family supported brings the Organization closer to its vision: a world where no amputee feels alone in their journey.
+The Initiative is not an isolated program. It is the operational foundation upon which Lost Limb Riders builds its long-term capacity to fulfill its mission. Every intake form, every mentor match, every event, every partnership, and every family supported brings the Organization closer to its vision: a trusted national model for post‑limb‑loss community support—connecting amputees and families with peer encouragement, accessible programs, public education, and partnerships that help people live boldly, independently, and with renewed purpose.
 
 ---
 

@@ -279,3 +279,111 @@ Review annually with participant feedback.
 ### Revision History
 
 Version 1.0 — Initial board review draft — July 22, 2026.
+
+## Privacy Policy
+
+### Purpose
+
+This policy establishes how Lost Limb Riders collects, uses, protects, and discloses personal information entrusted to the organization by participants, donors, volunteers, families, partners, and community members.
+
+### Scope
+
+All personal information collected, maintained, or processed by Lost Limb Riders in any format — paper, electronic, audio, video, database, or messaging.
+
+### Definitions
+
+Personal information includes names, contact information, medical or disability information, donation records, photographs, video recordings, stories shared in confidence, family information, financial information, employment information, and any other information that could identify a specific individual.
+
+### Policy Statement
+
+Lost Limb Riders shall collect only personal information necessary for mission purposes. Personal information shall be used only for authorized organizational purposes including program delivery, communication, fundraising, reporting, and operations. The organization shall not sell, rent, trade, or share personal information with third parties except as required by law, authorized by the individual, or necessary for legitimate organizational purposes with appropriate safeguards.
+
+### Procedures
+
+**Collection:** Personal information is collected through intake forms, referral forms, event registration, donation records, volunteer applications, and direct communication. Individuals shall be informed of the purpose of collection at the time information is gathered.
+
+**Use:** Personal information is used for program coordination, peer matching, communication, donor acknowledgment, grant reporting, event planning, and organizational operations. Medical or disability information is used solely for program delivery and accommodation planning.
+
+**Storage:** Paper records are stored in locked or access-controlled locations. Electronic records are stored in password-protected, access-controlled systems. Sensitive information (medical, financial, donor) receives additional access restrictions.
+
+**Access:** Access to personal information is limited to individuals with a legitimate organizational need. Staff, volunteers, and board members with access must comply with the Confidentiality Policy.
+
+**Retention:** Personal information is retained according to the Document Retention and Destruction Policy. Participant records are retained for the period required by program standards and applicable law. Donor records are retained per IRS requirements.
+
+**Disclosure:** Personal information shall not be disclosed outside the organization without written consent from the individual, except as required by law, court order, or mandatory reporting obligations. Public storytelling, photography, or video recording requires separate written consent.
+
+**Security:** The organization shall implement reasonable administrative, technical, and physical safeguards to protect personal information from unauthorized access, disclosure, alteration, or destruction.
+
+**Breach Response:** Suspected unauthorized access, disclosure, or loss of personal information must be reported immediately to the Executive Director or Board Chairperson. The organization shall investigate promptly, notify affected individuals when required, and take corrective action.
+
+### Responsibilities
+
+Executive leadership oversees privacy implementation. The Secretary oversees governance records. Every covered person protects personal information in their custody. The Board reviews privacy practices annually.
+
+### Compliance Expectations
+
+Violations of this policy may result in removal, termination, loss of access, or legal action.
+
+### Review Schedule
+
+Review annually and after any suspected breach.
+
+### Revision History
+
+Version 1.0 — Initial board review draft — July 22, 2026.
+
+## Harassment Policy
+
+### Purpose
+
+This policy ensures that Lost Limb Riders maintains an environment free from harassment, intimidation, bullying, exploitation, and abusive conduct for all participants, volunteers, staff, board members, partners, and community members.
+
+### Scope
+
+All organizational activities, programs, events, rides, meetings, communications, digital platforms, hospital visits, mentorship interactions, volunteer service, and any context in which individuals represent or engage with Lost Limb Riders.
+
+### Definitions
+
+**Harassment** includes unwelcome conduct based on race, color, religion, sex, sexual orientation, gender identity or expression, national origin, ancestry, age, disability, veteran status, genetic information, marital status, citizenship status, or any other protected characteristic. Harassment includes verbal, physical, visual, written, or electronic conduct that is sufficiently severe or pervasive to create a hostile, intimidating, or abusive environment.
+
+**Sexual harassment** includes unwelcome sexual advances, requests for sexual favors, and other verbal or physical conduct of a sexual nature, including quid pro quo and hostile environment harassment.
+
+**Bullying** includes repeated, unreasonable actions directed at an individual or group that create a risk to health, safety, dignity, or well-being, including verbal abuse, threats, intimidation, humiliation, social exclusion, or sabotage.
+
+**Exploitation** includes using an individual's vulnerability, personal story, medical information, or emotional state for personal gain, public attention, fundraising without consent, or any purpose inconsistent with the mission.
+
+**Abusive conduct** includes conduct that a reasonable person would find hostile, threatening, violent, or demeaning, including bullying, yelling, insults, cruelty, intimidation, or retaliation.
+
+### Policy Statement
+
+Lost Limb Riders prohibits harassment, sexual harassment, bullying, exploitation, and abusive conduct by any person engaged in organizational activities. This prohibition applies to all relationships: board-to-staff, staff-to-volunteer, volunteer-to-participant, peer-to-peer, and any other interaction occurring in organizational context.
+
+The motorcycle culture at the heart of Lost Limb Riders is built on brotherhood and sisterhood, mutual respect, and protection of one another. This policy reinforces — not contradicts — that culture. Brotherhood and sisterhood are not excuses for inappropriate conduct. They are commitments to treat one another with dignity.
+
+### Procedures
+
+**Reporting:** Any person who experiences, witnesses, or becomes aware of harassment, bullying, exploitation, or abusive conduct should report it to the Chairperson, Vice Chairperson, Executive Director, or Governance Committee chair. Reports may be made verbally or in writing. The organization shall accept and investigate anonymous reports when practical.
+
+**Investigation:** The Board or designated leadership shall investigate reports promptly, thoroughly, and fairly. Investigations shall protect the privacy of all parties to the extent possible. Interim measures (such as temporary separation of parties) may be implemented during investigation when necessary to protect safety.
+
+**Findings and Action:** Upon completion of investigation, the Board or designee shall determine whether policy was violated and take appropriate corrective action, which may include coaching, warning, restriction of duties, removal from events, suspension, termination, removal from board or volunteer service, or referral to authorities.
+
+**Retaliation:** Retaliation against any person who reports harassment, participates in an investigation, or opposes conduct they reasonably believe violates this policy is strictly prohibited and is itself grounds for corrective action.
+
+**External Context:** This policy also applies to organizational representatives at external events, partner facilities, and any context where the individual's connection to Lost Limb Riders is known or reasonably apparent.
+
+### Responsibilities
+
+All leaders must model respectful conduct and address observed violations promptly. The Board oversees complaints involving directors, officers, executives, or serious risk. Executive leadership oversees operational complaints. Every covered person is responsible for their own conduct and for reporting concerns.
+
+### Compliance Expectations
+
+Violations may result in coaching, warning, restriction of duties, removal from events, suspension, termination, removal from the Board, or referral to authorities. Repeat violations or severe conduct will result in the most serious available consequences.
+
+### Review Schedule
+
+Review annually and after any incident.
+
+### Revision History
+
+Version 1.0 — Initial board review draft — July 22, 2026.

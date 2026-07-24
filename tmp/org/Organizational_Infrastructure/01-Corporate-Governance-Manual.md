@@ -2,7 +2,7 @@
 
 ## Purpose
 
-Lost Limb Riders exists to build community, confidence, practical support, and safe motorcycle fellowship for amputees, limb‑difference individuals, families, caregivers, and allies. This manual establishes the governing system needed for a professional nonprofit capable of local operation, hospital partnership, responsible fundraising, and national expansion.
+Lost Limb Riders exists to support amputees, limb‑different individuals, and their families through community, mentorship, public awareness, adaptive opportunities, and practical resources—including housing and independence advocacy—that restore hope, rebuild confidence, and remind every person that nobody is left behind and nobody stands alone. This manual establishes the governing system needed for a professional nonprofit capable of local operation, hospital partnership, responsible fundraising, and national expansion.
 
 ## Chain of Command
 
@@ -66,7 +66,7 @@ Meetings should include mission moment, approval of prior minutes, financial rep
 
 ## Committee Structure
 
-Standing committees should include Governance, Finance, Programs, Safety and Risk, Fundraising, and Chapter Development. Committees recommend action but do not replace full board authority unless delegated in writing. Committee chairs report at regular board meetings.
+Standing committees are established by the Corporate Bylaws, Article VI, Section 6.01, and include: Executive, Finance, Governance, Audit, Fundraising, Programs, Safety and Risk, and Membership. Chapter Development may be established as a temporary committee or task force per Bylaws Article VI, Section 6.02. Committees recommend action but do not replace full board authority unless delegated in writing by Board resolution. Committee chairs report at regular board meetings. Full committee charters are maintained in the Governance Framework (`GOVERNANCE-FRAMEWORK/06-Committee-Charters.md`).
 
 ## Board Member Agreement
 

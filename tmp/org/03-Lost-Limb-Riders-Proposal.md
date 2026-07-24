@@ -1,6 +1,6 @@
 # **Lost Limb Riders**
 
-## *Building Hope, Independence, and Community for Amputees and People with Disabilities*
+## *Nobody Is Left Behind. Nobody Stands Alone.*
 
 ---
 
@@ -55,7 +55,7 @@ That is why Lost Limb Riders exists.
 
 # **2. Our Mission**
 
-Lost Limb Riders exists to provide hope, peer support, mentorship, education, and opportunity to amputees and people with disabilities.
+Lost Limb Riders exists to support amputees, limb‑different individuals, and their families through community, mentorship, public awareness, adaptive opportunities, and practical resources—including housing and independence advocacy—that restore hope, rebuild confidence, and remind every person that nobody is left behind and nobody stands alone.
 
 Our mission is built on a simple but powerful belief: **no one should have to navigate limb loss alone.**
 
@@ -79,7 +79,7 @@ Lost Limb Riders is a support group and a riding club — even for those who don
 
 # **3. The Vision**
 
-Lost Limb Riders envisions an annual fundraising ride and community event in Iowa that brings together amputees, people with disabilities, motorcyclists, families, businesses, healthcare providers, and community supporters.
+Lost Limb Riders envisions an annual fundraising ride and community event in Iowa that brings together amputees, limb‑different individuals, their families, motorcyclists, businesses, healthcare providers, and community supporters.
 
 This event will be more than a fundraiser. It will be a celebration of life after limb loss.
 
@@ -209,11 +209,11 @@ Thank you for your time. Thank you for your consideration. And if you ever want 
 ---
 
 **Lost Limb Riders**
-*Building Hope, Independence, and Community for Amputees and People with Disabilities*
+*Nobody Is Left Behind. Nobody Stands Alone.*
 
 **Founder:** John Thompson
 **Address:** 514 N 6th St, Fort Dodge, IA 50501
 **Phone:** 515‑890‑5765
 **Email:** general_llr@outlook.com
 
-*I CAN. I WILL.*
+*I CAN. I WILL. NOBODY IS LEFT BEHIND. NOBODY STANDS ALONE.*
