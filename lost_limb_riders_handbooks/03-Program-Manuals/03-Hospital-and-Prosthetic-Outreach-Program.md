@@ -12,9 +12,9 @@
 
 ## 1.1 Mission and Purpose
 
-Lost Limb Riders exists to connect new amputees with the peer support, community resources, and adaptive recreation opportunities they need to thrive after limb loss. Our Hospital and Prosthetic Partner Outreach program extends that mission into the clinical setting. We go where amputees are when they need us most\u2014the hospital bed, the rehabilitation center, the prosthetic clinic. We meet them in the moment between diagnosis and adjustment, between discharge and the rest of their lives.
+Lost Limb Riders exists to connect new amputees with the peer support, community resources, and adaptive recreation opportunities they need to thrive after limb loss. Our Hospital and Prosthetic Partner Outreach program extends that mission into the clinical setting. We go where amputees are when they need us most the hospital bed, the rehabilitation center, the prosthetic clinic. We meet them in the moment between diagnosis and adjustment, between discharge and the rest of their lives.
 
-Clinical care stops at the hospital door. Peer support starts there. This program bridges the gap between medical treatment and real life. We give new amputees someone who has been where they are, someone who can say, \u201cI made it, and you will too.\u201d
+Clinical care stops at the hospital door. Peer support starts there. This program bridges the gap between medical treatment and real life. We give new amputees someone who has been where they are, someone who can say, i made it, and you will too.
 
 Our purpose is to build and maintain relationships with healthcare providers so that every new amputee has access to peer support, community connection, and the knowledge that limb loss is not the end of their story.
 
