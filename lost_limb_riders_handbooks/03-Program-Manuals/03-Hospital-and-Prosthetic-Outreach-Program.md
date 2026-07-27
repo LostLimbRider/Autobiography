@@ -84,7 +84,7 @@ This program does not provide medical care, prosthetic fitting, physical therapy
 
 All outreach activities must follow these principles:
 
-**Patient autonomy comes first.** The patient decides whether to accept peer support. No pressure, no coercion, no follow-up after a clear \u201cno.\u201d
+**Patient autonomy comes first.** The patient decides whether to accept peer support. No pressure, no coercion, no follow-up after a clear no.
 
 **Clinical boundaries are absolute.** Outreach representatives are peers, not providers. They do not offer medical advice, interpret doctor instructions, recommend treatments, or interfere with care.
 
@@ -610,7 +610,7 @@ The Hospital and Prosthetic Partner Outreach program is evaluated annually to as
 1. Director of Medical Partnerships compiles program data for the year
 2. Survey data collected from partners and patients (with consent)
 3. Findings presented to Executive Director and Board of Directors
-4. Improvement priorities identified and included in next year\u2019s program plan
+4. Improvement priorities identified and included in next year program plan
 5. Evaluation summary shared with healthcare partners
 
 ## 5.6 Continuous Improvement
@@ -630,9 +630,9 @@ All policy updates are documented with version history and communicated to activ
 
 Once a referral is received and patient consent is verified, the initial contact must be made within seventy-two hours. This window is critical. The newly referred patient has already taken a step toward accepting help, and delay risks losing that momentum. Every hour between referral and outreach matters.
 
-The initial contact method should match the patient\u2019s stated preference whenever possible. If the patient indicated a phone call, call. If they preferred text, text. If no preference was stated, a phone call is the default, with a follow-up text or email within twenty-four hours if the call goes unanswered. Voicemail messages must include the caller\u2019s full name, Lost Limb Riders affiliation, a brief non-clinical description of the call\u2019s purpose, and a return callback number. Voicemails may not disclose the patient\u2019s medical condition or the nature of the referral beyond \u201cI\u2019m following up on a referral made on your behalf.\u201d
+The initial contact method should match the patient stated preference whenever possible. If the patient indicated a phone call, call. If they preferred text, text. If no preference was stated, a phone call is the default, with a follow-up text or email within twenty-four hours if the call goes unanswered. Voicemail messages must include the caller full name, Lost Limb Riders affiliation, a brief non-clinical description of the call purpose, and a return callback number. Voicemails may not disclose the patient medical condition or the nature of the referral beyond  following up on a referral made on your behalf.
 
-A standardized script provides the framework for initial contact but must be delivered conversationally, not read verbatim. The script covers: introduction and affiliation, how the referral came about, a brief description of peer support services, an offer to meet or talk further, and confirmation of the patient\u2019s continued interest. No medical advice, no clinical language, no pressure. If the patient declines, the outreach representative thanks them, documents the decline respectfully, and closes the record. No follow-up is made unless the patient later requests it through the original referral source.
+A standardized script provides the framework for initial contact but must be delivered conversationally, not read verbatim. The script covers: introduction and affiliation, how the referral came about, a brief description of peer support services, an offer to meet or talk further, and confirmation of the patient continued interest. No medical advice, no clinical language, no pressure. If the patient declines, the outreach representative thanks them, documents the decline respectfully, and closes the record. No follow-up is made unless the patient later requests it through the original referral source.
 
 Every initial contact attempt must be documented in the program database regardless of outcome. Documentation includes: date and time of attempt, method of contact, whether contact was established, patient response (interested, not interested, request more time, request specific information), and any follow-up actions taken. If after three documented attempts over five business days no contact is established, the referral is returned to the referring partner with a request for updated contact information or guidance.
 
@@ -640,13 +640,13 @@ Every initial contact attempt must be documented in the program database regardl
 
 In-hospital bedside visits occur only with prior written approval from the healthcare facility and explicit consent from the patient. No exceptions. Bedside visits are a privilege granted by the facility, not a right of the program, and that privilege can be revoked at any time.
 
-Before scheduling a bedside visit, the outreach representative must confirm the following through the Hospital Outreach Coordinator: facility approval for on-site peer visits is active and current, the specific patient has consented to an in-person visit, the patient\u2019s medical status is stable enough for a visitor, and the treating team has no objections. Visits are never conducted in intensive care units, post-surgical recovery units, or areas under isolation precautions without specific facility authorization.
+Before scheduling a bedside visit, the outreach representative must confirm the following through the Hospital Outreach Coordinator: facility approval for on-site peer visits is active and current, the specific patient has consented to an in-person visit, the patient medical status is stable enough for a visitor, and the treating team has no objections. Visits are never conducted in intensive care units, post-surgical recovery units, or areas under isolation precautions without specific facility authorization.
 
-Upon arrival, the outreach representative checks in at the facility\u2019s designated visitor entrance, presents identification, and follows all facility sign-in procedures. The representative proceeds directly to the patient\u2019s room. No wandering. No visiting other patients. No stopping in staff areas. The visit is with the referred patient only unless family members are present and welcomed by the patient.
+Upon arrival, the outreach representative checks in at the facility designated visitor entrance, presents identification, and follows all facility sign-in procedures. The representative proceeds directly to the patient\u2019s room. No wandering. No visiting other patients. No stopping in staff areas. The visit is with the referred patient only unless family members are present and welcomed by the patient.
 
-Inside the room, the outreach representative positions themselves at a respectful distance\u2014never blocking monitors, medical equipment, or the call button. Visits are kept to fifteen to thirty minutes unless the patient clearly wants more time and the facility has no visiting restrictions. The representative reads the room: if the patient is tired, in pain, or distracted, they offer to return another time. No hard sell. No pressure.
+Inside the room, the outreach representative positions themselves at a respectful distance never blocking monitors, medical equipment, or the call button. Visits are kept to fifteen to thirty minutes unless the patient clearly wants more time and the facility has no visiting restrictions. The representative reads the room: if the patient is tired, in pain, or distracted, they offer to return another time. No hard sell. No pressure.
 
-The conversation follows the peer support model: shared experience, practical questions, listening. The representative shares their own limb loss journey only as it relates to the patient\u2019s concerns. They do not compare amputations, minimize the patient\u2019s experience, or offer unsolicited advice. They offer Lost Limb Riders materials, answer questions about the organization, and ask if the patient would like continued contact after discharge.
+The conversation follows the peer support model: shared experience, practical questions, listening. The representative shares their own limb loss journey only as it relates to the patient concerns. They do not compare amputations, minimize the patient\u2019s experience, or offer unsolicited advice. They offer Lost Limb Riders materials, answer questions about the organization, and ask if the patient would like continued contact after discharge.
 
 Before leaving, the representative thanks the patient, ensures the call button and personal items are within reach, and notifies nursing staff that the visit is complete. Visit notes are documented within twenty-four hours, including date, duration, patient engagement level, topics discussed, and any follow-up commitments.
 
@@ -658,7 +658,7 @@ Video calls must use a secure, HIPAA-compliant platform approved by Lost Limb Ri
 
 Before the virtual visit, the outreach representative tests their internet connection, camera, microphone, and lighting. Background must be neutral and professional\u2014no clutter, no personal photos visible, no distracting activity. The representative dresses according to the program dress code as if attending an in-person visit. Pets, children, and background noise are managed in advance.
 
-The call begins with a confirmation of the patient\u2019s identity and verbal re-consent to proceed. The structure mirrors an in-person visit: introduction, peer connection, listening, resource sharing, and follow-up planning. The representative pays attention to the patient\u2019s environment and demeanor through the camera and adjusts accordingly. If the patient appears distracted, uncomfortable, or emotionally overwhelmed, the representative offers to reschedule or shorten the call.
+The call begins with a confirmation of the patient identity and verbal re-consent to proceed. The structure mirrors an in-person visit: introduction, peer connection, listening, resource sharing, and follow-up planning. The representative pays attention to the patient\u2019s environment and demeanor through the camera and adjusts accordingly. If the patient appears distracted, uncomfortable, or emotionally overwhelmed, the representative offers to reschedule or shorten the call.
 
 Technical difficulties are handled gracefully. If the connection drops, the representative attempts to reconnect within five minutes. If reconnection fails, a follow-up call is placed within twenty-four hours to reschedule. No outreach activity is left unresolved without a documented attempt at follow-up.
 
@@ -666,21 +666,21 @@ Virtual visit documentation follows the same standards as in-person visits. Plat
 
 ## 6.4 Family Meetings
 
-Family meetings are offered when the patient requests them or when the referring partner or clinical team identifies that family involvement would benefit the patient\u2019s adjustment. Family members experience limb loss too\u2014they grieve, they worry, they don\u2019t know what to expect. Including them in the peer support conversation can make the difference between a supportive home environment and a fearful one.
+Family meetings are offered when the patient requests them or when the referring partner or clinical team identifies that family involvement would benefit the patient\u2019s adjustment. Family members experience limb loss too they grieve, they worry, they don\u2019t know what to expect. Including them in the peer support conversation can make the difference between a supportive home environment and a fearful one.
 
-Meetings may include the patient\u2019s spouse or partner, adult children, parents, siblings, or primary caregivers. The patient decides who participates. No family member is included without the patient\u2019s explicit consent. If a family member approaches the outreach representative separately, they are directed to discuss their interest with the patient first.
+Meetings may include the patient\u2019s spouse or partner, adult children, parents, siblings, or primary caregivers. The patient decides who participates. No family member is included without the patient  explicit consent. If a family member approaches the outreach representative separately, they are directed to discuss their interest with the patient first.
 
-The meeting structure varies by setting. In-hospital family meetings are brief\u2014fifteen to twenty minutes\u2014and focused on immediate concerns: what to expect after discharge, how to support the patient without overwhelming them, and what resources are available. Virtual family meetings may be longer and more comprehensive. In both cases, the outreach representative facilitates the conversation, not lectures. They answer questions, share their own experience from the family perspective when relevant, and provide written resources for caregivers.
+The meeting structure varies by setting. In-hospital family meetings are brief fifteen to twenty minuand focused on immediate concerns: what to expect after discharge, how to support the patient without overwhelming them, and what resources are available. Virtual family meetings may be longer and more comprehensive. In both cases, the outreach representative facilitates the conversation, not lectures. They answer questions, share their own experience from the family perspective when relevant, and provide written resources for caregivers.
 
 The representative does not mediate family conflicts, take sides, or disclose information the patient has shared in private. If a family member asks a question the representative cannot answer\u2014about medical prognosis, insurance coverage, or prosthetic options\u2014they direct the family member to the appropriate clinical provider and document the inquiry.
 
-Follow-up contact with family members occurs only with the patient\u2019s ongoing consent and through the patient. The patient remains the central point of contact at all times.
+Follow-up contact with family members occurs only with the patient ongoing consent and through the patient. The patient remains the central point of contact at all times.
 
 ## 6.5 Discharge Follow-Up
 
 Discharge follow-up is one of the highest-impact touchpoints in the patient engagement cycle. The transition from hospital to home is where many new amputees feel most alone. The structure and routine of the hospital are gone. The family has returned to work. The patient is left with a body that does not work the way it used to and a list of instructions they may or may not understand.
 
-Discharge follow-up contact occurs within seventy-two hours of the patient\u2019s discharge date. The Hospital Outreach Coordinator tracks discharge dates through partner referrals and patient self-reporting. If the discharge date is unknown, follow-up is scheduled for one week after the initial in-hospital or virtual visit.
+Discharge follow-up contact occurs within seventy-two hours of the patient discharge date. The Hospital Outreach Coordinator tracks discharge dates through partner referrals and patient self-reporting. If the discharge date is unknown, follow-up is scheduled for one week after the initial in-hospital or virtual visit.
 
 The follow-up contact checks on: how the patient is settling in at home, whether they have questions about their recovery or next steps, whether they have connected with a prosthetist or have an appointment scheduled, their emotional state and overall morale, and whether they are interested in additional peer support or community resources. This is not a clinical assessment. It is a friendly check-in from someone who knows what this transition feels like.
 
