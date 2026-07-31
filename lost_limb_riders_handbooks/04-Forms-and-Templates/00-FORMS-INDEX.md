@@ -2,8 +2,8 @@
 
 **Administrative & Program Forms**
 
-**Version:** 1.0  
-**Effective Date:** July 2026  
+**Version:** 1.0
+**Effective Date:** July 2026
 **Audience:** Staff, Volunteers, Participants
 
 ---
@@ -86,6 +86,7 @@ This directory contains all official forms, waivers, consent documents, and temp
 ## Form Use Guidelines
 
 ### For Participants
+
 - **Program Enrollment Form** — Complete at first participation
 - **Emergency Contact Form** — Required for all participants
 - **Liability Release** — Required before any activity
@@ -94,6 +95,7 @@ This directory contains all official forms, waivers, consent documents, and temp
 - **Feedback Form** — Complete after each program (optional)
 
 ### For Volunteers
+
 - **Volunteer Application** — Submit to apply
 - **Emergency Contact Form** — Required before first shift
 - **Liability Release** — Required before any activity
@@ -102,6 +104,7 @@ This directory contains all official forms, waivers, consent documents, and temp
 - **Feedback Form** — Complete after activities
 
 ### For Staff
+
 - **All forms above** — Maintain in participant/volunteer files
 - **Incident Report** — Complete within 24 hours of any incident
 - **Accessibility Accommodations** — Process and document all requests
@@ -112,6 +115,7 @@ This directory contains all official forms, waivers, consent documents, and temp
 ## Document Maintenance & Updates
 
 All forms should be reviewed annually and updated as:
+
 - Legal requirements change
 - Program policies evolve
 - New safety procedures are established
@@ -137,6 +141,7 @@ All forms should be reviewed annually and updated as:
 ## Contact for Form Issues
 
 For questions about:
+
 - **Enrollment** → Contact Program Coordinator
 - **Volunteer application** → Contact Volunteer Coordinator
 - **Accessibility/medical** → Contact Program Director
@@ -155,4 +160,3 @@ For questions about:
 - **Update forms annually** or when status changes
 
 ---
-

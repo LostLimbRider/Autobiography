@@ -11,6 +11,7 @@ Support executive operations, coordinate cross-department initiatives, manage sp
 ## Primary Responsibilities
 
 ### Cross-Department Coordination
+
 - Facilitate communication and collaboration between departments
 - Resolve conflicts and coordinate resource allocation
 - Manage inter-department projects and initiatives
@@ -18,6 +19,7 @@ Support executive operations, coordinate cross-department initiatives, manage sp
 - Support efficiency and eliminate silos
 
 ### Special Projects
+
 - Lead special organizational initiatives as assigned by Executive Director
 - Manage organizational changes and transitions
 - Coordinate new program launches or expansions
@@ -25,6 +27,7 @@ Support executive operations, coordinate cross-department initiatives, manage sp
 - Support strategic planning implementation
 
 ### Chapter Development Support
+
 - Support growth and development of local chapters
 - Provide resources and training to chapter leadership
 - Resolve chapter operational issues
@@ -32,6 +35,7 @@ Support executive operations, coordinate cross-department initiatives, manage sp
 - Track chapter performance and compliance
 
 ### Continuity Planning
+
 - Maintain documentation of critical operations
 - Know key operational procedures and relationships
 - Be prepared to step into Executive Director role as needed
@@ -39,6 +43,7 @@ Support executive operations, coordinate cross-department initiatives, manage sp
 - Cross-train on major operational functions
 
 ### Staff Support
+
 - Provide day-to-day support to Executive Director
 - Manage Executive Director's calendar and priorities
 - Represent Executive Director in meetings when appropriate
@@ -46,6 +51,7 @@ Support executive operations, coordinate cross-department initiatives, manage sp
 - Help coordinate Board meetings and retreats
 
 ### Operations Efficiency
+
 - Identify operational inefficiencies and improvements
 - Implement process improvements
 - Support technology and systems updates
@@ -73,6 +79,7 @@ Support executive operations, coordinate cross-department initiatives, manage sp
 ## Time Commitment
 
 Part-time to full-time (typically 30-40 hours weekly)
+
 - Includes staff meetings, Board meetings, project work, special initiatives
 - Availability for emergency response when Executive Director unavailable
 - Flexibility for increased hours during major projects or crisis
@@ -87,30 +94,35 @@ Part-time to full-time (typically 30-40 hours weekly)
 ## Success Measurements
 
 ### Cross-Department Collaboration
+
 - Departments report improved communication and coordination
 - Inter-department conflicts are resolved constructively
 - Projects involving multiple departments are completed on time
 - Staff report better understanding of organizational priorities
 
 ### Project Management
+
 - Special projects are completed on schedule and within scope
 - Stakeholders report satisfaction with project outcomes
 - New initiatives are effectively implemented
 - Documentation and learning are captured
 
 ### Operational Continuity
+
 - Critical operations are well-documented and understood
 - Organization can function effectively if Executive Director unavailable
 - Chapter support is timely and effective
 - Continuity procedures are in place and tested
 
 ### Executive Director Support
+
 - Executive Director reports satisfaction with operational support
 - Priorities are managed effectively; nothing falls through cracks
 - Executive Director has time for strategic work
 - Board meetings and special events are well-organized
 
 ### Staff Effectiveness
+
 - Staff report Deputy ED as accessible and helpful resource
 - Escalated issues are resolved appropriately
 - Cross-functional projects move forward
@@ -127,6 +139,7 @@ Part-time to full-time (typically 30-40 hours weekly)
 ## Authority & Decision‑Making
 
 The Deputy Executive Director holds authority to:
+
 - Manage day-to-day operations when Executive Director unavailable
 - Make time-sensitive operational decisions (with ED input when possible)
 - Approve routine expenditures within delegated limits
@@ -135,6 +148,7 @@ The Deputy Executive Director holds authority to:
 - Escalate issues appropriately
 
 The Deputy Executive Director does NOT hold authority to:
+
 - Make strategic decisions (Executive Director/Board function)
 - Hire/fire or discipline staff (Executive Director function)
 - Approve major expenditures (Executive Director/Board function)
@@ -145,6 +159,7 @@ The Deputy Executive Director does NOT hold authority to:
 ## When Executive Director Is Unavailable
 
 The Deputy Executive Director will:
+
 - Assume all Executive Director responsibilities
 - Make necessary operational decisions
 - Consult with Board Chairperson on major decisions
@@ -176,6 +191,7 @@ The Deputy Executive Director will:
 ## Potential Transition Path
 
 The Deputy Executive Director may be:
+
 - **Internal candidate for Executive Director role** — trained and prepared as successor
 - **Successor to specific department** — promoted to Director position
 - **Long-term operations role** — supporting Executive Director indefinitely
@@ -193,7 +209,7 @@ The organization should discuss career trajectory with Deputy ED and establish c
 
 ---
 
-**Document Version:** 1.0  
-**Last Updated:** [Date]  
-**Adopted By:** Board of Directors  
+**Document Version:** 1.0
+**Last Updated:** [Date]
+**Adopted By:** Board of Directors
 **Review Schedule:** Annually or upon organizational change

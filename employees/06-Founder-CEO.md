@@ -11,6 +11,7 @@ Protect the founding vision and public mission through strategic advocacy, major
 ## Primary Responsibilities
 
 ### Strategic Advocacy
+
 - Be the primary voice advocating for amputee and limb-difference community
 - Shape organizational strategy aligned with founding values
 - Represent the organization's mission to political leaders, healthcare systems, media
@@ -18,6 +19,7 @@ Protect the founding vision and public mission through strategic advocacy, major
 - Provide guidance on mission-critical decisions
 
 ### Partnership Development
+
 - Build and maintain relationships with major healthcare partners
 - Develop partnerships with rehabilitation centers, hospitals, prosthetics providers
 - Represent organization to potential major donors and sponsors
@@ -25,6 +27,7 @@ Protect the founding vision and public mission through strategic advocacy, major
 - Ensure partner relationships align with mission
 
 ### Public Engagement
+
 - Serve as primary public spokesperson for the organization
 - Give keynote speeches at conferences, events, and community forums
 - Represent organization to media and media inquiries
@@ -32,6 +35,7 @@ Protect the founding vision and public mission through strategic advocacy, major
 - Advocate for policy changes supporting amputees and limb-difference communities
 
 ### Culture & Leadership
+
 - Model organizational values and commitment to mission
 - Provide visionary leadership to inspire staff and volunteers
 - Ensure culture reflects commitment to community served
@@ -39,6 +43,7 @@ Protect the founding vision and public mission through strategic advocacy, major
 - Mentor executive staff and Board leadership
 
 ### Board Partnership
+
 - Provide strategic counsel to Board of Directors
 - Collaborate with Board on major organizational decisions
 - Support Board's fiduciary and governance responsibilities
@@ -46,6 +51,7 @@ Protect the founding vision and public mission through strategic advocacy, major
 - Support annual strategic planning process
 
 ### Personal Authenticity
+
 - Leverage personal lived experience (amputation, recovery, resilience) as organizational asset
 - Share story to inspire and motivate community
 - Maintain credibility and connection to community served
@@ -73,6 +79,7 @@ Protect the founding vision and public mission through strategic advocacy, major
 ## Time Commitment
 
 Board-approved; typically significant commitment including:
+
 - Major partnership meetings and relationship maintenance (10+ hours monthly)
 - Public speaking and media engagement (5-10 hours monthly)
 - Board meeting and strategic planning (4-6 hours monthly)
@@ -90,28 +97,33 @@ Board-approved; typically significant commitment including:
 ## Success Measurements
 
 ### Mission Integrity
+
 - Organization operates in alignment with founding vision
 - Community members recognize authentic commitment to their wellbeing
 - Staff and volunteers understand and embody mission values
 
 ### Strategic Partnerships
+
 - Major healthcare and community partnerships are active and productive
 - Partner feedback reflects positive relationship and mission alignment
 - Partnership outcomes benefit community served
 
 ### Public Visibility
+
 - Organization has positive presence in media and public conversation
 - Founder/CEO is recognized as credible advocate for community
 - Speaking engagements and advocacy opportunities increase
 - Donor and partner awareness of organization increases
 
 ### Leadership Impact
+
 - Board reports confidence in strategic leadership and vision
 - Staff reports inspiration and clarity of direction
 - Organizational culture reflects founder values and authenticity
 - Major initiatives move forward with strategic support
 
 ### Fundraising Support
+
 - Major donors cite founder's vision and authenticity as reason for giving
 - Partnership sponsorships are secured and renewed
 - Founder's network opens doors for development
@@ -129,6 +141,7 @@ Board-approved; typically significant commitment including:
 ## Authority & Decision‑Making
 
 The Founder/CEO holds authority to:
+
 - Set organizational strategic direction (with Board approval)
 - Represent organization to major partners and public
 - Negotiate major partnerships and sponsorships (Board approval for significant commitments)
@@ -137,6 +150,7 @@ The Founder/CEO holds authority to:
 - Approve significant organizational decisions (within Board‑delegated authority)
 
 The Founder/CEO does NOT hold authority to:
+
 - Make Board decisions (Board function; Founder/CEO provides input)
 - Override Board policy or governance decisions
 - Commit organization to agreements beyond delegated authority
@@ -147,12 +161,14 @@ The Founder/CEO does NOT hold authority to:
 ## Position Structure Options
 
 **Option 1: Founder/CEO & Executive Director Combined**
+
 - Single person holds both Founder/CEO and Executive Director roles
 - Focus on public mission and strategic advocacy
 - Direct staff supervision and operational management
 - Enhanced authority but increased time commitment
 
 **Option 2: Founder/CEO & Executive Director Separate**
+
 - Founder/CEO focuses on mission, advocacy, partnerships, culture
 - Executive Director manages daily operations and staff
 - Executive Director reports to Founder/CEO (or both report to Board)
@@ -169,6 +185,7 @@ The Founder/CEO does NOT hold authority to:
 ## Policies & Compliance
 
 The Founder/CEO must comply with:
+
 - Nonprofit governance laws and regulations
 - Board-adopted policies and governance standards
 - Board Code of Conduct and Conflict of Interest Policy
@@ -179,12 +196,14 @@ The Founder/CEO must comply with:
 ## Onboarding & Transition
 
 **For New Founder/CEO:**
+
 - Board establishes role clarity and expectations
 - Define decision-making authority and Board relationship
 - Establish performance measures and annual review process
 - Clarify time commitment and compensation (if applicable)
 
 **Succession Planning:**
+
 - Board develops plan for potential Founder/CEO transition
 - Identify key relationships and responsibilities for transition
 - Establish timeline and process for successor selection
@@ -192,7 +211,7 @@ The Founder/CEO must comply with:
 
 ---
 
-**Document Version:** 1.0  
-**Last Updated:** [Date]  
-**Adopted By:** Board of Directors  
+**Document Version:** 1.0
+**Last Updated:** [Date]
+**Adopted By:** Board of Directors
 **Review Schedule:** Annually or upon organizational change

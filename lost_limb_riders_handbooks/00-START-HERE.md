@@ -2,8 +2,8 @@
 
 **Complete Organizational Reference**
 
-**Version:** 1.0  
-**Effective Date:** July 2026  
+**Version:** 1.0
+**Effective Date:** July 2026
 **Last Updated:** July 24, 2026
 
 ---
@@ -17,11 +17,13 @@ This directory contains all official handbooks, operational manuals, governance 
 ## Directory Structure
 
 ### 1. Organization Handbook (Internal)
-**Directory:** `01-Organization-Handbook/`  
-**Audience:** Board Members, Executive Leadership, Senior Staff  
+
+**Directory:** `01-Organization-Handbook/`
+**Audience:** Board Members, Executive Leadership, Senior Staff
 **Primary File:** `00-ORGANIZATION-HANDBOOK.md`
 
 **Contains:**
+
 - Mission Statement & Three-Tier Framework
 - Corporate Bylaws & Legal Foundation
 - Governance Manual & Board Operations
@@ -39,11 +41,13 @@ This directory contains all official handbooks, operational manuals, governance 
 ---
 
 ### 2. Lost Limb Riders Member Handbook (Public)
-**Directory:** `02-Member-Handbook/`  
-**Audience:** Members, Participants, Volunteers, General Public  
+
+**Directory:** `02-Member-Handbook/`
+**Audience:** Members, Participants, Volunteers, General Public
 **Primary File:** `00-MEMBER-HANDBOOK.md`
 
 **Contains:**
+
 - Organization mission, vision, and values
 - Program overview and descriptions
 - Member benefits and community standards
@@ -59,7 +63,8 @@ This directory contains all official handbooks, operational manuals, governance 
 ---
 
 ### 3. Program Operational Manuals (Internal)
-**Directory:** `03-Program-Manuals/`  
+
+**Directory:** `03-Program-Manuals/`
 **Index File:** `00-PROGRAM-MANUALS-INDEX.md`
 
 **Contains Six Individual Program Manuals:**
@@ -78,10 +83,12 @@ This directory contains all official handbooks, operational manuals, governance 
 ---
 
 ### 4. Forms & Templates
-**Directory:** `04-Forms-and-Templates/`  
+
+**Directory:** `04-Forms-and-Templates/`
 **Index File:** `00-FORMS-INDEX.md`
 
 **Contains:**
+
 - Participant Release of Liability waiver
 - Documentation Style Guide
 - Index of forms with usage guidelines
@@ -96,21 +103,25 @@ This directory contains all official handbooks, operational manuals, governance 
 ## How to Navigate These Handbooks
 
 ### For Board Members & Executive Leadership
+
 1. Start with `01-Organization-Handbook/00-ORGANIZATION-HANDBOOK.md`
 2. Review relevant sections based on your committee or role
 3. Reference program manuals for operational context
 
 ### For Program Staff & Coordinators
+
 1. Review `02-Member-Handbook/` for public-facing program information
 2. Review `03-Program-Manuals/00-PROGRAM-MANUALS-INDEX.md` to find your program manual
 3. Reference `04-Forms-and-Templates/` for required forms and documentation
 
 ### For Volunteers
+
 1. Start with `02-Member-Handbook/` for organization overview
 2. Find your program in `03-Program-Manuals/` for volunteer guidelines
 3. Complete required forms from `04-Forms-and-Templates/`
 
 ### For New Members/Participants
+
 1. Read `02-Member-Handbook/00-MEMBER-HANDBOOK.md`
 2. Complete required forms from `04-Forms-and-Templates/`
 3. Contact the Program Coordinator for your program of interest
@@ -120,6 +131,7 @@ This directory contains all official handbooks, operational manuals, governance 
 ## Document Maintenance & Updates
 
 All handbooks and manuals should be reviewed annually and updated as:
+
 - Policies change
 - Programs evolve
 - New procedures are established
@@ -134,6 +146,7 @@ All handbooks and manuals should be reviewed annually and updated as:
 ## Questions & Support
 
 For questions about:
+
 - **Governance & Board matters** → Contact Board Chair or Executive Director
 - **Program operations** → Contact Program Director or Program Coordinator
 - **Volunteer assignments** → Contact Volunteer Coordinator
@@ -146,4 +159,3 @@ For questions about:
 - Version: 1.0 | Date: July 2026 | Changes: Initial consolidated handbook structure
 
 ---
-

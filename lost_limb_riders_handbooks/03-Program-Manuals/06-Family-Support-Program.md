@@ -40,16 +40,15 @@ If a participant expresses imminent intent to harm self or others, the volunteer
 
 Hospital visits require facility approval, participant consent, trained representatives, infection control compliance, and professional boundaries. Lost Limb Riders representatives must follow facility rules and never interfere with medical care.
 
-
 ## Board Review Items
 
 The following standards are recommended for immediate use and must be reviewed, amended if needed, and formally adopted by the Board of Directors before legal reliance or public implementation:
 
-* Final state registration requirements and charitable solicitation registrations.  
-* Final insurance limits, carrier requirements, and rider eligibility rules.  
-* Final background screening vendor and disqualifying criteria.  
-* Final financial approval limits after the first annual budget is approved.  
-* Final chapter territory map and national affiliation agreement.  
+* Final state registration requirements and charitable solicitation registrations.
+* Final insurance limits, carrier requirements, and rider eligibility rules.
+* Final background screening vendor and disqualifying criteria.
+* Final financial approval limits after the first annual budget is approved.
+* Final chapter territory map and national affiliation agreement.
 
 ## Legal Notice
 

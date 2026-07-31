@@ -2,8 +2,8 @@
 
 **Internal Document for Board Members and Executive Leadership**
 
-**Version:** 1.0  
-**Effective Date:** July 2026  
+**Version:** 1.0
+**Effective Date:** July 2026
 **Classification:** Internal - Board & Executive Use
 
 ---
@@ -41,9 +41,9 @@ All policies, procedures, and governance frameworks documented herein are bindin
 
 ## Lost Limb Riders — Document-Controlled Mission Statement
 
-**Version:** 1.0  
-**Effective Date:** July 22, 2026  
-**Next Review:** At board adoption or within 12 months, whichever is earlier  
+**Version:** 1.0
+**Effective Date:** July 22, 2026
+**Next Review:** At board adoption or within 12 months, whichever is earlier
 **Authority:** Corporate Bylaws, Section 2.01 (governing legal mission)
 
 ---
@@ -54,7 +54,7 @@ Lost Limb Riders maintains three tiers of mission language. Each tier serves a s
 
 ### Tier 1 — Legal Mission (Bylaws)
 
-**Source:** Corporate Bylaws, Section 2.01  
+**Source:** Corporate Bylaws, Section 2.01
 **Authority:** Highest. Controls all legal, tax, and governance purposes.
 
 > Lost Limb Riders supports amputees, people with disabilities, veterans, first responders, and their families through peer support, education, advocacy, community engagement, family support, adaptive recreation, and motorcycle‑related fellowship.
@@ -67,7 +67,7 @@ Lost Limb Riders maintains three tiers of mission language. Each tier serves a s
 
 ### Tier 2 — Public-Facing Mission
 
-**Source:** This document (Section 2.1)  
+**Source:** This document (Section 2.1)
 **Authority:** Approved public language. Use in all external communications, marketing, website, press, presentations, sponsorship materials, and donor communications.
 
 #### Section 2.1 — Mission Statement
@@ -80,13 +80,13 @@ Our vision is to become a trusted national model for post‑limb‑loss communit
 
 #### Section 2.3 — Core Values
 
-**Dignity** — Every person deserves to be seen as whole, capable, and worthy of respect.  
-**Brotherhood and Sisterhood** — We build real community through consistent presence and honest support.  
-**Courage** — We honor every act of progress, whether it happens in public or in private.  
-**Service** — We serve with humility and treat service as a privilege.  
-**Accountability** — We handle resources responsibly and communicate honestly.  
-**Inclusion** — The road is wide enough for all of us.  
-**Resilience** — People can rebuild after devastating change.  
+**Dignity** — Every person deserves to be seen as whole, capable, and worthy of respect.
+**Brotherhood and Sisterhood** — We build real community through consistent presence and honest support.
+**Courage** — We honor every act of progress, whether it happens in public or in private.
+**Service** — We serve with humility and treat service as a privilege.
+**Accountability** — We handle resources responsibly and communicate honestly.
+**Inclusion** — The road is wide enough for all of us.
+**Resilience** — People can rebuild after devastating change.
 **Authenticity** — We tell the truth about hardship and hope.
 
 #### Section 2.4 — Tagline
@@ -99,7 +99,7 @@ Our vision is to become a trusted national model for post‑limb‑loss communit
 
 ### Tier 3 — Operational Mission
 
-**Source:** This document (Section 3.1)  
+**Source:** This document (Section 3.1)
 **Authority:** Operational language for internal program documents, volunteer materials, SOPs, and program manuals.
 
 #### Section 3.1 — Operational Mission Statement
@@ -154,25 +154,25 @@ This folder contains the complete Lost Limb Riders nonprofit organizational infr
 
 ## Document Set
 
-1. Lost Limb Riders Corporate Governance Manual  
-2. Lost Limb Riders Administrative Operations Manual  
-3. Lost Limb Riders Volunteer Handbook  
-4. Lost Limb Riders Family Support Program Manual  
-5. Lost Limb Riders Safety and Risk Management Manual  
-6. Lost Limb Riders Financial Procedures Manual  
-7. Lost Limb Riders Chapter Development Manual  
-8. Lost Limb Riders Position Description Manual  
+1. Lost Limb Riders Corporate Governance Manual
+2. Lost Limb Riders Administrative Operations Manual
+3. Lost Limb Riders Volunteer Handbook
+4. Lost Limb Riders Family Support Program Manual
+5. Lost Limb Riders Safety and Risk Management Manual
+6. Lost Limb Riders Financial Procedures Manual
+7. Lost Limb Riders Chapter Development Manual
+8. Lost Limb Riders Position Description Manual
 
 ## Recommended Board Review Order
 
-1. Corporate Governance Manual  
-2. Administrative Operations Manual  
-3. Position Description Manual  
-4. Financial Procedures Manual  
-5. Safety and Risk Management Manual  
-6. Volunteer Handbook  
-7. Family Support Program Manual  
-8. Chapter Development Manual  
+1. Corporate Governance Manual
+2. Administrative Operations Manual
+3. Position Description Manual
+4. Financial Procedures Manual
+5. Safety and Risk Management Manual
+6. Volunteer Handbook
+7. Family Support Program Manual
+8. Chapter Development Manual
 
 ## Implementation Note
 
@@ -188,10 +188,10 @@ Lost Limb Riders exists to support amputees, limb‑different individuals, and t
 
 ## Chain of Command
 
-Board of Directors  
-Executive Leadership  
-Department Directors  
-Program Coordinators  
+Board of Directors
+Executive Leadership
+Department Directors
+Program Coordinators
 Volunteers and Members
 
 The Board governs mission, fiduciary duty, strategic direction, legal compliance, and executive accountability. Executive Leadership manages daily operations. Department Directors manage assigned operating areas. Program Coordinators execute approved programs. Volunteers and members serve within assigned roles, policies, and training requirements.
@@ -266,16 +266,15 @@ A conflict exists when personal, family, employment, financial, political, or or
 
 Directors must protect participant information, donor records, personnel matters, medical information, legal matters, investigations, financial account details, and nonpublic strategy. Confidentiality continues after service ends. Unauthorized disclosure may result in removal.
 
-
 ## Board Review Items
 
 The following standards are recommended for immediate use and must be reviewed, amended if needed, and formally adopted by the Board of Directors before legal reliance or public implementation:
 
-* Final state registration requirements and charitable solicitation registrations.  
-* Final insurance limits, carrier requirements, and rider eligibility rules.  
-* Final background screening vendor and disqualifying criteria.  
-* Final financial approval limits after the first annual budget is approved.  
-* Final chapter territory map and national affiliation agreement.  
+* Final state registration requirements and charitable solicitation registrations.
+* Final insurance limits, carrier requirements, and rider eligibility rules.
+* Final background screening vendor and disqualifying criteria.
+* Final financial approval limits after the first annual budget is approved.
+* Final chapter territory map and national affiliation agreement.
 
 ## Legal Notice
 
@@ -381,16 +380,15 @@ Official external communications must be accurate, respectful, mission‑aligned
 
 Every leadership role must maintain records, meet deadlines, follow budget limits, report problems early, treat participants with dignity, and support a culture of accountability without ego.
 
-
 ## Board Review Items
 
 The following standards are recommended for immediate use and must be reviewed, amended if needed, and formally adopted by the Board of Directors before legal reliance or public implementation:
 
-* Final state registration requirements and charitable solicitation registrations.  
-* Final insurance limits, carrier requirements, and rider eligibility rules.  
-* Final background screening vendor and disqualifying criteria.  
-* Final financial approval limits after the first annual budget is approved.  
-* Final chapter territory map and national affiliation agreement.  
+* Final state registration requirements and charitable solicitation registrations.
+* Final insurance limits, carrier requirements, and rider eligibility rules.
+* Final background screening vendor and disqualifying criteria.
+* Final financial approval limits after the first annual budget is approved.
+* Final chapter territory map and national affiliation agreement.
 
 ## Legal Notice
 
@@ -440,16 +438,15 @@ Lost Limb Riders should recognize volunteers through thank‑you notes, service 
 
 Concerns may result in coaching, retraining, reassignment, suspension, or dismissal. Serious misconduct, safety violations, harassment, confidentiality breaches, theft, impairment, or abuse may result in immediate removal.
 
-
 ## Board Review Items
 
 The following standards are recommended for immediate use and must be reviewed, amended if needed, and formally adopted by the Board of Directors before legal reliance or public implementation:
 
-* Final state registration requirements and charitable solicitation registrations.  
-* Final insurance limits, carrier requirements, and rider eligibility rules.  
-* Final background screening vendor and disqualifying criteria.  
-* Final financial approval limits after the first annual budget is approved.  
-* Final chapter territory map and national affiliation agreement.  
+* Final state registration requirements and charitable solicitation registrations.
+* Final insurance limits, carrier requirements, and rider eligibility rules.
+* Final background screening vendor and disqualifying criteria.
+* Final financial approval limits after the first annual budget is approved.
+* Final chapter territory map and national affiliation agreement.
 
 ## Legal Notice
 
@@ -499,16 +496,15 @@ If a participant expresses imminent intent to harm self or others, the volunteer
 
 Hospital visits require facility approval, participant consent, trained representatives, infection control compliance, and professional boundaries. Lost Limb Riders representatives must follow facility rules and never interfere with medical care.
 
-
 ## Board Review Items
 
 The following standards are recommended for immediate use and must be reviewed, amended if needed, and formally adopted by the Board of Directors before legal reliance or public implementation:
 
-* Final state registration requirements and charitable solicitation registrations.  
-* Final insurance limits, carrier requirements, and rider eligibility rules.  
-* Final background screening vendor and disqualifying criteria.  
-* Final financial approval limits after the first annual budget is approved.  
-* Final chapter territory map and national affiliation agreement.  
+* Final state registration requirements and charitable solicitation registrations.
+* Final insurance limits, carrier requirements, and rider eligibility rules.
+* Final background screening vendor and disqualifying criteria.
+* Final financial approval limits after the first annual budget is approved.
+* Final chapter territory map and national affiliation agreement.
 
 ## Legal Notice
 
@@ -558,16 +554,15 @@ Reportable incidents include injury, crash, medical emergency, threat, harassmen
 
 The Insurance/Risk Manager must maintain general liability, directors and officers coverage, volunteer coverage if available, event coverage, cyber coverage if needed, and any ride‑specific coverage recommended by the broker. Insurance certificates must be tracked for venues, partners, vendors, and chapters.
 
-
 ## Board Review Items
 
 The following standards are recommended for immediate use and must be reviewed, amended if needed, and formally adopted by the Board of Directors before legal reliance or public implementation:
 
-* Final state registration requirements and charitable solicitation registrations.  
-* Final insurance limits, carrier requirements, and rider eligibility rules.  
-* Final background screening vendor and disqualifying criteria.  
-* Final financial approval limits after the first annual budget is approved.  
-* Final chapter territory map and national affiliation agreement.  
+* Final state registration requirements and charitable solicitation registrations.
+* Final insurance limits, carrier requirements, and rider eligibility rules.
+* Final background screening vendor and disqualifying criteria.
+* Final financial approval limits after the first annual budget is approved.
+* Final chapter territory map and national affiliation agreement.
 
 ## Legal Notice
 
@@ -617,16 +612,15 @@ Monthly reports should include statement of activity, statement of financial pos
 
 The Board should approve an annual financial review process. When revenue reaches a board‑defined threshold or grant requirements demand it, Lost Limb Riders should obtain an independent review or audit.
 
-
 ## Board Review Items
 
 The following standards are recommended for immediate use and must be reviewed, amended if needed, and formally adopted by the Board of Directors before legal reliance or public implementation:
 
-* Final state registration requirements and charitable solicitation registrations.  
-* Final insurance limits, carrier requirements, and rider eligibility rules.  
-* Final background screening vendor and disqualifying criteria.  
-* Final financial approval limits after the first annual budget is approved.  
-* Final chapter territory map and national affiliation agreement.  
+* Final state registration requirements and charitable solicitation registrations.
+* Final insurance limits, carrier requirements, and rider eligibility rules.
+* Final background screening vendor and disqualifying criteria.
+* Final financial approval limits after the first annual budget is approved.
+* Final chapter territory map and national affiliation agreement.
 
 ## Legal Notice
 
@@ -672,16 +666,15 @@ National leadership may suspend or revoke a chapter for safety violations, finan
 
 Before national expansion accelerates, Lost Limb Riders should have adopted bylaws, insurance coverage, volunteer screening, chapter affiliation agreement, training modules, reporting forms, brand kit, financial controls, and incident response system.
 
-
 ## Board Review Items
 
 The following standards are recommended for immediate use and must be reviewed, amended if needed, and formally adopted by the Board of Directors before legal reliance or public implementation:
 
-* Final state registration requirements and charitable solicitation registrations.  
-* Final insurance limits, carrier requirements, and rider eligibility rules.  
-* Final background screening vendor and disqualifying criteria.  
-* Final financial approval limits after the first annual budget is approved.  
-* Final chapter territory map and national affiliation agreement.  
+* Final state registration requirements and charitable solicitation registrations.
+* Final insurance limits, carrier requirements, and rider eligibility rules.
+* Final background screening vendor and disqualifying criteria.
+* Final financial approval limits after the first annual budget is approved.
+* Final chapter territory map and national affiliation agreement.
 
 ## Legal Notice
 
@@ -869,16 +862,15 @@ Purpose: Manage insurance and organizational risk records. Responsibilities: cov
 
 Purpose: Coordinate safety standards across programs. Responsibilities: safety training, incident trend review, corrective action tracking, safety checklists. Required skills: risk awareness, training, documentation. Preferred experience: safety, emergency services, motorcycle safety, or event operations. Time commitment: three to eight hours weekly. Reports to: Executive Director or Legal and Risk Management lead. Success measurements: completed training, reduced incidents, documented corrective actions.
 
-
 ## Board Review Items
 
 The following standards are recommended for immediate use and must be reviewed, amended if needed, and formally adopted by the Board of Directors before legal reliance or public implementation:
 
-* Final state registration requirements and charitable solicitation registrations.  
-* Final insurance limits, carrier requirements, and rider eligibility rules.  
-* Final background screening vendor and disqualifying criteria.  
-* Final financial approval limits after the first annual budget is approved.  
-* Final chapter territory map and national affiliation agreement.  
+* Final state registration requirements and charitable solicitation registrations.
+* Final insurance limits, carrier requirements, and rider eligibility rules.
+* Final background screening vendor and disqualifying criteria.
+* Final financial approval limits after the first annual budget is approved.
+* Final chapter territory map and national affiliation agreement.
 
 ## Legal Notice
 
@@ -910,32 +902,31 @@ This index organizes the Lost Limb Riders Governance Framework for board review,
 
 ## Organizational Chart Summary
 
-Board of Directors  
-→ Standing Committees  
-→ Executive Director or Founder/CEO as appointed  
-→ Departments  
-→ Program Teams, Chapters, Volunteers, Riders, Members, and Participants  
+Board of Directors
+→ Standing Committees
+→ Executive Director or Founder/CEO as appointed
+→ Departments
+→ Program Teams, Chapters, Volunteers, Riders, Members, and Participants
 Advisory Board → non‑voting advice to Board and Executive Leadership
 
 ## Adoption Checklist
 
-Review with Iowa counsel.  
-Review with CPA.  
-Review with insurance professional.  
-Confirm Articles of Incorporation.  
-Confirm tax‑exemption strategy and IRS language.  
-Confirm whether the organization is non‑membership or membership‑based.  
-Approve bylaws first.  
-Approve governance policies.  
-Appoint officers and committees.  
-Collect signed board acknowledgments.  
-Establish records archive.  
+Review with Iowa counsel.
+Review with CPA.
+Review with insurance professional.
+Confirm Articles of Incorporation.
+Confirm tax‑exemption strategy and IRS language.
+Confirm whether the organization is non‑membership or membership‑based.
+Approve bylaws first.
+Approve governance policies.
+Appoint officers and committees.
+Collect signed board acknowledgments.
+Establish records archive.
 Schedule annual review.
 
 ## Mandatory Versus Recommended Practices
 
 Mandatory practices use shall, must, prohibited, or required. Recommended practices use should, may, or recommended. Legal counsel should confirm which recommended practices should become mandatory before adoption.
-
 
 ## Legal and Compliance Review Notice
 
@@ -1209,7 +1200,6 @@ The Board may use the latest edition of Robert’s Rules of Order Newly Revised 
 
 The Board should decide whether formal parliamentary authority is helpful for its size and culture before adoption.
 
-
 ## Legal and Compliance Review Notice
 
 This document is implementation‑ready for board review, revision, and adoption, but it is not legal, tax, accounting, insurance, medical, or financial advice. Any provision affected by Iowa nonprofit corporation law, federal tax exemption rules, charitable solicitation requirements, insurance obligations, employment law, privacy law, motorcycle event liability, or disability rights law must be reviewed by qualified Iowa counsel, a certified public accountant, and appropriate insurance professionals before final adoption.
@@ -1230,11 +1220,11 @@ Lost Limb Riders is governed by a volunteer Board of Directors that protects mis
 
 The governance model separates oversight from management.
 
-Board of Directors  
-Executive Officers  
-Executive Director or Founder/CEO when appointed by the Board  
-Department Directors  
-Program Coordinators  
+Board of Directors
+Executive Officers
+Executive Director or Founder/CEO when appointed by the Board
+Department Directors
+Program Coordinators
 Volunteers, riders, members, and participants
 
 The Board approves mission, bylaws, strategy, budgets, policies, executive appointments, financial controls, risk limits, chapter standards, and major commitments. Executive leadership manages daily work within those boundaries.
@@ -1275,18 +1265,18 @@ Departments may include Administration, Finance, Programs, Family Support, Volun
 
 ## 4. Organizational Chart
 
-Board of Directors  
-→ Executive Committee, Finance Committee, Governance Committee, Audit Committee if applicable, Fundraising Committee, Programs Committee, Safety and Risk Committee, Membership Committee  
-→ Executive Director or Founder/CEO as appointed  
-→ Administration and Records  
-→ Finance and Compliance  
-→ Programs and Family Support  
-→ Volunteer Services  
-→ Safety and Risk Management  
-→ Fundraising and Donor Relations  
-→ Communications and Public Engagement  
-→ Membership and Chapter Development  
-→ Local Chapters, Program Teams, Event Teams, Volunteers, Riders, and Participants  
+Board of Directors
+→ Executive Committee, Finance Committee, Governance Committee, Audit Committee if applicable, Fundraising Committee, Programs Committee, Safety and Risk Committee, Membership Committee
+→ Executive Director or Founder/CEO as appointed
+→ Administration and Records
+→ Finance and Compliance
+→ Programs and Family Support
+→ Volunteer Services
+→ Safety and Risk Management
+→ Fundraising and Donor Relations
+→ Communications and Public Engagement
+→ Membership and Chapter Development
+→ Local Chapters, Program Teams, Event Teams, Volunteers, Riders, and Participants
 Advisory Board → advises Board and Executive Leadership without voting authority
 
 ## 5. Decision Authority Matrix
@@ -1299,17 +1289,17 @@ Committee approval is limited to recommendations unless delegated by the Board.
 
 ## 6. Board Calendar
 
-January — annual officer election if not completed, conflict disclosures, policy review calendar.  
-February — budget confirmation and fundraising plan.  
-March — insurance and risk review.  
-April — program evaluation and accessibility review.  
-May — board recruitment assessment.  
-June — midyear financial review.  
-July — chapter and membership review.  
-August — safety training and event readiness review.  
-September — strategic planning.  
-October — budget development.  
-November — executive evaluation and committee evaluations.  
+January — annual officer election if not completed, conflict disclosures, policy review calendar.
+February — budget confirmation and fundraising plan.
+March — insurance and risk review.
+April — program evaluation and accessibility review.
+May — board recruitment assessment.
+June — midyear financial review.
+July — chapter and membership review.
+August — safety training and event readiness review.
+September — strategic planning.
+October — budget development.
+November — executive evaluation and committee evaluations.
 December — annual report, records archive, and next‑year priorities.
 
 ## 7. Required Governance Practices
@@ -1323,7 +1313,6 @@ The Board should maintain a skills matrix, conduct annual self‑assessment, rec
 ## 9. Cross‑References
 
 This manual should be read with the Corporate Bylaws, Board Member Handbook, Board Orientation Guide, Committee Charters, Conflict of Interest Policy, Code of Ethics, Board Code of Conduct, Confidentiality Policy, Whistleblower Policy, Document Retention and Destruction Policy, Records Management Policy, Non‑Discrimination Policy, and Accessibility and Inclusion Policy.
-
 
 ## Legal and Compliance Review Notice
 
@@ -1381,7 +1370,6 @@ Directors shall act with honesty, respect, accountability, inclusion, and courag
 
 A director who violates bylaws, policies, confidentiality, conflict rules, safety standards, or fiduciary duties may be subject to corrective action or removal under the bylaws.
 
-
 ## Legal and Compliance Review Notice
 
 This document is implementation‑ready for board review, revision, and adoption, but it is not legal, tax, accounting, insurance, medical, or financial advice. Any provision affected by Iowa nonprofit corporation law, federal tax exemption rules, charitable solicitation requirements, insurance obligations, employment law, privacy law, motorcycle event liability, or disability rights law must be reviewed by qualified Iowa counsel, a certified public accountant, and appropriate insurance professionals before final adoption.
@@ -1416,24 +1404,23 @@ New directors shall participate in a board meeting, contribute to committee work
 
 ## Orientation Agenda
 
-Mission and history  
-Who Lost Limb Riders serves  
-Governance structure  
-Board duties  
-Founder/CEO and Executive Director roles  
-Financial oversight  
-Safety and risk  
-Conflicts and confidentiality  
-Fundraising responsibilities  
-Accessibility and inclusion  
-Committee assignments  
-Annual calendar  
+Mission and history
+Who Lost Limb Riders serves
+Governance structure
+Board duties
+Founder/CEO and Executive Director roles
+Financial oversight
+Safety and risk
+Conflicts and confidentiality
+Fundraising responsibilities
+Accessibility and inclusion
+Committee assignments
+Annual calendar
 Questions and next steps
 
 ## Required Acknowledgments
 
 Each director must sign the Board Member Agreement, Conflict of Interest Disclosure, Confidentiality Acknowledgment, Code of Ethics Acknowledgment, Board Code of Conduct Acknowledgment, and Whistleblower Policy Acknowledgment.
-
 
 ## Legal and Compliance Review Notice
 
@@ -2046,7 +2033,6 @@ Meets at least quarterly.
 ### Reporting Obligations
 
 Reports membership trends, concerns, chapter needs, and inclusion barriers to the Board.
-
 
 ## Legal and Compliance Review Notice
 

@@ -11,6 +11,7 @@ Provide financial oversight and governance to ensure Lost Limb Riders' funds are
 ## Primary Responsibilities
 
 ### Financial Report Review
+
 - Review monthly financial statements and variance reports
 - Verify accuracy of income, expense, and fund balance reporting
 - Confirm reconciliations are complete and documented
@@ -18,6 +19,7 @@ Provide financial oversight and governance to ensure Lost Limb Riders' funds are
 - Recommend corrective action to Finance Director when needed
 
 ### Budget Governance
+
 - Support budget development process with Finance Committee
 - Present budget to Board with narrative explanation
 - Review quarterly budget vs. actual performance
@@ -25,6 +27,7 @@ Provide financial oversight and governance to ensure Lost Limb Riders' funds are
 - Recommend budget adjustments when necessary
 
 ### Finance Committee Leadership
+
 - Chair the Finance Committee (or co-chair with Finance Director)
 - Set committee meeting schedule and agenda
 - Ensure committee members understand their oversight role
@@ -32,6 +35,7 @@ Provide financial oversight and governance to ensure Lost Limb Riders' funds are
 - Facilitate communication between Finance Committee and Board
 
 ### Internal Controls
+
 - Confirm that financial procedures prevent fraud and loss
 - Verify that approval authorities are followed
 - Ensure segregation of duties (no single person with all approval authority)
@@ -39,6 +43,7 @@ Provide financial oversight and governance to ensure Lost Limb Riders' funds are
 - Recommend improvements to strengthen controls
 
 ### Audit Coordination
+
 - Prepare for external audits by organizing financial records
 - Communicate with auditors and Finance Director
 - Present audit findings to Board
@@ -46,6 +51,7 @@ Provide financial oversight and governance to ensure Lost Limb Riders' funds are
 - Support IRS Form 990 filing process
 
 ### Bank Relationships
+
 - Meet with bank representatives regarding account management
 - Review banking arrangements for efficiency and control
 - Oversee authorization of signatories and account access
@@ -72,6 +78,7 @@ Provide financial oversight and governance to ensure Lost Limb Riders' funds are
 ## Time Commitment
 
 6 to 10 hours monthly, including:
+
 - Monthly financial statement review (1-2 hours)
 - Finance Committee meeting attendance and leadership (2-3 hours monthly)
 - Board meeting preparation and attendance (2-3 hours per meeting)
@@ -88,26 +95,31 @@ Provide financial oversight and governance to ensure Lost Limb Riders' funds are
 ## Success Measurements
 
 ### Financial Oversight Quality
+
 - Board members report confidence in financial reports and Treasurer's explanations
 - No significant financial irregularities are discovered post-reporting
 - Budget vs. actual variances are identified and addressed timely
 
 ### Control Effectiveness
+
 - Internal controls are documented and followed consistently
 - No fraudulent transactions or policy violations are discovered
 - Audits reveal no or minimal findings
 
 ### Committee Performance
+
 - Finance Committee meets regularly and delivers quality reports to Board
 - Committee members understand their governance role
 - Financial concerns are escalated appropriately
 
 ### Audit Readiness
+
 - Financial records are organized and complete at audit time
 - Audits are completed on schedule
 - Audit findings are minimal and corrected promptly
 
 ### Board Confidence
+
 - Directors understand the organization's financial position
 - No Board members report confusion or concern about financial reporting
 - Treasurer's recommendations are implemented by Board
@@ -123,6 +135,7 @@ Provide financial oversight and governance to ensure Lost Limb Riders' funds are
 ## Authority & Decision‑Making
 
 The Treasurer holds authority to:
+
 - Request financial reports and information from Finance Director
 - Recommend approval or rejection of major expenditures
 - Call Finance Committee meetings and set agendas
@@ -130,6 +143,7 @@ The Treasurer holds authority to:
 - Recommend changes to financial procedures or controls
 
 The Treasurer does NOT hold authority to:
+
 - Approve expenditures independently (Board or Finance Committee function)
 - Access or move funds (Finance Director and authorized signatories only)
 - Hire, fire, or discipline finance staff (Executive Director and Board function)
@@ -139,6 +153,7 @@ The Treasurer does NOT hold authority to:
 ## Financial Governance Standards
 
 The Treasurer should understand and enforce:
+
 - **Segregation of Duties:** No single person approves, receives, and reconciles funds
 - **Two Signatures:** All checks over threshold amount require two authorized signatories
 - **Timely Reconciliation:** Bank accounts reconciled monthly and documented
@@ -159,6 +174,7 @@ The Treasurer should understand and enforce:
 ## Financial Review Workflow
 
 **Monthly (Post Closing):**
+
 - Receive and review financial statements
 - Verify accuracy of income, expenses, fund balances
 - Review bank reconciliations
@@ -166,11 +182,13 @@ The Treasurer should understand and enforce:
 - Report findings and questions to Finance Director
 
 **Quarterly:**
+
 - Present financial report to Board with variance analysis
 - Review budget vs. actual performance
 - Alert to any spending concerns or forecasting changes
 
 **Annually:**
+
 - Support budget development process
 - Present proposed budget to Board
 - Oversee audit coordination
@@ -178,6 +196,7 @@ The Treasurer should understand and enforce:
 - Review banking arrangements and signatory structure
 
 **As Needed:**
+
 - Special requests from Chairperson or Board
 - Financial crisis response or investigation
 - Major gift or grant accounting
@@ -197,20 +216,25 @@ The Treasurer should understand and enforce:
 ## Common Challenges & Solutions
 
 **Challenge:** Understanding financial reports as non-accountant
+
 - **Solution:** Finance Director explains methodology; request simplified presentations; ask questions; attend training
 
 **Challenge:** Board not understanding financial information
+
 - **Solution:** Present reports in plain language; highlight key metrics; explain variances clearly
 
 **Challenge:** Detecting potential fraud or mismanagement
+
 - **Solution:** Trust your instincts; ask Finance Director questions; consult Legal Advisor or auditor confidentially
 
 **Challenge:** Time commitment exceeds expectations
+
 - **Solution:** Delegate to Finance Committee; streamline reporting; use accounting software; support Finance Director to work efficiently
 
 ## Emergency Procedures
 
 In financial crisis:
+
 - Call immediate Finance Committee meeting
 - Request full accounting of situation from Finance Director
 - Consult with Legal Advisor and Chairperson
@@ -220,7 +244,7 @@ In financial crisis:
 
 ---
 
-**Document Version:** 1.0  
-**Last Updated:** [Date]  
-**Adopted By:** Board of Directors  
+**Document Version:** 1.0
+**Last Updated:** [Date]
+**Adopted By:** Board of Directors
 **Review Schedule:** Annually or upon organizational change

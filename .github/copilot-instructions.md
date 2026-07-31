@@ -33,11 +33,13 @@ The manuscript itself (26 files: outline, title, dedication, foreword, author's 
 ## Key Content Constraints
 
 ### Manuscript Word Count (Hard Requirements)
+
 - **Full manuscript target:** 15,000–20,000 words across 17 chapters
 - **Per-chapter minimum:** 1,200 words (exceeding is fine; being under is not)
 - **Check chapter length before considering content complete**
 
 ### Reedsy-Compatible Markdown (Hard Requirements)
+
 All manuscript content must survive copy-paste into Reedsy Studio without broken formatting:
 
 - **Chapter headings:** `# **Chapter X: Title**` (bold inside heading, not outside)
@@ -52,6 +54,7 @@ All manuscript content must survive copy-paste into Reedsy Studio without broken
 **Gotcha:** Back matter (Afterword, Acknowledgments, About the Author, Back Cover) uses plain `# Heading` format, not `# **Chapter X: Title**`.
 
 ### Keynote & Non-Manuscript Content
+
 - Keynote speeches use a different format (speech notes with audience/tone headers)
 - Do **not** apply manuscript chapter formatting rules to keynote files
 - Letters and other supporting content follow their own conventions (check existing files)
@@ -84,6 +87,7 @@ These characters recur throughout:
 ## No Build, Test, or Lint Commands
 
 This is a content repository. There are no automated builds, tests, or linters. Quality is maintained through:
+
 - Manual review of word count per chapter
 - Verification of Reedsy markdown compatibility (copy-paste test)
 - Tone consistency checks against `context.md`

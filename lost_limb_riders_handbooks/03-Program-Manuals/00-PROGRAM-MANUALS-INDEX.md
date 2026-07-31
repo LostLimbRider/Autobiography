@@ -2,8 +2,8 @@
 
 **Internal Operations Documentation**
 
-**Version:** 1.0  
-**Effective Date:** July 2026  
+**Version:** 1.0
+**Effective Date:** July 2026
 **Audience:** Program Coordinators, Operations Staff, Volunteers
 
 ---
@@ -62,4 +62,3 @@ All manuals should be reviewed and updated annually or when procedures change.
 - See **Organization Handbook** for governance and organizational structure
 - See **Member Handbook** for public-facing program descriptions
 - See **Forms Directory** for program-specific forms and templates
-

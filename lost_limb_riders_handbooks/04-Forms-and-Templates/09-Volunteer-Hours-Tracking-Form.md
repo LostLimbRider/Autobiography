@@ -1,14 +1,14 @@
 ## Lost Limb Riders Volunteer Hours Tracking Form
 
-**Version:** 1.0  
+**Version:** 1.0
 **Effective Date:** July 2026
 
 ---
 
 ## VOLUNTEER INFORMATION
 
-**Volunteer Name:** ____________________________________  
-**Volunteer ID:** ____________________________  
+**Volunteer Name:** ____________________________________
+**Volunteer ID:** ____________________________
 **Program:** ☐ Peer Connection ☐ Ride Forward ☐ Family Support ☐ Outreach ☐ Admin ☐ Other: ___________
 
 **Tracking Period:** ______________________________ to ______________________________
@@ -35,6 +35,7 @@
 **Total Hours Year-to-Date:** ___________________
 
 **Types of Activities (breakdown):**
+
 - Program participation hours: ___________________
 - Volunteer coordination/meetings: ___________________
 - Fundraising/events: ___________________
@@ -47,19 +48,19 @@
 
 **Primary focus this month:**
 
-________________________________________________________________
+---
 
 **Skills or training provided:**
 
-________________________________________________________________
+---
 
 **Challenges or concerns:**
 
-________________________________________________________________
+---
 
 **Recognition/achievements:**
 
-________________________________________________________________
+---
 
 ---
 
@@ -71,12 +72,12 @@ ________________________________________________________________
 
 **Comments:**
 
-________________________________________________________________
+---
 
 **Performance Rating:**
 ☐ Exceeds expectations ☐ Meets expectations ☐ Needs improvement
 
-**Signature:** ______________________________ 
+**Signature:** ______________________________
 
 ---
 
@@ -90,15 +91,15 @@ ________________________________________________________________
 
 **Primary Programs Supported:**
 
-________________________________________________________________
+---
 
 **Impact/Accomplishments:**
 
-________________________________________________________________
+---
 
 **Goals for Next Year:**
 
-________________________________________________________________
+---
 
 ---
 
@@ -110,9 +111,9 @@ ________________________________________________________________
 
 ## FOR ADMINISTRATIVE USE
 
-**Date Received:** ___________________  
-**Processed By:** ___________________  
-**Hours Entered Into System:** ☐ Yes ☐ No  
+**Date Received:** ___________________
+**Processed By:** ___________________
+**Hours Entered Into System:** ☐ Yes ☐ No
 
 **Recognition Milestone Reached?**
 ☐ 50 hours  ☐ 100 hours  ☐ 250 hours  ☐ 500 hours  ☐ 1,000 hours
@@ -122,4 +123,3 @@ ________________________________________________________________
 ---
 
 **Submit by the 5th of each month. File in volunteer personnel folder.**
-

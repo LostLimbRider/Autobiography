@@ -11,6 +11,7 @@ Lead board governance and protect mission accountability through effective meeti
 ## Primary Responsibilities
 
 ### Board Leadership
+
 - Set board meeting agendas in collaboration with Executive Leadership and committee chairs
 - Facilitate board meetings with clear structure, inclusive discussion, and decisive closure
 - Ensure all directors receive meeting materials at least five calendar days in advance
@@ -18,24 +19,28 @@ Lead board governance and protect mission accountability through effective meeti
 - Call emergency meetings when necessary with reasonable notice
 
 ### Committee Oversight
+
 - Ensure all standing committees (Governance, Finance, Programs, Safety and Risk, Fundraising, Chapter Development) function effectively
 - Confirm committee chairs provide regular reports to the full Board
 - Resolve conflicts or inefficiencies within committee structure
 - Monitor committee work against adopted governance standards
 
 ### Executive Relationship
+
 - Coordinate the annual executive performance review process for the CEO/Executive Director
 - Serve as primary liaison between the Board and Executive Leadership
 - Address governance or policy questions from executive staff with fairness and clarity
 - Provide counsel on executive transition planning and succession strategy
 
 ### Governance Integrity
+
 - Protect the Board's fiduciary duty to the organization and its mission
 - Ensure all Board decisions comply with bylaws, policies, and legal obligations
 - Enforce the Board Code of Conduct and Conflict of Interest Policy
 - Represent the Board in external communications when authorized
 
 ### Strategic Guidance
+
 - Advance the organization's long‑term mission and strategic direction
 - Participate in major partnership discussions and significant fundraising initiatives
 - Model personal commitment through financial contributions and fundraising support
@@ -61,6 +66,7 @@ Lead board governance and protect mission accountability through effective meeti
 ## Time Commitment
 
 6 to 12 hours monthly, including:
+
 - Preparation time before each quarterly or monthly board meeting
 - Board meeting attendance (typically 2-3 hours per meeting)
 - Committee coordination and leadership
@@ -78,26 +84,31 @@ Time commitment may increase during strategic planning, executive transition, or
 ## Success Measurements
 
 ### Board Effectiveness
+
 - Board meetings occur on schedule with proper notice and documentation
 - Meeting agendas are clear and focused; meetings end with defined action items
 - Directors report satisfaction with governance process and leadership
 
 ### Decision Quality
+
 - Board decisions are timely and align with organizational mission
 - Decisions receive proper documentation and follow‑up by responsible parties
 - Legal, ethical, and policy compliance is maintained
 
 ### Committee Performance
+
 - All standing committees meet regularly and deliver reports to the Board
 - Committee work contributes meaningfully to organizational strategy
 - Committee chairs coordinate effectively with Executive Leadership
 
 ### Board Accountability
+
 - Directors understand their fiduciary duties and fulfill their responsibilities
 - Conflicts of interest are properly disclosed and managed
 - Board members maintain confidentiality and support board decisions publicly
 
 ### Executive Partnership
+
 - Executive Director reports positive relationship with Board governance
 - Executive performance reviews are conducted annually and documented
 - Succession planning conversations are occurring proactively
@@ -113,6 +124,7 @@ Time commitment may increase during strategic planning, executive transition, or
 ## Authority & Decision‑Making
 
 The Chairperson holds decision‑making authority in these areas:
+
 - **Agenda Setting:** Set board meeting agendas (in consultation with Executive Leadership)
 - **Meeting Facilitation:** Direct meeting procedures and enforce governance standards
 - **Emergency Response:** Call emergency meetings and take preliminary action pending Board ratification
@@ -120,6 +132,7 @@ The Chairperson holds decision‑making authority in these areas:
 - **Interim Authority:** Represent the Board between meetings when urgent matters arise
 
 The Chairperson does NOT hold authority to:
+
 - Hire, fire, or discipline executive staff (Board function)
 - Approve budgets or major expenditures (Board and Finance Committee function)
 - Make unilateral organizational policy decisions (Board function)
@@ -129,6 +142,7 @@ The Chairperson does NOT hold authority to:
 ## Policies & Compliance
 
 The Chairperson must comply with:
+
 - Nonprofit governance laws of the state of incorporation
 - Lost Limb Riders bylaws and Board-adopted policies
 - Board Code of Conduct and Conflict of Interest Policy
@@ -164,20 +178,25 @@ The Chairperson must comply with:
 ## Common Challenges & Solutions
 
 **Challenge:** Balancing Board authority with Executive autonomy
+
 - **Solution:** Regular communication with Executive Director to clarify roles; annual governance review; clear policy documentation
 
 **Challenge:** Director disengagement or poor performance
+
 - **Solution:** Private conversation to understand barriers; offer support or resignation option; escalate to Board if necessary
 
 **Challenge:** Conflicting director opinions on major decisions
+
 - **Solution:** Facilitate full discussion; clarify facts and policy implications; explain why majority decision was made; ensure all voices heard before vote
 
 **Challenge:** Time management — governance work exceeds volunteer capacity
+
 - **Solution:** Delegate meeting logistics to staff; share responsibility with Vice Chairperson; clarify priorities; consider co-chair model if sustainable
 
 ## Emergency Procedures
 
 In event of:
+
 - **Executive Director vacancy:** Activate succession plan; call emergency board meeting; establish interim leadership
 - **Legal/financial crisis:** Consult with Legal Advisor and Treasurer immediately; emergency board convening
 - **Governance dispute:** Facilitate Board discussion; seek external governance consultation if needed
@@ -185,7 +204,7 @@ In event of:
 
 ---
 
-**Document Version:** 1.0  
-**Last Updated:** [Date]  
-**Adopted By:** Board of Directors  
+**Document Version:** 1.0
+**Last Updated:** [Date]
+**Adopted By:** Board of Directors
 **Review Schedule:** Annually or upon organizational change

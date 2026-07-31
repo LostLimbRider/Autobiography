@@ -2043,6 +2043,7 @@ Data collection enables the program to measure impact, identify trends, demonstr
 The program collects and reports on the following data elements:
 
 **Participant Demographics:**
+
 1. Number of participants served (total and by chapter)
 2. Age distribution
 3. Gender distribution
@@ -2053,6 +2054,7 @@ The program collects and reports on the following data elements:
 8. Referral source
 
 **Program Utilization:**
+
 1. Number of referrals received
 2. Number of intakes completed
 3. Number of active enrollments
@@ -2064,6 +2066,7 @@ The program collects and reports on the following data elements:
 9. Number of resource referrals made
 
 **Retention and Engagement:**
+
 1. Enrollment retention rate (30‑day, 90‑day, 6‑month, 12‑month)
 2. Participant withdrawal reasons
 3. Participant re‑enrollment rate
@@ -2071,6 +2074,7 @@ The program collects and reports on the following data elements:
 5. Documentation compliance rate
 
 **Outcomes:**
+
 1. Self‑reported isolation scores (pre and post)
 2. Self‑reported confidence scores (pre and post)
 3. Resource connection success rate
@@ -2079,6 +2083,7 @@ The program collects and reports on the following data elements:
 6. Crisis incidents and resolution outcomes
 
 **Volunteer and Mentor Data:**
+
 1. Number of volunteers recruited
 2. Number of mentors certified
 3. Mentor retention rate
@@ -2087,6 +2092,7 @@ The program collects and reports on the following data elements:
 6. Volunteer hours contributed
 
 **Community Impact:**
+
 1. Hospital partnerships established
 2. Community presentations delivered
 3. Media mentions and reach

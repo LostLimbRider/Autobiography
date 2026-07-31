@@ -11,6 +11,7 @@ Maintain complete and accurate official records of all Board actions, corporate 
 ## Primary Responsibilities
 
 ### Meeting Records
+
 - Attend all Board meetings and take comprehensive minutes
 - Document motions, seconds, votes, abstentions, and recusals
 - Record action items with assigned owner and deadline
@@ -19,6 +20,7 @@ Maintain complete and accurate official records of all Board actions, corporate 
 - Preserve minutes in permanent archive
 
 ### Corporate Records
+
 - Maintain the official director roster with contact information
 - Keep bylaws, adopted policies, and amendments in accessible format
 - Preserve Board resolutions and formal Board decisions
@@ -26,6 +28,7 @@ Maintain complete and accurate official records of all Board actions, corporate 
 - Manage incorporation documents and legal filings
 
 ### Notices & Compliance
+
 - Send proper notice of all Board meetings per bylaws
 - Document notice timing and method for compliance records
 - Maintain record of all Board meeting notices sent
@@ -33,12 +36,14 @@ Maintain complete and accurate official records of all Board actions, corporate 
 - Provide documentation to auditors or legal counsel as needed
 
 ### Board Communications
+
 - Communicate Board decisions and action items to Executive Leadership
 - Send director reminders of meetings, deadlines, and materials due
 - Document Board member contacts and emergency notification process
 - Maintain confidential information securely per Board agreement
 
 ### Policy Records
+
 - Archive all Board-approved policies in centralized location
 - Track policy adoption dates and amendment history
 - Provide directors access to current, authoritative policy versions
@@ -65,6 +70,7 @@ Maintain complete and accurate official records of all Board actions, corporate 
 ## Time Commitment
 
 4 to 8 hours monthly, including:
+
 - Board meeting attendance (2-3 hours per meeting)
 - Minute preparation and distribution (1-2 hours per meeting)
 - Record maintenance and archival (1-2 hours monthly)
@@ -80,26 +86,31 @@ Maintain complete and accurate official records of all Board actions, corporate 
 ## Success Measurements
 
 ### Documentation Accuracy
+
 - All Board minutes are complete, accurate, and distributed timely
 - Minutes are approved by Board without significant corrections
 - No missing or incomplete records
 
 ### Record Keeping
+
 - Official records are current, organized, and easily retrievable
 - All Board decisions are properly documented and filed
 - Compliance documentation complete and auditable
 
 ### Process Compliance
+
 - All Board meetings have proper notice per bylaws
 - Notice timing and method documented for compliance
 - Board resolutions formatted consistently and filed appropriately
 
 ### Director Satisfaction
+
 - Directors report confidence in record accuracy and completeness
 - No disputes over Board decision documentation
 - Minutes accurately reflect director concerns and positions
 
 ### Legal Readiness
+
 - Records are readily available to auditors, counsel, or regulatory bodies
 - All documentation meets nonprofit legal requirements
 - Confidential information properly protected
@@ -115,6 +126,7 @@ Maintain complete and accurate official records of all Board actions, corporate 
 ## Authority & Decision‑Making
 
 The Secretary holds authority to:
+
 - Determine format and content of meeting minutes (within governance standards)
 - Organize and file official records per adopted procedures
 - Deny improper requests for confidential Board records (per privacy policy)
@@ -122,6 +134,7 @@ The Secretary holds authority to:
 - Communicate Board decisions and actions as needed
 
 The Secretary does NOT hold authority to:
+
 - Make substantive changes to Board decisions or votes
 - Withhold public records improperly
 - Alter or destroy official records
@@ -131,6 +144,7 @@ The Secretary does NOT hold authority to:
 ## Policies & Compliance
 
 The Secretary must comply with:
+
 - Nonprofit governance laws of the state of incorporation
 - IRS Form 990 filing requirements and documentation standards
 - Lost Limb Riders bylaws and Board-adopted policies
@@ -149,6 +163,7 @@ The Secretary must comply with:
 ## Document Management System
 
 The Secretary should implement or maintain:
+
 - **Digital Archives:** Centralized storage for all Board minutes, resolutions, policies
 - **Access Controls:** Secure, confidential access to sensitive documents
 - **Version Control:** Clear dating and version tracking for all official documents
@@ -158,19 +173,23 @@ The Secretary should implement or maintain:
 ## Meeting Preparation Workflow
 
 **Five Days Before Meeting:**
+
 - Confirm meeting date/time with Chairperson and attendees
 - Prepare and circulate agenda and meeting materials
 
 **One Day Before Meeting:**
+
 - Confirm technology (video conferencing, recording if approved)
 - Prepare minute-taking materials and templates
 
 **During Meeting:**
+
 - Take comprehensive, accurate notes
 - Capture motions, votes, action items, and key discussion points
 - Record attendance and any recusals or abstentions
 
 **After Meeting:**
+
 - Draft minutes while meeting is fresh
 - Circulate draft to Chairperson for review
 - Make corrections per feedback
@@ -191,15 +210,19 @@ The Secretary should implement or maintain:
 ## Common Challenges & Solutions
 
 **Challenge:** Determining what to include in minutes (detail vs. brevity)
+
 - **Solution:** Board establishes minute-taking guidelines; Secretary uses judgment on key decisions and actions; detailed notes kept separately
 
 **Challenge:** Confidential information management
+
 - **Solution:** Clearly mark confidential items; restrict access to authorized directors only; separate storage for sensitive records
 
 **Challenge:** Handling conflicting accounts of Board discussion
+
 - **Solution:** Minutes should reflect what was decided, not who said what; Secretary's notes are official record; clarify with Chairperson if needed
 
 **Challenge:** Technology failures during virtual meetings
+
 - **Solution:** Have backup recording method; confirm minutes with participants afterward; test technology before meeting starts
 
 ## Emergency & Succession Procedures
@@ -211,7 +234,7 @@ The Secretary should implement or maintain:
 
 ---
 
-**Document Version:** 1.0  
-**Last Updated:** [Date]  
-**Adopted By:** Board of Directors  
+**Document Version:** 1.0
+**Last Updated:** [Date]
+**Adopted By:** Board of Directors
 **Review Schedule:** Annually or upon organizational change
