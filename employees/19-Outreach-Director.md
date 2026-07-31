@@ -1,4 +1,4 @@
-# Outreach Director — Position Manual
+## Outreach Director — Position Manual
 
 ## Position Overview
 

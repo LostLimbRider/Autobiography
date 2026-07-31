@@ -1,4 +1,4 @@
-# **Lost Limb Riders Handbook**
+## Lost Limb Riders Handbook
 
 ![Logo placeholder: Insert the official Lost Limb Riders logo here.](images/logo-placeholder.svg)
 
@@ -9,7 +9,7 @@
 
 ![Cover image placeholder: Founder standing beside a motorcycle with members of the Lost Limb Riders community in the background.](images/cover-community-placeholder.svg)
 
-## **How to Use This Handbook**
+## How to Use This Handbook
 
 This handbook is designed to introduce Lost Limb Riders with clarity, heart, and credibility. It explains who we are, why we exist, what we do, and how partners can stand with us. It is intended for board members, volunteers, donors, sponsors, hospitals, rehabilitation centers, prosthetic companies, motorcycle organizations, civic groups, media outlets, and every person who wants to understand the movement behind the name.
 
@@ -29,7 +29,7 @@ Board and staff names
 Contact information  
 Website and social media links  
 
-## **Table of Contents**
+## Table of Contents
 
 Cover Page  
 Letter from the Founder  
@@ -51,7 +51,7 @@ Appendix A: Image Placement Guide
 Appendix B: Partner One‑Sheet Copy  
 Appendix C: Volunteer Commitment Statement  
 
-# **Letter from the Founder**
+## Letter from the Founder
 
 ![Image placeholder: Founder portrait or founder with motorcycle.](images/founder-letter-placeholder.svg)
 
@@ -83,7 +83,7 @@ With respect and determination,
 Founder, Lost Limb Riders  
 **“I Can. I Will.”**
 
-# **Chapter 1: Our Story**
+## Chapter 1: Our Story
 
 ![Image placeholder: A quiet road at sunrise, symbolizing the beginning of a new journey.](images/chapter-1-road-placeholder.svg)
 
@@ -119,7 +119,7 @@ This organization is not built on the idea that every day is easy. It is built o
 
 Lost Limb Riders is the road after the wreck, the hand on the shoulder, the engine starting again, the family finding its breath, the volunteer making the call, the sponsor making services possible, and the amputee realizing that the future still has miles left in it.
 
-# **Chapter 2: The Reality of Limb Loss**
+## Chapter 2: The Reality of Limb Loss
 
 ![Image placeholder: Rehabilitation setting with adaptive equipment and a supportive coach.](images/chapter-2-recovery-placeholder.svg)
 
@@ -145,7 +145,7 @@ Lost Limb Riders recognizes the whole picture. We do not reduce people to their 
 
 The reality of limb loss is hard. But hard does not mean hopeless. With the right support, people can rebuild strength, identity, confidence, and purpose. They can return to work, ride again, speak openly, mentor others, lead families, serve communities, and live lives marked not by limitation, but by determination.
 
-# **Chapter 3: Why Lost Limb Riders Exists**
+## Chapter 3: Why Lost Limb Riders Exists
 
 ![Image placeholder: Group of riders and supporters gathered before an awareness ride.](images/chapter-3-group-placeholder.svg)
 
@@ -175,19 +175,19 @@ Lost Limb Riders is built for the person who needs a first conversation and for 
 
 The organization exists because healing should have witnesses. Rebuilding should have partners. Hope should have a name, a phone number, a meeting place, a ride route, a program calendar, and people ready to answer when someone reaches out.
 
-# **Chapter 4: Mission, Vision & Values**
+## Chapter 4: Mission, Vision & Values
 
 ![Image placeholder: Close‑up of hands, gloves, prosthetic components, or a patch reading “I Can. I Will.”](images/chapter-4-values-placeholder.svg)
 
-## **Mission Statement**
+## Mission Statement
 
 Lost Limb Riders exists to support amputees, limb‑different individuals, and their families through community, mentorship, public awareness, adaptive opportunities, and practical resources—including housing and independence advocacy—that restore hope, rebuild confidence, and remind every person that nobody is left behind and nobody stands alone.
 
-## **Vision Statement**
+## Vision Statement
 
 Our vision is to become a trusted national model for post‑limb‑loss community support—connecting amputees and families with peer encouragement, accessible programs, public education, and partnerships that help people live boldly, independently, and with renewed purpose.
 
-## **Core Values**
+## Core Values
 
 **Dignity**  
 Every person deserves to be seen as whole, capable, and worthy of respect. Limb loss changes a body, but it does not reduce a life.
@@ -215,7 +215,7 @@ We tell the truth about hardship and hope. We do not use polished language to hi
 
 These statements should guide every decision Lost Limb Riders makes. Programs, partnerships, events, speeches, media appearances, sponsorship packages, and volunteer training should all reflect the same foundation. If an opportunity helps restore dignity, reduce isolation, build confidence, educate the public, strengthen families, and move the mission forward, it belongs in the conversation. If it distracts from those priorities, it should be reconsidered.
 
-# **Chapter 5: The Lost Limb Riders Promise**
+## Chapter 5: The Lost Limb Riders Promise
 
 ![Image placeholder: Members standing together with arms around one another after an event.](images/chapter-5-promise-placeholder.svg)
 
@@ -243,7 +243,7 @@ The promise applies to volunteers and partners too. We will build a culture wher
 
 The Lost Limb Riders Promise is how we protect the soul of the organization as it grows. Growth can bring attention, money, events, and opportunity. Those things are useful only if they strengthen the mission. The promise keeps the focus where it belongs: on people.
 
-# **Chapter 6: Brotherhood and Sisterhood in Community**
+## Chapter 6: Brotherhood and Sisterhood in Community
 
 ![Image placeholder: Mixed group of amputees, families, riders, volunteers, and supporters at a community gathering.](images/chapter-6-community-placeholder.svg)
 
@@ -265,13 +265,13 @@ Brotherhood and sisterhood also mean shared responsibility. The founder can set 
 
 Lost Limb Riders should feel like a place where grit and tenderness can stand in the same room. A person can talk about pain and still laugh. They can be tough and still ask for help. They can be independent and still belong. They can ride, walk, roll, limp, lean, or arrive however they need to arrive—and still be fully part of the family.
 
-# **Chapter 7: Programs**
+## Chapter 7: Programs
 
 ![Image placeholder: Program collage with mentorship, events, hospital outreach, and adaptive activity images.](images/chapter-7-programs-placeholder.svg)
 
 Programs are how the mission becomes real. Each program should be designed with a clear purpose, simple intake process, defined audience, expected outcomes, and a path for future expansion. Lost Limb Riders can begin with manageable offerings and grow responsibly as funding, volunteers, partnerships, and community demand increase.
 
-## **Peer Connection Program**
+## Peer Connection Program
 
 **Purpose:** To reduce isolation by connecting amputees and limb‑different individuals with trained peers who understand the emotional and practical realities of the journey.
 
@@ -283,7 +283,7 @@ Programs are how the mission becomes real. Each program should be designed with 
 
 **Future expansion:** Formal mentor training, background checks where appropriate, hospital‑approved visitation protocols, regional peer groups, virtual support circles, and specialized groups for veterans, women, youth, parents, and caregivers.
 
-## **Family Support and Caregiver Awareness**
+## Family Support and Caregiver Awareness
 
 **Purpose:** To help families understand the limb‑loss journey and learn how to support loved ones without losing their own stability.
 
@@ -295,7 +295,7 @@ Programs are how the mission becomes real. Each program should be designed with 
 
 **Future expansion:** Caregiver workshops, family retreat days, school‑age education resources, spouse support circles, and partnerships with counselors or social workers.
 
-## **Ride Forward Program**
+## Ride Forward Program
 
 **Purpose:** To create visible, empowering events that help participants reconnect with freedom, movement, and community.
 
@@ -307,7 +307,7 @@ Programs are how the mission becomes real. Each program should be designed with 
 
 **Future expansion:** Annual signature rides, regional ride chapters, adaptive riding scholarships, safety partnerships, and media campaigns.
 
-## **Hospital and Prosthetic Partner Outreach**
+## Hospital and Prosthetic Partner Outreach
 
 **Purpose:** To provide trusted community support to patients and families during or after medical care.
 
@@ -319,7 +319,7 @@ Programs are how the mission becomes real. Each program should be designed with 
 
 **Future expansion:** Formal memorandums of understanding, facility presentations, discharge packet inserts, support videos, and regional referral networks.
 
-## **Emergency Assistance and Resource Navigation**
+## Emergency Assistance and Resource Navigation
 
 **Purpose:** To help individuals and families identify urgent needs and connect with available assistance.
 
@@ -332,7 +332,7 @@ Programs are how the mission becomes real. Each program should be designed with 
 **Future expansion:** Microgrant fund, partner referral network, case navigation volunteers, transportation partnerships, and emergency home accessibility support.
 
 
-## **Housing and Independence Advocacy**
+## Housing and Independence Advocacy
 
 **Purpose:** To ensure that no amputee faces a housing crisis alone when unsafe, inaccessible, or unstable housing threatens health, recovery, safety, or independence.
 
@@ -346,7 +346,7 @@ Programs are how the mission becomes real. Each program should be designed with 
 
 **Future expansion:** Accessible housing resource guides, landlord and housing provider education, partnerships with fair‑housing advocates and disability rights organizations, volunteer housing navigators, emergency relocation support when funding allows, and a referral network with HUD‑approved housing counselors, VA representatives, county agencies, legal aid providers, and nonprofit partners.
 
-## **Confidence Through Adaptive Activity**
+## Confidence Through Adaptive Activity
 
 **Purpose:** To help participants rediscover movement, recreation, and personal achievement.
 
@@ -358,7 +358,7 @@ Programs are how the mission becomes real. Each program should be designed with 
 
 **Future expansion:** Scholarship support, equipment partnerships, adaptive recreation calendar, youth opportunities, and annual challenge events.
 
-## **Volunteer Service Corps**
+## Volunteer Service Corps
 
 **Purpose:** To organize volunteers into reliable teams that support events, outreach, member care, fundraising, transportation, communications, and administration.
 
@@ -370,7 +370,7 @@ Programs are how the mission becomes real. Each program should be designed with 
 
 **Future expansion:** Leadership tracks, regional volunteer captains, online training, annual volunteer recognition, and emergency response teams for member support.
 
-# **Chapter 8: Speaking and Public Awareness**
+## Chapter 8: Speaking and Public Awareness
 
 ![Image placeholder: Founder speaking from a stage or in a school auditorium.](images/chapter-8-speaking-placeholder.svg)
 
@@ -378,69 +378,69 @@ Lost Limb Riders has a speaking mission because stories can open doors that stat
 
 The founder’s voice is central to this effort. A strong founder presentation can explain the personal journey, the reality of recovery, the creation of Lost Limb Riders, and the invitation for audiences to become part of the solution. The tone should be honest, grounded, and motivating. It should not sound rehearsed beyond recognition. It should sound like a real person telling the truth with purpose.
 
-## **Schools**
+## Schools
 
 School presentations can teach resilience, empathy, disability awareness, safe decision‑making, and respect for differences. Age‑appropriate programs may include the founder’s story, interactive questions, myths about amputees, bullying prevention, and the message that people are more than what happened to them.
 
-## **Businesses**
+## Businesses
 
 Business presentations can focus on resilience, workplace inclusion, leadership through adversity, accessibility, disability hiring awareness, and corporate social responsibility. These talks can also help employers understand how to support employees returning after injury or medical crisis.
 
-## **Churches and Faith Communities**
+## Churches and Faith Communities
 
 Faith communities are often places where people seek meaning after hardship. Lost Limb Riders can offer testimony‑style presentations, community support partnerships, volunteer opportunities, and practical ways congregations can serve families experiencing limb loss.
 
-## **Hospitals and Rehabilitation Centers**
+## Hospitals and Rehabilitation Centers
 
 Healthcare presentations should be professional, respectful, and collaborative. Topics may include the patient experience after discharge, the importance of peer connection, family stress, confidence rebuilding, and how community organizations can complement clinical care.
 
-## **Conferences and Civic Events**
+## Conferences and Civic Events
 
 Conference presentations can position Lost Limb Riders as a credible voice in disability inclusion, trauma recovery, nonprofit leadership, adaptive recreation, and community resilience. Civic groups can be invited to sponsor programs, host drives, volunteer, or connect the organization with local leaders.
 
-## **Motorcycle Events**
+## Motorcycle Events
 
 Motorcycle events are natural spaces for awareness and fundraising. The message should honor riding culture while making clear that Lost Limb Riders is about service. Riders understand the road. Lost Limb Riders asks them to help make sure nobody travels the hardest miles alone.
 
-## **Veterans Organizations**
+## Veterans Organizations
 
 Veterans may connect deeply with themes of service, injury, brotherhood, identity, and mission after trauma. Presentations should respect military experience without assuming all veterans share the same story. Partnerships can include peer support, events, adaptive activity, and family outreach.
 
 Every speaking engagement should end with a clear invitation: volunteer, sponsor, refer, host, donate, attend, or share the mission. Awareness is valuable, but action is what turns a speech into impact.
 
-# **Chapter 9: Events**
+## Chapter 9: Events
 
 ![Image placeholder: Event registration table with volunteers greeting attendees.](images/chapter-9-events-placeholder.svg)
 
 Events give the public a way to experience the mission. They create connection, visibility, fundraising, volunteer engagement, and media opportunities. A strong event calendar should include both signature events and smaller gatherings that keep the community connected throughout the year.
 
-## **Ride Forward**
+## Ride Forward
 
 Ride Forward should become the signature event of Lost Limb Riders. It can be designed as an annual awareness ride and community gathering that brings together amputees, families, riders, sponsors, medical partners, local businesses, and supporters. The event should include a safe ride route, registration, sponsor recognition, program displays, food, music, founder remarks, participant stories, and a call to action.
 
 The emotional goal is simple: people should leave feeling like they witnessed resilience in motion. The practical goal is equally important: raise funds for programs, recruit volunteers, build partnerships, and connect new participants to support.
 
-## **Fundraisers**
+## Fundraisers
 
 Fundraisers may include benefit dinners, raffles where legal, auctions, motorcycle nights, restaurant partnerships, merchandise campaigns, golf outings, fitness challenges, and online giving campaigns. Each fundraiser should clearly state what the money supports. Donors give more confidently when they understand the impact.
 
-## **Awareness Rides**
+## Awareness Rides
 
 Smaller awareness rides can be held throughout the year in partnership with motorcycle clubs, dealerships, veterans groups, or local businesses. These rides should include safety planning, route coordination, volunteer roles, and a brief mission moment.
 
-## **Family Events**
+## Family Events
 
 Family‑friendly events are essential because limb loss affects households. Picnics, cookouts, holiday gatherings, adaptive recreation days, and resource fairs can help families connect outside clinical settings. These events should be accessible, welcoming, and low pressure.
 
-## **Volunteer Opportunities**
+## Volunteer Opportunities
 
 Volunteer events can include packet assembly days, facility cleanup, fundraising calls, hospital kit preparation, accessibility projects, sponsor outreach, and community service days. Volunteers stay engaged when they can see how their time directly supports people.
 
-## **Event Standards**
+## Event Standards
 
 Every event should have a clear purpose, written plan, accessibility review, safety plan, budget, sponsor package, volunteer assignments, registration process, photography consent process, and follow‑up plan. Events should never depend on memory alone. A production‑ready organization documents what works so it can repeat and improve.
 
-# **Chapter 10: Corporate Partnerships**
+## Chapter 10: Corporate Partnerships
 
 ![Image placeholder: Sponsor banner at a ride or community event.](images/chapter-10-partnerships-placeholder.svg)
 
@@ -448,25 +448,25 @@ Corporate partnerships allow companies to invest in a mission that is visible, h
 
 Companies should work with Lost Limb Riders because the mission is authentic. It is led by lived experience. It serves a real need. It connects healthcare, disability awareness, mental health, family support, veteran communities, motorcycle culture, and local service. It provides opportunities for employee engagement, community goodwill, storytelling, and measurable impact.
 
-## **Partnership Benefits**
+## Partnership Benefits
 
 Sponsors can receive recognition through event signage, website placement, social media mentions, printed materials, newsletters, press releases, speaking events, merchandise, and on‑site acknowledgments. Higher‑level partners may be invited to sponsor specific programs, underwrite transportation support, fund peer mentorship training, support hospital outreach materials, sponsor adaptive activity days, or become presenting sponsors for Ride Forward.
 
-## **Community Impact**
+## Community Impact
 
 Corporate dollars can support direct services such as peer connection, family support, emergency assistance, program materials, awareness campaigns, volunteer training, event accessibility, and resource navigation. The organization should communicate impact through stories, numbers, photographs, and annual reporting.
 
-## **Ideal Partners**
+## Ideal Partners
 
 Ideal partners may include prosthetic companies, hospitals, rehabilitation centers, motorcycle dealerships, motorcycle gear companies, adaptive equipment providers, insurance agencies, law firms, construction companies, healthcare systems, veteran‑owned businesses, banks, credit unions, restaurants, civic organizations, and corporations with disability inclusion priorities.
 
-## **Sponsor Philosophy**
+## Sponsor Philosophy
 
 Lost Limb Riders should treat sponsors as mission partners, not just logos. Sponsors should understand the people behind the cause. They should be thanked consistently, invited to events, shown the impact of their support, and given clear opportunities to continue involvement. At the same time, the organization must protect its integrity. Not every dollar is worth accepting if a partnership conflicts with the mission or compromises trust.
 
 A strong partnership program should answer three questions for every company: What problem are we helping solve? What exactly will our support make possible? How will we know it mattered?
 
-# **Chapter 11: Financial Stewardship**
+## Chapter 11: Financial Stewardship
 
 ![Image placeholder: Treasurer or board member reviewing program materials and budget notes.](images/chapter-11-stewardship-placeholder.svg)
 
@@ -484,35 +484,35 @@ Financial communication should be plainspoken. Donors should not need a finance 
 
 Stewardship is also emotional. When someone gives to Lost Limb Riders, they are often giving because the mission touches something personal: a loved one, a veteran, a rider, a survivor, a patient, or their own memory of hardship. The organization must honor that trust. Every dollar should be treated as a tool for service.
 
-# **Chapter 12: Five‑Year Vision**
+## Chapter 12: Five‑Year Vision
 
 ![Image placeholder: Road map graphic showing year‑by‑year growth milestones.](images/chapter-12-vision-placeholder.svg)
 
 Five years from now, Lost Limb Riders should be known as a trusted, visible, and deeply human resource for amputees, families, and partners. The organization should still feel personal, but it should operate with enough structure to serve consistently.
 
-## **Year One: Foundation**
+## Year One: Foundation
 
 The first year should focus on identity, organization, and pilot programs. Priorities include finalizing mission materials, forming or strengthening the board, building volunteer roles, launching the handbook, creating referral materials, hosting introductory events, building social media presence, developing sponsor packets, and piloting peer connection.
 
-## **Year Two: Community Growth**
+## Year Two: Community Growth
 
 The second year should expand outreach. Lost Limb Riders should deepen relationships with hospitals, prosthetic providers, motorcycle groups, veterans organizations, churches, and local businesses. Ride Forward should become a recognizable annual event. Volunteer training should become more formal. Participant stories should be documented with consent.
 
-## **Year Three: Program Strength**
+## Year Three: Program Strength
 
 By year three, programs should have clearer data and repeatable systems. The organization should track referrals, event attendance, volunteer hours, assistance provided, partner relationships, funds raised, and participant feedback. This information will strengthen grant applications and sponsor renewals.
 
-## **Year Four: Regional Reach**
+## Year Four: Regional Reach
 
 By year four, Lost Limb Riders can consider regional chapters, ambassador programs, virtual support groups, expanded adaptive activity partnerships, and stronger media outreach. Growth should be careful. Chapters should not launch without leadership standards, safety guidelines, financial controls, and brand consistency.
 
-## **Year Five: Recognized Model**
+## Year Five: Recognized Model
 
 By year five, Lost Limb Riders should be positioned as a model for community‑based limb‑loss support. The organization should have a stable donor base, annual report, signature event, trained volunteers, established partners, repeatable programs, and a clear path for the next five years.
 
 The five‑year vision is not about becoming big for the sake of being big. It is about becoming strong enough to keep promises. If Lost Limb Riders grows, it should grow in depth, trust, and impact.
 
-# **Chapter 13: Founder Biography**
+## Chapter 13: Founder Biography
 
 ![Image placeholder: Professional founder headshot.](images/chapter-13-founder-headshot-placeholder.svg)
 
@@ -542,7 +542,7 @@ Email: [Insert email]
 Phone: [Insert phone]  
 Social media: [Insert handles]  
 
-# **Chapter 14: Call to Action**
+## Chapter 14: Call to Action
 
 ![Image placeholder: Open road with riders moving forward together.](images/chapter-14-call-to-action-placeholder.svg)
 
@@ -568,7 +568,7 @@ Nobody Stands Alone.
 
 I Can. I Will.
 
-## **Appendix A: Image Placement Guide**
+## Appendix A: Image Placement Guide
 
 Use high‑resolution images whenever possible. Avoid images that feel staged, exploitative, or overly polished. The visual identity should feel strong, honest, warm, and real.
 
@@ -589,7 +589,7 @@ Use high‑resolution images whenever possible. Avoid images that feel staged, e
 **Founder Biography:** Professional headshot.  
 **Call to Action:** Open road image.
 
-## **Appendix B: Partner One‑Sheet Copy**
+## Appendix B: Partner One‑Sheet Copy
 
 Lost Limb Riders supports amputees, limb‑different individuals, and their families through community, mentorship, public awareness, adaptive opportunities, and practical resources. Founded from lived experience, the organization exists to reduce isolation, rebuild confidence, and make sure nobody faces the journey of limb loss alone.
 
@@ -611,7 +611,7 @@ Support emergency assistance and adaptive opportunities
 
 **Contact:** [Insert contact information]
 
-## **Appendix C: Volunteer Commitment Statement**
+## Appendix C: Volunteer Commitment Statement
 
 As a Lost Limb Riders volunteer, I understand that this organization serves people who may be navigating pain, trauma, grief, uncertainty, and major life transition. I agree to treat every person with dignity, respect, compassion, and confidentiality. I will show up when I commit, communicate when I cannot, follow safety guidelines, respect leadership decisions, and protect the reputation and mission of Lost Limb Riders.
 

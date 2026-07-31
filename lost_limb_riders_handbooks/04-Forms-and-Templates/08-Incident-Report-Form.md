@@ -1,4 +1,4 @@
-# Lost Limb Riders Incident Report Form
+## Lost Limb Riders Incident Report Form
 
 **Version:** 1.0  
 **Effective Date:** July 2026

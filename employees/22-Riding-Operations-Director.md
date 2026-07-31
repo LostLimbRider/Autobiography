@@ -1,4 +1,4 @@
-# Riding Operations Director — Position Manual
+## Riding Operations Director — Position Manual
 
 ## Position Overview
 

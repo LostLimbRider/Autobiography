@@ -1,4 +1,4 @@
-# Bookkeeper — Position Manual
+## Bookkeeper — Position Manual
 
 ## Position Overview
 

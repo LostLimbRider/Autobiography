@@ -1,4 +1,4 @@
-# Membership Coordinator — Position Manual
+## Membership Coordinator — Position Manual
 
 ## Position Overview
 

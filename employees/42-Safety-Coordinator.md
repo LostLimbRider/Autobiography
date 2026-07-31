@@ -1,4 +1,4 @@
-# Safety Coordinator — Position Manual
+## Safety Coordinator — Position Manual
 
 ## Position Overview
 

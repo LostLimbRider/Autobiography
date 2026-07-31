@@ -1,4 +1,4 @@
-# Lost Limb Riders Program Enrollment Form
+## Lost Limb Riders Program Enrollment Form
 
 **Version:** 1.0  
 **Effective Date:** July 2026

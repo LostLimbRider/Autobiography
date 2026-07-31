@@ -1,4 +1,4 @@
-# Lost Limb Riders Handbooks & Operations Documentation
+## Lost Limb Riders Handbooks & Operations Documentation
 
 **Complete Organizational Reference**
 
@@ -143,9 +143,7 @@ For questions about:
 
 ## Version Control
 
-| Version | Date | Changes |
-|---------|------|---------|
-| 1.0 | July 2026 | Initial consolidated handbook structure |
+- Version: 1.0 | Date: July 2026 | Changes: Initial consolidated handbook structure
 
 ---
 

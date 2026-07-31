@@ -1,4 +1,4 @@
-# Lost Limb Riders Family Support Program Manual
+## Lost Limb Riders Family Support Program Manual
 
 ## Purpose
 

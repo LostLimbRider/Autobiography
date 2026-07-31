@@ -1,4 +1,4 @@
-# Lost Limb Riders Accessibility Accommodations Request Form
+## Lost Limb Riders Accessibility Accommodations Request Form
 
 **Version:** 1.0  
 **Effective Date:** July 2026

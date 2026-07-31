@@ -1,4 +1,4 @@
-# Membership Director — Position Manual
+## Membership Director — Position Manual
 
 ## Position Overview
 

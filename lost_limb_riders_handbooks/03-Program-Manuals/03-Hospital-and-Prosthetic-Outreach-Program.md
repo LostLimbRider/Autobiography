@@ -1,4 +1,4 @@
-# Lost Limb Riders
+## Lost Limb Riders
 ## Hospital and Prosthetic Partner Outreach
 ### Administrative Operations Manual
 
@@ -8,7 +8,7 @@
 
 ---
 
-# Section 1: Program Foundation
+## Section 1: Program Foundation
 
 ## 1.1 Mission and Purpose
 
@@ -111,7 +111,7 @@ Lost Limb Riders is a peer support and community connection organization. We are
 
 All outreach representatives must clearly communicate these limitations to partners and patients.
 
-# Section 2: Healthcare Partnership Framework
+## Section 2: Healthcare Partnership Framework
 
 ## 2.1 Hospitals
 
@@ -287,7 +287,7 @@ Community health organizations include federally qualified health centers, commu
 - Annual review of partnership activities and outcomes
 - Cultural competence training for outreach representatives serving diverse communities
 
-# Section 3: Organizational Structure
+## Section 3: Organizational Structure
 
 ## 3.1 Director of Medical Partnerships
 
@@ -406,7 +406,7 @@ Program Volunteers
 - Significant partnership developments, compliance concerns, or patient safety issues must be escalated immediately to the Director of Medical Partnerships
 - Communication with healthcare partners must be professional, consistent, and documented in the program database
 
-# Section 4: Partner Onboarding and Documentation
+## Section 4: Partner Onboarding and Documentation
 
 ## 4.1 Initial Contact Procedure
 
@@ -516,7 +516,7 @@ Outreach representatives who enter healthcare facilities must comply with facili
 
 The Hospital Outreach Coordinator maintains credentialing records for all active outreach representatives and ensures compliance with each facility\u2019s requirements. Expired credentials result in suspension of facility access until renewed.
 
-# Section 5: Training and Quality Assurance
+## Section 5: Training and Quality Assurance
 
 ## 5.1 Initial Training Requirements
 
@@ -624,7 +624,7 @@ Program policies and procedures are reviewed annually and updated as needed. Upd
 
 All policy updates are documented with version history and communicated to active outreach representatives and healthcare partners.
 
-# Section 6: Patient Engagement
+## Section 6: Patient Engagement
 
 ## 6.1 Initial Contact Standards
 
@@ -700,7 +700,7 @@ The thirty-, sixty-, and ninety-day follow-ups form a structured check-in sequen
 
 All follow-up contacts are documented in the program database within forty-eight hours. Documentation includes: date of contact, method, patient-reported status, any concerns or barriers identified, resources or referrals provided, and the patient\u2019s expressed interest in ongoing engagement. If a patient cannot be reached after three attempts across two weeks, the record is marked \u201clost to follow-up\u201d and no further contact attempts are made unless the patient initiates contact.
 
-# Section 7: Prosthetic Clinic Collaboration
+## Section 7: Prosthetic Clinic Collaboration
 
 ## 7.1 Communication with Prosthetists
 
@@ -762,7 +762,7 @@ For non-riding adaptive activities, the representative maintains a directory of 
 
 Group events are the ultimate goal. Attending a Lost Limb Riders event connects the patient with dozens of amputees who are living full, active lives. The representative personally invites the patient to at least one event within ninety days of initial contact and offers to accompany them as a point of contact at the event.
 
-# Section 8: Volunteer Requirements
+## Section 8: Volunteer Requirements
 
 ## 8.1 Healthcare Professionalism Standards
 
@@ -862,7 +862,7 @@ Completion deadlines are set by the Director of Medical Partnerships and communi
 
 Training records are maintained by the Hospital Outreach Coordinator. Records include: date of completion, modules completed, assessment scores, and any remedial training required. Representatives who score below eighty percent on the knowledge assessment must complete remedial training within thirty days.
 
-# Section 9: Confidentiality and Privacy
+## Section 9: Confidentiality and Privacy
 
 ## 9.1 Confidentiality Agreements
 
@@ -936,7 +936,7 @@ Patient photographs and testimonials for program promotion are obtained only thr
 
 Violations of social media restrictions are treated as confidentiality breaches and addressed according to the incident reporting procedure in Section 5.4.
 
-# Section 10: Hospital Visit Procedures
+## Section 10: Hospital Visit Procedures
 
 ## 10.1 Scheduling
 
@@ -1032,7 +1032,7 @@ All escalations are documented in the program database with the date, nature of 
 
 **Media inquiries.** If a member of the media contacts an outreach representative about program activities, the representative does not comment. They take the media member\u2019s contact information and refer the inquiry to the Lost Limb Riders Executive Director. No exceptions. Media contact, like patient privacy, requires central coordination to ensure accurate and appropriate representation.
 
-# Section 11: Crisis Management
+## Section 11: Crisis Management
 
 ## 11.1 Mental Health Concerns
 
@@ -1110,7 +1110,7 @@ Outreach representatives are mandatory reporters for certain categories of harm.
 
 Representatives who make a report in good faith are protected from civil and criminal liability under state law. Representatives who fail to report when required may face legal consequences and will be subject to program disciplinary action, including termination of their role.
 
-# Section 12: Educational Resources
+## Section 12: Educational Resources
 
 ## 12.1 Patient Information Packets
 
@@ -1178,7 +1178,7 @@ Coordination with hospital discharge planners is essential for successful insert
 
 The Hospital Outreach Coordinator maintains a list of which partner facilities use the inserts and how they are distributed. Inserts are delivered to each facility in bulk, typically in quantities of five hundred. Facilities reorder through their program point of contact. Insert content is reviewed annually and updated if needed to reflect current contact information or program offerings.
 
-# Section 13: Community Resource Network
+## Section 13: Community Resource Network
 
 ## 13.1 Housing Resources
 
@@ -1272,7 +1272,7 @@ Benefits counseling is a critical service. Many veterans are not aware of the fu
 
 Representatives ask every patient who is a veteran whether they are connected to VA healthcare and VA benefits. If the veteran is not connected, the representative offers the veteran services directory and explains the benefits of establishing VA eligibility. Representatives do not complete VA forms, submit claims, or provide benefits advice. Veterans who need claims assistance are referred to an accredited VSO representative or VA benefits counselor.
 
-# Section 14: Quality Assurance
+## Section 14: Quality Assurance
 
 ## 14.1 Referral Response Times
 
@@ -1340,7 +1340,7 @@ The corrective action plan includes: a clear description of the issue, the root 
 
 Verification occurs after the timeline expires. The Director of Medical Partnerships reviews evidence that each action was completed and that the issue has been resolved. If verification confirms resolution, the corrective action is closed and documented. If verification finds that the issue persists, a new corrective action plan is developed with increased oversight and, if warranted, personnel action.
 
-# Section 15: Performance Metrics
+## Section 15: Performance Metrics
 
 ## 15.1 Number of Hospital Partners
 
@@ -1430,7 +1430,7 @@ Performance metrics are reported through a structured reporting system that ensu
 
 All reports are archived in the program database with version control. Historical data is retained for a minimum of seven years to enable longitudinal analysis and to demonstrate program impact over time.
 
-# Section 16: Risk Management
+## Section 16: Risk Management
 
 ## 16.1 Liability Considerations
 
@@ -1500,7 +1500,7 @@ The reporting timeline is strict. The outreach representative must notify the Ho
 
 The review process includes a root cause analysis for any incident involving injury, privacy breach, or significant partner impact. The Director of Medical Partnerships convenes a review within seven days. Corrective actions are assigned with responsible parties and deadlines. The outcome of the review is documented and filed. An annual incident review is conducted to identify trends, recurring issues, and preventive measures. Incident data is reported to the Executive Director and Board of Directors as part of the annual program evaluation.
 
-# Section 17: Marketing and Professional Relations
+## Section 17: Marketing and Professional Relations
 
 ## 17.1 Presentations to Hospitals
 
@@ -1574,7 +1574,7 @@ The event also serves as an opportunity to report outcomes to partners. The Dire
 
 Planning for the appreciation event begins at least three months in advance. The Hospital Outreach Coordinator manages the logistics: date selection (avoiding conflicts with major medical conferences and holidays), venue booking, invitation list, catering, audiovisual needs, awards preparation, and guest speaking coordination. Invitations are sent six weeks in advance, with a follow-up reminder two weeks before the event. Attendance is tracked, and materials from the event are shared with partners who could not attend.
 
-# Section 18: Forms and Documentation
+## Section 18: Forms and Documentation
 
 ## 18.1 Partnership Application
 
@@ -1680,7 +1680,7 @@ The program assessment form is completed by the Director of Medical Partnerships
 
 Both forms are reviewed during the annual program evaluation meeting attended by the Director of Medical Partnerships, Hospital Outreach Coordinator, and Executive Director. The findings inform the next year\u2019s program plan, budget, and strategic priorities.
 
-# Section 19: Standard Operating Procedures (SOPs)
+## Section 19: Standard Operating Procedures (SOPs)
 
 ## 19.1 SOP: Receiving a Referral through Case Closure
 
@@ -1888,7 +1888,7 @@ Both forms are reviewed during the annual program evaluation meeting attended by
 
 **Completion Criteria:** Intake is complete; patient is matched with a mentor or interim support is provided; match is documented in the database; first contact deadline is set.
 
-# Section 20: Five-Year Development Plan
+## Section 20: Five-Year Development Plan
 
 ## 20.1 Year 1: Regional Hospital Networks
 

@@ -1,4 +1,4 @@
-# Legal Advisor — Position Manual
+## Legal Advisor — Position Manual
 
 ## Position Overview
 

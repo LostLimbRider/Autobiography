@@ -1,4 +1,4 @@
-# **Lost Limb Riders — Peer Connection Program Operations Manual**
+## Lost Limb Riders — Peer Connection Program Operations Manual
 
 **Document Classification:** Administrative Operations Manual — Program-Specific
 
@@ -20,7 +20,7 @@
 
 ---
 
-# **Table of Contents**
+## Table of Contents
 
 1. Program Overview
 2. Mission
@@ -65,7 +65,7 @@
 
 ---
 
-# **Section 1: Program Overview**
+## Section 1: Program Overview
 
 ## 1.1 Introduction
 
@@ -105,7 +105,7 @@ This manual is designed for:
 
 ---
 
-# **Section 2: Mission**
+## Section 2: Mission
 
 The mission of the Peer Connection Program is to reduce isolation, rebuild confidence, and restore purpose for amputees, limb‑different individuals, and their families by connecting them with trained peer mentors who understand the emotional, practical, and social realities of life after limb loss.
 
@@ -115,7 +115,7 @@ Every decision made within the Peer Connection Program must advance this mission
 
 ---
 
-# **Section 3: Purpose**
+## Section 3: Purpose
 
 The Peer Connection Program exists to:
 
@@ -130,7 +130,7 @@ The Peer Connection Program exists to:
 
 ---
 
-# **Section 4: Philosophy**
+## Section 4: Philosophy
 
 The Peer Connection Program is built on the following philosophical foundations:
 
@@ -164,7 +164,7 @@ Good intentions are not enough. The program measures outcomes, tracks performanc
 
 ---
 
-# **Section 5: Goals**
+## Section 5: Goals
 
 ## 5.1 Program Goals
 
@@ -189,34 +189,32 @@ Good intentions are not enough. The program measures outcomes, tracks performanc
 
 ---
 
-# **Section 6: Definitions**
+## Section 6: Definitions
 
-| Term | Definition |
-|------|------------|
-| **Participant** | Any individual receiving services through the Peer Connection Program, including amputees, limb‑different individuals, and family members |
-| **Peer Mentor** | A trained volunteer with lived experience of limb loss who provides structured peer support to participants |
-| **Lead Mentor** | A senior peer mentor with additional training who supervises peer mentors, reviews documentation, and escalates concerns |
-| **Coordinator** | The staff member or senior volunteer responsible for day‑to‑day program operations, intake processing, mentor matching, and participant tracking |
-| **Program Director** | The individual with overall responsibility for Peer Connection Program operations across all chapters |
-| **Chapter** | A local Lost Limb Riders affiliate operating under the organizational framework and this manual |
-| **Referral** | A formal request to connect a participant with the Peer Connection Program, submitted through an approved channel |
-| **Intake** | The process of collecting participant information, assessing needs, obtaining consent, and initiating the matching process |
-| **Matching** | The process of pairing a participant with a peer mentor based on relevant criteria |
-| **First Contact** | The initial outreach from a matched peer mentor to a newly assigned participant |
-| **Active Enrollment** | A participant who has completed intake, been matched with a mentor, and is receiving ongoing support |
-| **Case Closure** | The formal conclusion of a participant's enrollment in the program, triggered by participant request, goal completion, inactivity, or safety concerns |
-| **Incident** | Any event involving participant safety, volunteer misconduct, confidentiality breach, medical emergency, mental health crisis, or policy violation |
-| **Crisis** | Any situation involving imminent risk of harm to self or others, including suicidal ideation, homicidal ideation, domestic violence, or abuse |
-| **Escalation** | The process of transferring a situation to a higher authority or external resource when it exceeds the mentor's scope, training, or authority |
-| **Contact Log** | A written record of every program interaction with a participant, including date, method, duration, content summary, and follow‑up actions |
-| **Progress Note** | A narrative record documenting a participant's stated progress, challenges, goals, and any referrals made |
-| **HIPAA** | The Health Insurance Portability and Accountability Act, federal legislation protecting the privacy and security of health information |
-| **Mandatory Reporter** | A person required by law to report suspected abuse, neglect, or exploitation of vulnerable individuals to appropriate authorities |
-| **Limb‑Different Individual** | A person with a congenital limb difference or acquired limb variation who may not identify as an amputee |
+- **Participant** -- Any individual receiving services through the Peer Connection Program, including amputees, limb‑different individuals, and family members
+- **Peer Mentor** -- A trained volunteer with lived experience of limb loss who provides structured peer support to participants
+- **Lead Mentor** -- A senior peer mentor with additional training who supervises peer mentors, reviews documentation, and escalates concerns
+- **Coordinator** -- The staff member or senior volunteer responsible for day‑to‑day program operations, intake processing, mentor matching, and participant tracking
+- **Program Director** -- The individual with overall responsibility for Peer Connection Program operations across all chapters
+- **Chapter** -- A local Lost Limb Riders affiliate operating under the organizational framework and this manual
+- **Referral** -- A formal request to connect a participant with the Peer Connection Program, submitted through an approved channel
+- **Intake** -- The process of collecting participant information, assessing needs, obtaining consent, and initiating the matching process
+- **Matching** -- The process of pairing a participant with a peer mentor based on relevant criteria
+- **First Contact** -- The initial outreach from a matched peer mentor to a newly assigned participant
+- **Active Enrollment** -- A participant who has completed intake, been matched with a mentor, and is receiving ongoing support
+- **Case Closure** -- The formal conclusion of a participant's enrollment in the program, triggered by participant request, goal completion, inactivity, or safety concerns
+- **Incident** -- Any event involving participant safety, volunteer misconduct, confidentiality breach, medical emergency, mental health crisis, or policy violation
+- **Crisis** -- Any situation involving imminent risk of harm to self or others, including suicidal ideation, homicidal ideation, domestic violence, or abuse
+- **Escalation** -- The process of transferring a situation to a higher authority or external resource when it exceeds the mentor's scope, training, or authority
+- **Contact Log** -- A written record of every program interaction with a participant, including date, method, duration, content summary, and follow‑up actions
+- **Progress Note** -- A narrative record documenting a participant's stated progress, challenges, goals, and any referrals made
+- **HIPAA** -- The Health Insurance Portability and Accountability Act, federal legislation protecting the privacy and security of health information
+- **Mandatory Reporter** -- A person required by law to report suspected abuse, neglect, or exploitation of vulnerable individuals to appropriate authorities
+- **Limb‑Different Individual** -- A person with a congenital limb difference or acquired limb variation who may not identify as an amputee
 
 ---
 
-# **Section 7: Scope**
+## Section 7: Scope
 
 ## 7.1 Geographic Scope
 
@@ -266,7 +264,7 @@ The program does not provide:
 
 ---
 
-# **Section 8: Organizational Authority**
+## Section 8: Organizational Authority
 
 ## 8.1 Authority Chain
 
@@ -282,12 +280,10 @@ The Peer Connection Program operates under the following authority structure:
 
 ## 8.2 Decision Authority
 
-| Decision Level | Examples | Authority |
-|----------------|----------|-----------|
-| **Strategic** | Program expansion, new chapter launch, budget over $5,000, policy changes, legal compliance | Board of Directors |
-| **Operational** | Hiring recommendations, partnership agreements, training curriculum changes, annual program plan | Executive Director / Program Director |
-| **Tactical** | Mentor assignments, intake approvals, scheduling, resource referrals, documentation standards | Coordinator |
-| **Clinical Escalation** | Crisis response, safety concerns, participant removal, mandatory reports | Program Director with immediate board notification |
+- Decision Level: Strategic | Examples: Program expansion, new chapter launch, budget over $5,000, policy changes, legal compliance | Authority: Board of Directors
+- Decision Level: Operational | Examples: Hiring recommendations, partnership agreements, training curriculum changes, annual program plan | Authority: Executive Director / Program Director
+- Decision Level: Tactical | Examples: Mentor assignments, intake approvals, scheduling, resource referrals, documentation standards | Authority: Coordinator
+- Decision Level: Clinical Escalation | Examples: Crisis response, safety concerns, participant removal, mandatory reports | Authority: Program Director with immediate board notification
 
 ## 8.3 Reporting Chain
 
@@ -301,7 +297,7 @@ Any mentor, volunteer, or staff member may bypass any level of the reporting cha
 
 ---
 
-# **Section 9: Policies**
+## Section 9: Policies
 
 The following policies govern all Peer Connection Program operations. Every volunteer, mentor, coordinator, and director must acknowledge these policies in writing before assuming any program role.
 
@@ -315,7 +311,7 @@ The following policies govern all Peer Connection Program operations. Every volu
 
 ---
 
-# **Section 10: Eligibility**
+## Section 10: Eligibility
 
 ## 10.1 Participant Eligibility
 
@@ -351,7 +347,7 @@ Exclusion decisions must be made by the Program Director in consultation with th
 
 ---
 
-# **Section 11: Participant Rights**
+## Section 11: Participant Rights
 
 Every participant in the Peer Connection Program has the right to:
 
@@ -370,7 +366,7 @@ Every participant in the Peer Connection Program has the right to:
 
 ---
 
-# **Section 12: Volunteer Rights**
+## Section 12: Volunteer Rights
 
 Every volunteer in the Peer Connection Program has the right to:
 
@@ -387,7 +383,7 @@ Every volunteer in the Peer Connection Program has the right to:
 
 ---
 
-# **Section 13: Confidentiality**
+## Section 13: Confidentiality
 
 ## 13.1 Confidentiality Policy
 
@@ -422,7 +418,7 @@ Confidentiality obligations survive the termination of a volunteer's service or 
 
 ---
 
-# **Section 14: HIPAA Awareness**
+## Section 14: HIPAA Awareness
 
 ## 14.1 Overview
 
@@ -451,7 +447,7 @@ When Lost Limb Riders shares participant health information with external entiti
 
 ---
 
-# **Section 15: Mandatory Reporting**
+## Section 15: Mandatory Reporting
 
 ## 15.1 Mandatory Reporting Obligation
 
@@ -482,7 +478,7 @@ Lost Limb Riders prohibits retaliation against any person who makes a good‑fai
 
 ---
 
-# **Section 16: Boundaries**
+## Section 16: Boundaries
 
 ## 16.1 Professional Boundaries
 
@@ -527,7 +523,7 @@ Mentors may not give participants gifts valued over $25. Mentors may not accept 
 
 ---
 
-# **Section 17: Ethics**
+## Section 17: Ethics
 
 ## 17.1 Ethical Standards
 
@@ -551,7 +547,7 @@ Reported ethical violations will be investigated by the Program Director in cons
 
 ---
 
-# **Section 18: Conflict of Interest**
+## Section 18: Conflict of Interest
 
 ## 18.1 Policy
 
@@ -574,7 +570,7 @@ Confirmed conflicts will be managed through reassignment, recusal, additional ov
 
 ---
 
-# **Section 19: Non-Discrimination**
+## Section 19: Non-Discrimination
 
 ## 18.1 Policy
 
@@ -596,7 +592,7 @@ The program will make reasonable accommodations for participants and volunteers 
 
 ---
 
-# **Section 20: Harassment Policy**
+## Section 20: Harassment Policy
 
 ## 20.1 Policy
 
@@ -620,7 +616,7 @@ Confirmed harassment will result in corrective action up to and including immedi
 
 ---
 
-# **Section 21: Social Media Policy**
+## Section 21: Social Media Policy
 
 ## 21.1 Personal Social Media
 
@@ -648,7 +644,7 @@ Social media policy violations will be addressed through corrective action. Conf
 
 ---
 
-# **Section 22: Privacy Policy**
+## Section 22: Privacy Policy
 
 ## 22.1 Information Collection
 
@@ -672,7 +668,7 @@ Participants may request access to their own program records by submitting a wri
 
 ---
 
-# **Section 23: Organizational Structure**
+## Section 23: Organizational Structure
 
 ## 23.1 Program Director
 
@@ -813,7 +809,7 @@ Participants may request access to their own program records by submitting a wri
 
 ---
 
-# **Section 24: Volunteer Recruitment**
+## Section 24: Volunteer Recruitment
 
 ## 24.1 Recruitment Strategy
 
@@ -910,7 +906,7 @@ Applicants may be declined if:
 
 ---
 
-# **Section 25: Training Manual**
+## Section 25: Training Manual
 
 The following training modules constitute the complete Peer Connection Program Mentor Training curriculum. All prospective peer mentors must complete every module before certification. Modules may be delivered in person, via video conference, or through a hybrid model. All training must be facilitated or approved by the Coordinator or Program Director.
 
@@ -1220,32 +1216,30 @@ The following training modules constitute the complete Peer Connection Program M
 
 ---
 
-# **Section 26: Certification Requirements**
+## Section 26: Certification Requirements
 
 ## 26.1 Training Hours
 
 Mandatory training for Peer Mentor certification:
 
-| Module | Hours |
-|--------|-------|
-| Module 1: Initial Orientation | 2 |
-| Module 2: Trauma‑Informed Care | 4 |
-| Module 3: Active Listening | 3 |
-| Module 4: Motivational Interviewing Basics | 3 |
-| Module 5: Crisis Recognition | 3 |
-| Module 6: Suicide Awareness | 2 |
-| Module 7: PTSD Awareness | 2 |
-| Module 8: Veteran Awareness | 2 |
-| Module 9: Family Dynamics | 3 |
-| Module 10: Communication Skills | 2 |
-| Module 11: Professional Boundaries | 2 |
-| Module 12: Documentation | 2 |
-| Module 13: Cultural Competency | 2 |
-| Module 14: Disability Etiquette | 1 |
-| Module 15: HIPAA Awareness | 1 |
-| Module 16: Veteran Awareness Supplemental | 1 |
-| Module 17: Program‑Specific Procedures | 2 |
-| **Total** | **37** |
+- **Module 1: Initial Orientation** -- 2
+- **Module 2: Trauma‑Informed Care** -- 4
+- **Module 3: Active Listening** -- 3
+- **Module 4: Motivational Interviewing Basics** -- 3
+- **Module 5: Crisis Recognition** -- 3
+- **Module 6: Suicide Awareness** -- 2
+- **Module 7: PTSD Awareness** -- 2
+- **Module 8: Veteran Awareness** -- 2
+- **Module 9: Family Dynamics** -- 3
+- **Module 10: Communication Skills** -- 2
+- **Module 11: Professional Boundaries** -- 2
+- **Module 12: Documentation** -- 2
+- **Module 13: Cultural Competency** -- 2
+- **Module 14: Disability Etiquette** -- 1
+- **Module 15: HIPAA Awareness** -- 1
+- **Module 16: Veteran Awareness Supplemental** -- 1
+- **Module 17: Program‑Specific Procedures** -- 2
+- **Total** -- 37
 
 Mentors must complete a minimum of 37 hours of training before certification. Training may be completed over multiple sessions within a 90‑day window.
 
@@ -1311,7 +1305,7 @@ Continuing education hours must be documented with certificates of completion, w
 
 ---
 
-# **Section 27: Participant Intake**
+## Section 27: Participant Intake
 
 ## 27.1 Referral Sources
 
@@ -1387,15 +1381,13 @@ The Coordinator initiates the matching process using the criteria defined in Sec
 
 ## 27.3 Intake Timeline
 
-| Step | Deadline |
-|------|----------|
-| Referral logged | Within 24 hours of receipt |
-| Initial screening | Within 48 hours of referral receipt |
-| Intake meeting scheduled | Within 5 business days of screening |
-| Intake meeting completed | Within 10 business days of screening |
-| Consent forms filed | Same day as intake meeting |
-| Risk assessment completed | Same day as intake meeting |
-| Matching process initiated | Within 5 business days of intake completion |
+- **Referral logged** -- Within 24 hours of receipt
+- **Initial screening** -- Within 48 hours of referral receipt
+- **Intake meeting scheduled** -- Within 5 business days of screening
+- **Intake meeting completed** -- Within 10 business days of screening
+- **Consent forms filed** -- Same day as intake meeting
+- **Risk assessment completed** -- Same day as intake meeting
+- **Matching process initiated** -- Within 5 business days of intake completion
 
 ## 27.4 Intake Information Collected
 
@@ -1424,7 +1416,7 @@ The intake process collects:
 
 ---
 
-# **Section 28: Matching Process**
+## Section 28: Matching Process
 
 ## 28.1 Matching Philosophy
 
@@ -1480,7 +1472,7 @@ Reassignment must be handled with care. The departing mentor should be informed 
 
 ---
 
-# **Section 29: First Contact Protocol**
+## Section 29: First Contact Protocol
 
 ## 29.1 Timeline
 
@@ -1543,7 +1535,7 @@ First contact documentation must include:
 
 ---
 
-# **Section 30: Meeting Standards**
+## Section 30: Meeting Standards
 
 ## 30.1 Contact Modalities
 
@@ -1572,25 +1564,21 @@ Group support meetings may be organized by the Coordinator or Lead Mentor. Group
 
 ## 30.2 Frequency
 
-| Contact Type | Minimum Frequency |
-|-------------|-------------------|
-| Active participant contact (phone/video) | Monthly minimum |
-| Progress review | Every 30 days |
-| Risk screening | At intake and every 90 days |
-| In‑person meeting (when feasible) | Quarterly minimum |
-| Group meeting attendance | Monthly when available |
-| Hospital visit (if applicable) | Per facility schedule and participant need |
+- **Active participant contact (phone/video)** -- Monthly minimum
+- **Progress review** -- Every 30 days
+- **Risk screening** -- At intake and every 90 days
+- **In‑person meeting (when feasible)** -- Quarterly minimum
+- **Group meeting attendance** -- Monthly when available
+- **Hospital visit (if applicable)** -- Per facility schedule and participant need
 
 ## 30.3 Duration
 
-| Contact Type | Recommended Duration |
-|-------------|---------------------|
-| Phone call | 20–45 minutes |
-| Video meeting | 30–60 minutes |
-| In‑person meeting | 45–90 minutes |
-| Hospital visit | 20–45 minutes (per facility policy) |
-| Home visit | 30–60 minutes |
-| Group meeting | 60–90 minutes |
+- **Phone call** -- 20–45 minutes
+- **Video meeting** -- 30–60 minutes
+- **In‑person meeting** -- 45–90 minutes
+- **Hospital visit** -- 20–45 minutes (per facility policy)
+- **Home visit** -- 30–60 minutes
+- **Group meeting** -- 60–90 minutes
 
 ## 30.4 Documentation
 
@@ -1598,7 +1586,7 @@ All contacts must be documented. See Section 31 for complete documentation requi
 
 ---
 
-# **Section 31: Documentation**
+## Section 31: Documentation
 
 ## 31.1 Documentation Standards
 
@@ -1697,7 +1685,7 @@ All participant records are retained for a minimum of seven years after case clo
 
 ---
 
-# **Section 32: Risk Management**
+## Section 32: Risk Management
 
 ## 32.1 Risk Management Policy
 
@@ -1818,7 +1806,7 @@ If a participant, mentor, or volunteer contacts or is contacted by media about t
 
 ---
 
-# **Section 33: Referral Network**
+## Section 33: Referral Network
 
 ## 33.1 Referral Network Purpose
 
@@ -1883,7 +1871,7 @@ The Coordinator is responsible for maintaining the referral network:
 
 ---
 
-# **Section 34: Family Integration**
+## Section 34: Family Integration
 
 ## 34.1 Family Support Philosophy
 
@@ -1940,7 +1928,7 @@ Family support groups must be facilitated by a trained facilitator (Coordinator,
 
 ---
 
-# **Section 35: Quality Assurance**
+## Section 35: Quality Assurance
 
 ## 35.1 Quality Assurance Philosophy
 
@@ -2044,7 +2032,7 @@ Based on quality assurance findings, the Program Director initiates an annual Pe
 
 ---
 
-# **Section 36: Data Collection**
+## Section 36: Data Collection
 
 ## 36.1 Data Collection Purpose
 
@@ -2121,7 +2109,7 @@ All program data must be stored in the secure organizational database with acces
 
 ---
 
-# **Section 37: Emergency Procedures**
+## Section 37: Emergency Procedures
 
 ## 37.1 Immediate Response Checklist
 
@@ -2142,27 +2130,23 @@ When any emergency occurs during a program activity:
 
 Every program volunteer must have access to the following emergency contacts at all times:
 
-| Contact | Number |
-|---------|--------|
-| Emergency Services | 911 |
-| Suicide and Crisis Lifeline | 988 |
-| Crisis Text Line | Text HOME to 741741 |
-| Veterans Crisis Line | 988, then press 1 |
-| National Domestic Violence Hotline | 1‑800‑799‑7233 |
-| National Human Trafficking Hotline | 1‑888‑373‑7888 |
-| Coordinator (local chapter) | [Insert local number] |
-| Program Director | [Insert number] |
-| Executive Director | [Insert number] |
-| Board Chairperson | [Insert number] |
+- **Emergency Services** -- 911
+- **Suicide and Crisis Lifeline** -- 988
+- **Crisis Text Line** -- Text HOME to 741741
+- **Veterans Crisis Line** -- 988, then press 1
+- **National Domestic Violence Hotline** -- 1‑800‑799‑7233
+- **National Human Trafficking Hotline** -- 1‑888‑373‑7888
+- **Coordinator (local chapter)** -- [Insert local number]
+- **Program Director** -- [Insert number]
+- **Executive Director** -- [Insert number]
+- **Board Chairperson** -- [Insert number]
 
 ## 37.3 Escalation Process
 
-| Severity Level | Description | Action | Notification |
-|---------------|-------------|--------|--------------|
-| **Level 1 — Low** | Minor concern, no immediate risk (documentation issue, scheduling conflict, participant frustration) | Address directly with supervisor | Lead Mentor |
-| **Level 2 — Moderate** | Emerging concern requiring coordination (boundary question, referral delay, participant disengagement) | Escalate to Coordinator within 24 hours | Coordinator → Program Director as needed |
-| **Level 3 — High** | Significant safety or policy concern (disclosure of abuse, mental health decline, volunteer misconduct, confidentiality breach) | Escalate to Program Director immediately | Program Director → Executive Director within 48 hours |
-| **Level 4 — Critical** | Imminent danger to life or safety (suicide attempt, medical emergency, violence, missing person) | Call 911 and escalate immediately | Program Director → Executive Director → Board Chairperson within 24 hours |
+- Severity Level: Level 1 — Low | Description: Minor concern, no immediate risk (documentation issue, scheduling conflict, participant frustration) | Action: Address directly with supervisor | Notification: Lead Mentor
+- Severity Level: Level 2 — Moderate | Description: Emerging concern requiring coordination (boundary question, referral delay, participant disengagement) | Action: Escalate to Coordinator within 24 hours | Notification: Coordinator → Program Director as needed
+- Severity Level: Level 3 — High | Description: Significant safety or policy concern (disclosure of abuse, mental health decline, volunteer misconduct, confidentiality breach) | Action: Escalate to Program Director immediately | Notification: Program Director → Executive Director within 48 hours
+- Severity Level: Level 4 — Critical | Description: Imminent danger to life or safety (suicide attempt, medical emergency, violence, missing person) | Action: Call 911 and escalate immediately | Notification: Program Director → Executive Director → Board Chairperson within 24 hours
 
 ## 37.4 Incident Command
 
@@ -2178,19 +2162,17 @@ For major incidents involving multiple participants, large‑scale safety events
 
 ## 37.5 Documentation Timelines
 
-| Event | Documentation Deadline |
-|-------|----------------------|
-| Incident report | Within 24 hours |
-| Follow‑up form | Within 72 hours |
-| Emergency welfare check report | Within 24 hours |
-| Mandatory report filing | Per state law (typically within 24–72 hours) |
-| Media incident report | Within 24 hours |
-| Volunteer misconduct report | Within 24 hours |
-| Case closure (emergency) | Within 72 hours |
+- **Incident report** -- Within 24 hours
+- **Follow‑up form** -- Within 72 hours
+- **Emergency welfare check report** -- Within 24 hours
+- **Mandatory report filing** -- Per state law (typically within 24–72 hours)
+- **Media incident report** -- Within 24 hours
+- **Volunteer misconduct report** -- Within 24 hours
+- **Case closure (emergency)** -- Within 72 hours
 
 ---
 
-# **Section 38: Program Forms**
+## Section 38: Program Forms
 
 The following forms constitute the complete Peer Connection Program documentation set. All forms must be maintained in the secure program repository. Chapter‑specific versions may be developed with Program Director approval, but core content may not be reduced or omitted.
 
@@ -2390,44 +2372,38 @@ The following forms constitute the complete Peer Connection Program documentatio
 
 ---
 
-# **Section 39: Performance Standards**
+## Section 39: Performance Standards
 
 ## 39.1 Response Time Standards
 
-| Action | Required Timeline |
-|--------|------------------|
-| Referral logged | Within 24 hours of receipt |
-| Initial screening completed | Within 48 hours of receipt |
-| First contact with participant | Within 5 business days of match assignment |
-| Participant inquiry response | Within 48 hours |
-| Coordinator response to mentor question | Within 24 hours |
-| Lead Mentor response to mentor escalation | Within 4 hours (Level 3–4: immediately) |
-| Program Director response to critical incident | Immediately |
-| Contact log completion | Within 72 hours of contact |
-| Incident report completion | Within 24 hours |
-| Documentation deficiency correction | Within 5 business days of notification |
+- **Referral logged** -- Within 24 hours of receipt
+- **Initial screening completed** -- Within 48 hours of receipt
+- **First contact with participant** -- Within 5 business days of match assignment
+- **Participant inquiry response** -- Within 48 hours
+- **Coordinator response to mentor question** -- Within 24 hours
+- **Lead Mentor response to mentor escalation** -- Within 4 hours (Level 3–4: immediately)
+- **Program Director response to critical incident** -- Immediately
+- **Contact log completion** -- Within 72 hours of contact
+- **Incident report completion** -- Within 24 hours
+- **Documentation deficiency correction** -- Within 5 business days of notification
 
 ## 39.2 Minimum Contact Standards
 
-| Standard | Requirement |
-|----------|-------------|
-| Active participant contact | Minimum monthly |
-| Progress note | Minimum every 30 days |
-| Risk screening | At intake and every 90 days |
-| In‑person contact (when feasible) | Quarterly minimum |
-| Group meeting attendance | Monthly when available |
+- **Active participant contact** -- Minimum monthly
+- **Progress note** -- Minimum every 30 days
+- **Risk screening** -- At intake and every 90 days
+- **In‑person contact (when feasible)** -- Quarterly minimum
+- **Group meeting attendance** -- Monthly when available
 
 ## 39.3 Documentation Standards
 
-| Standard | Requirement |
-|----------|-------------|
-| Contact log completion | Within 72 hours |
-| Progress note completion | Within 7 days of the 30‑day interval |
-| Incident report completion | Within 24 hours |
-| Follow‑up form completion | Within 72 hours |
-| Case closure form completion | Within 7 days of closure |
-| Documentation accuracy rate | 95% or higher |
-| Documentation timeliness rate | 90% or higher |
+- **Contact log completion** -- Within 72 hours
+- **Progress note completion** -- Within 7 days of the 30‑day interval
+- **Incident report completion** -- Within 24 hours
+- **Follow‑up form completion** -- Within 72 hours
+- **Case closure form completion** -- Within 7 days of closure
+- **Documentation accuracy rate** -- 95% or higher
+- **Documentation timeliness rate** -- 90% or higher
 
 ## 39.4 Mentor Performance Expectations
 
@@ -2467,7 +2443,7 @@ Each chapter operating the Peer Connection Program must:
 
 ---
 
-# **Section 40: Five-Year Growth Plan**
+## Section 40: Five-Year Growth Plan
 
 ## 40.1 Growth Philosophy
 
@@ -2624,33 +2600,27 @@ Before launching the Peer Connection Program in a new state, the following crite
 
 ---
 
-# **Appendix A: Document Control**
+## Appendix A: Document Control
 
-| Field | Detail |
-|-------|--------|
-| **Document Title** | Lost Limb Riders — Peer Connection Program Operations Manual |
-| **Document Classification** | Administrative Operations Manual — Program‑Specific |
-| **Organization** | Lost Limb Riders, Inc. |
-| **Version** | 1.0 |
-| **Effective Date** | ______________________ |
-| **Author** | Program Director, Peer Connection Program |
-| **Approved By** | Board of Directors |
-| **Next Review Date** | Within 12 months of approval |
-| **Supersedes** | N/A (first edition) |
+- **Document Title** -- Lost Limb Riders — Peer Connection Program Operations Manual
+- **Document Classification** -- Administrative Operations Manual — Program‑Specific
+- **Organization** -- Lost Limb Riders, Inc.
+- **Version** -- 1.0
+- **Effective Date** -- ______________________
+- **Author** -- Program Director, Peer Connection Program
+- **Approved By** -- Board of Directors
+- **Next Review Date** -- Within 12 months of approval
+- **Supersedes** -- N/A (first edition)
 
 ---
 
-# **Appendix B: Policy Revision Log**
+## Appendix B: Policy Revision Log
 
-| Version | Date | Section | Description of Change | Approved By |
-|---------|------|---------|----------------------|-------------|
-| 1.0 | __________ | All | Initial release | Board of Directors |
-| | | | | |
-| | | | | |
+- Version: 1.0 | Date: __________ | Section: All | Description of Change: Initial release | Approved By: Board of Directors
 
 ---
 
-# **Appendix C: Board Review Items**
+## Appendix C: Board Review Items
 
 The following standards are recommended for immediate use and must be reviewed, amended if needed, and formally adopted by the Board of Directors before legal reliance or public implementation:
 
@@ -2664,7 +2634,7 @@ The following standards are recommended for immediate use and must be reviewed, 
 
 ---
 
-# **Appendix D: Legal Notice**
+## Appendix D: Legal Notice
 
 This manual is an organizational operating standard, not legal, tax, medical, or insurance advice. Lost Limb Riders should have qualified counsel, a certified public accountant, and a licensed insurance professional review all policies before adoption. This manual does not create an employment relationship, a fiduciary duty, or a clinical relationship between any volunteer, participant, and the organization. Individual circumstances may require adaptation of these standards under professional guidance.
 

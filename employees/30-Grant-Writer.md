@@ -1,4 +1,4 @@
-# Grant Writer — Position Manual
+## Grant Writer — Position Manual
 
 ## Position Overview
 

@@ -1,12 +1,12 @@
 <div align="center">
 
-# 🏍️ LOST LIMB RIDERS
+## 🏍️ LOST LIMB RIDERS
 
 ### Riding Beyond the Injury
 
 <img src="YOUR_BANNER_IMAGE_HERE" width="100%">
 
-# "I CAN. I WILL."
+## "I CAN. I WILL."
 
 *A movement dedicated to proving that losing a limb doesn't mean losing your freedom.*
 
@@ -16,7 +16,7 @@
 
 </div>
 
-# Who We Are
+## Who We Are
 
 Lost Limb Riders is a nonprofit organization built by amputees, for amputees.
 
@@ -30,7 +30,7 @@ It's the beginning of a new chapter.
 
 ---
 
-# What We Do
+## What We Do
 
 🏍️ Motorcycle rides
 
@@ -50,7 +50,7 @@ It's the beginning of a new chapter.
 
 ---
 
-# Why GitHub?
+## Why GitHub?
 
 GitHub isn't just for software.
 
@@ -71,7 +71,7 @@ Everything we build is open so others can learn from it.
 
 ---
 
-# Our Vision
+## Our Vision
 
 Imagine a world where...
 
@@ -87,7 +87,7 @@ That's why Lost Limb Riders exists.
 
 ---
 
-# Current Projects
+## Current Projects
 
 - 🌎 National chapter expansion
 - 🏍️ Ride events
@@ -99,7 +99,7 @@ That's why Lost Limb Riders exists.
 
 ---
 
-# How You Can Help
+## How You Can Help
 
 ⭐ Star our repositories
 
@@ -117,7 +117,7 @@ Together we prove one thing:
 
 ---
 
-# Founder
+## Founder
 
 ## John Thompson
 
@@ -141,7 +141,7 @@ Builder of Hope
 
 <div align="center">
 
-# 🏍️ KEEP THE RUBBER SIDE DOWN
+## 🏍️ KEEP THE RUBBER SIDE DOWN
 
 ## I CAN.
 

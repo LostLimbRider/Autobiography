@@ -1,4 +1,4 @@
-# Founder / CEO — Position Manual
+## Founder / CEO — Position Manual
 
 ## Position Overview
 

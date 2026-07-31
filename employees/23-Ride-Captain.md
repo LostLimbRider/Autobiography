@@ -1,4 +1,4 @@
-# Ride Captain — Position Manual
+## Ride Captain — Position Manual
 
 ## Position Overview
 

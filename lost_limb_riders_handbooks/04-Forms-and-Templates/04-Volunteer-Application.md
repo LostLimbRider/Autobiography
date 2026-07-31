@@ -1,4 +1,4 @@
-# Lost Limb Riders Volunteer Application
+## Lost Limb Riders Volunteer Application
 
 **Version:** 1.0  
 **Effective Date:** July 2026

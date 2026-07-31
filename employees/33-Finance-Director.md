@@ -1,4 +1,4 @@
-# Finance Director — Position Manual
+## Finance Director — Position Manual
 
 ## Position Overview
 

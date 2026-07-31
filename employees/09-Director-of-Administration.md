@@ -1,4 +1,4 @@
-# Director of Administration — Position Manual
+## Director of Administration — Position Manual
 
 ## Position Overview
 

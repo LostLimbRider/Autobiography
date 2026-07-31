@@ -1,4 +1,4 @@
-# Communications Director — Position Manual
+## Communications Director — Position Manual
 
 ## Position Overview
 

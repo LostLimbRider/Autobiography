@@ -1,4 +1,4 @@
-# Chairperson — Position Manual
+## Chairperson — Position Manual
 
 ## Position Overview
 

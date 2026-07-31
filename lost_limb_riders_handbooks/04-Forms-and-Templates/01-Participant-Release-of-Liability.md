@@ -1,4 +1,4 @@
-# LOST LIMB RIDERS, INC.
+## LOST LIMB RIDERS, INC.
 
 ## Participant Release of Liability, Assumption of Risk, Medical Authorization, and Photo Release
 
@@ -28,7 +28,7 @@
 
 ---
 
-# Assumption of Risk
+## Assumption of Risk
 
 I acknowledge that participation in Lost Limb Riders activities may involve inherent risks, including but not limited to:
 
@@ -55,7 +55,7 @@ I voluntarily choose to participate despite these risks.
 
 ---
 
-# Participant Responsibilities
+## Participant Responsibilities
 
 I agree to:
 
@@ -70,7 +70,7 @@ I agree to:
 
 ---
 
-# Release of Liability
+## Release of Liability
 
 To the fullest extent permitted by applicable law, I release and hold harmless Lost Limb Riders, Inc., its officers, directors, employees, volunteers, members, sponsors, event organizers, agents, and partnering organizations from claims arising out of my participation in organization activities, **except to the extent prohibited by law**.
 
@@ -89,7 +89,7 @@ This release does **not** waive claims that cannot legally be waived under appli
 
 ---
 
-# Medical Treatment Authorization
+## Medical Treatment Authorization
 
 If I become injured or ill during an event and emergency medical treatment is reasonably necessary, I authorize Lost Limb Riders personnel to seek emergency medical assistance on my behalf.
 
@@ -97,7 +97,7 @@ I understand I am financially responsible for any medical expenses incurred.
 
 ---
 
-# Health Disclosure
+## Health Disclosure
 
 I certify that I am physically able to participate in the activities I choose to engage in.
 
@@ -105,7 +105,7 @@ I understand it is my responsibility to consult my healthcare provider if I have
 
 ---
 
-# Insurance
+## Insurance
 
 I understand that Lost Limb Riders may not provide medical, health, accident, or property insurance for participants.
 
@@ -113,7 +113,7 @@ I am responsible for maintaining my own insurance coverage.
 
 ---
 
-# Photo and Media Release (Optional)
+## Photo and Media Release (Optional)
 
 ☐ **YES**, I authorize Lost Limb Riders to use photographs, video recordings, and audio recordings of me for educational, promotional, fundraising, and marketing purposes.
 
@@ -121,19 +121,19 @@ I am responsible for maintaining my own insurance coverage.
 
 ---
 
-# Severability
+## Severability
 
 If any portion of this agreement is determined to be unenforceable, the remaining provisions shall remain in effect to the fullest extent permitted by law.
 
 ---
 
-# Governing Law
+## Governing Law
 
 This agreement shall be interpreted in accordance with the laws of the State of Iowa unless otherwise required by applicable law.
 
 ---
 
-# Acknowledgment
+## Acknowledgment
 
 By signing below, I acknowledge that:
 
@@ -155,7 +155,7 @@ By signing below, I acknowledge that:
 
 ---
 
-# Parent or Legal Guardian Consent (Required for Participants Under 18)
+## Parent or Legal Guardian Consent (Required for Participants Under 18)
 
 I certify that I am the parent or legal guardian of the minor participant named below.
 

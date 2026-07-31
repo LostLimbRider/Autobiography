@@ -1,4 +1,4 @@
-# Vice Chairperson — Position Manual
+## Vice Chairperson — Position Manual
 
 ## Position Overview
 
