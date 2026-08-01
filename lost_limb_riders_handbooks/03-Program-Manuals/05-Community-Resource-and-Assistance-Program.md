@@ -1,5 +1,7 @@
 ## Lost Limb Riders
+
 ## Community Resource and Assistance Program
+
 ### Administrative Operations Manual
 
 **Version 1.0**

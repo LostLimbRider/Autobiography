@@ -11,6 +11,7 @@ Manage daily operations, lead and supervise staff and volunteer teams, execute t
 ## Primary Responsibilities
 
 ### Staff & Volunteer Leadership
+
 - Recruit, hire, and supervise all staff positions
 - Establish performance expectations and conduct annual reviews
 - Manage compensation, benefits, and personnel administration
@@ -19,6 +20,7 @@ Manage daily operations, lead and supervise staff and volunteer teams, execute t
 - Address performance issues and misconduct
 
 ### Operations Management
+
 - Manage daily operations of all departments and programs
 - Supervise Department Directors and ensure accountability
 - Coordinate inter-department communication and collaboration
@@ -27,6 +29,7 @@ Manage daily operations, lead and supervise staff and volunteer teams, execute t
 - Ensure compliance with policies and legal requirements
 
 ### Budget Execution
+
 - Execute Board-approved annual budget
 - Monitor spending against budget with Finance Director
 - Make budget adjustments within approved authority
@@ -35,6 +38,7 @@ Manage daily operations, lead and supervise staff and volunteer teams, execute t
 - Submit required financial reports to Board
 
 ### Program Accountability
+
 - Ensure all programs operate safely and effectively
 - Monitor program outcomes and quality
 - Address participant concerns and feedback
@@ -43,6 +47,7 @@ Manage daily operations, lead and supervise staff and volunteer teams, execute t
 - Report program performance to Board
 
 ### Board Relationship
+
 - Provide executive reports to Board at each meeting
 - Support Board strategic planning and annual review
 - Implement Board decisions and policies
@@ -51,6 +56,7 @@ Manage daily operations, lead and supervise staff and volunteer teams, execute t
 - Support committee work and governance process
 
 ### Community Partnership
+
 - Maintain relationships with healthcare, nonprofit, and community partners
 - Represent organization at community events and meetings
 - Support partnership development by staff
@@ -58,6 +64,7 @@ Manage daily operations, lead and supervise staff and volunteer teams, execute t
 - Contribute to sector collaboration and learning
 
 ### Compliance & Risk Management
+
 - Ensure compliance with nonprofit laws and regulations
 - Maintain required licenses, permits, and registrations
 - Manage insurance and risk management
@@ -88,6 +95,7 @@ Manage daily operations, lead and supervise staff and volunteer teams, execute t
 ## Time Commitment
 
 Full-time position (40-60 hours weekly depending on organizational phase)
+
 - Includes staff meetings, Board meetings, community partnership, program oversight
 - Additional hours during fundraising campaigns, strategic planning, or crises
 - Travel as needed for partnerships and organizational representation
@@ -102,30 +110,35 @@ Full-time position (40-60 hours weekly depending on organizational phase)
 ## Success Measurements
 
 ### Operational Excellence
+
 - All departments operate effectively and meet defined goals
 - Programs deliver quality outcomes for participants
 - Compliance issues are minimal or resolved promptly
 - Staff and volunteers report positive work environment
 
 ### Financial Stewardship
+
 - Budget is managed and expenditures are within approved amounts
 - Financial reporting is accurate and timely
 - Audit findings are minimal
 - Revenue goals are achieved
 
 ### Board Partnership
+
 - Board reports confidence in Executive Director's leadership
 - Board decisions are implemented effectively
 - Executive Director reports are clear and informative
 - Organization advances Board-approved strategic direction
 
 ### Staff & Volunteer Effectiveness
+
 - Staff retention is strong (minimal turnover)
 - Volunteer retention and satisfaction are high
 - Staff performance reviews are completed annually
 - Professional development opportunities are provided
 
 ### Community Impact
+
 - Programs serve target population effectively
 - Participant feedback is positive
 - Community partners report effective relationships
@@ -143,6 +156,7 @@ Full-time position (40-60 hours weekly depending on organizational phase)
 ## Authority & Decision‑Making
 
 The Executive Director holds authority to:
+
 - Hire, supervise, and (with cause) terminate employees
 - Make operational decisions within Board policy
 - Approve expenditures within Board-approved authority thresholds
@@ -152,6 +166,7 @@ The Executive Director holds authority to:
 - Discipline staff for policy violations
 
 The Executive Director does NOT hold authority to:
+
 - Make Board decisions or policy changes (requires Board vote)
 - Approve major expenditures beyond delegated threshold (Board function)
 - Commit organization to major partnerships without Board approval
@@ -162,6 +177,7 @@ The Executive Director does NOT hold authority to:
 ## Delegation of Authority Framework
 
 The Executive Director typically delegates to:
+
 - **Finance Director:** Budget administration, accounting, financial controls
 - **Director of Administration:** HR, office operations, records management
 - **Program Directors:** Daily program operations, staff supervision (within functions)
@@ -171,6 +187,7 @@ The Executive Director typically delegates to:
 ## Policies & Compliance
 
 The Executive Director must ensure compliance with:
+
 - Nonprofit governance laws and regulations
 - Board-adopted policies and procedures
 - Employment laws and HR regulations
@@ -191,12 +208,14 @@ The Executive Director must ensure compliance with:
 ## Onboarding Process
 
 **Before First Day:**
+
 - [ ] Board orientation and governance training
 - [ ] Review bylaws, policies, organizational documents
 - [ ] Meet with Board Chairperson and officers
 - [ ] Receive access to financial systems and records
 
 **First Month:**
+
 - [ ] Meet with all Department Directors
 - [ ] Review current programs and operations
 - [ ] Understand organizational budget and finances
@@ -204,6 +223,7 @@ The Executive Director must ensure compliance with:
 - [ ] Establish weekly team meetings
 
 **First Quarter:**
+
 - [ ] Complete full operational review
 - [ ] Assess staff capabilities and development needs
 - [ ] Review program quality and outcomes
@@ -230,7 +250,7 @@ The Executive Director must ensure compliance with:
 
 ---
 
-**Document Version:** 1.0  
-**Last Updated:** [Date]  
-**Adopted By:** Board of Directors  
+**Document Version:** 1.0
+**Last Updated:** [Date]
+**Adopted By:** Board of Directors
 **Review Schedule:** Annually or upon organizational change

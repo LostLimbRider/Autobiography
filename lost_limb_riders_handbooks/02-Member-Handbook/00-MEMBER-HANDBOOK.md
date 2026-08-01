@@ -2,10 +2,10 @@
 
 ![Logo placeholder: Insert the official Lost Limb Riders logo here.](images/logo-placeholder.svg)
 
-**Motto:** “I Can. I Will.”  
-**Tagline:** “Nobody Is Left Behind. Nobody Stands Alone.”  
-**Prepared for:** Sponsors, grant partners, corporate partners, hospitals, prosthetic providers, motorcycle organizations, donors, volunteers, media, and community leaders  
-**Document type:** Organizational handbook and partnership overview  
+**Motto:** “I Can. I Will.”
+**Tagline:** “Nobody Is Left Behind. Nobody Stands Alone.”
+**Prepared for:** Sponsors, grant partners, corporate partners, hospitals, prosthetic providers, motorcycle organizations, donors, volunteers, media, and community leaders
+**Document type:** Organizational handbook and partnership overview
 
 ![Cover image placeholder: Founder standing beside a motorcycle with members of the Lost Limb Riders community in the background.](images/cover-community-placeholder.svg)
 
@@ -17,39 +17,39 @@ Lost Limb Riders is more than an organization. It is a statement of survival. It
 
 Where final personal details are still needed, this handbook uses clear placeholders. Those placeholders should be replaced with the founder’s confirmed dates, biographical details, photographs, organizational data, partner names, and approved financial information before public distribution.
 
-**Recommended final production assets:**  
-Official logo file  
-Founder portrait  
-Community ride photography  
-Volunteer or hospital visit photography  
-Program photographs  
-Sponsor recognition graphic  
-Approved nonprofit registration details  
-Board and staff names  
-Contact information  
-Website and social media links  
+**Recommended final production assets:**
+Official logo file
+Founder portrait
+Community ride photography
+Volunteer or hospital visit photography
+Program photographs
+Sponsor recognition graphic
+Approved nonprofit registration details
+Board and staff names
+Contact information
+Website and social media links
 
 ## Table of Contents
 
-Cover Page  
-Letter from the Founder  
-Chapter 1: Our Story  
-Chapter 2: The Reality of Limb Loss  
-Chapter 3: Why Lost Limb Riders Exists  
-Chapter 4: Mission, Vision & Values  
-Chapter 5: The Lost Limb Riders Promise  
-Chapter 6: Brotherhood and Sisterhood in Community  
-Chapter 7: Programs  
-Chapter 8: Speaking and Public Awareness  
-Chapter 9: Events  
-Chapter 10: Corporate Partnerships  
-Chapter 11: Financial Stewardship  
-Chapter 12: Five‑Year Vision  
-Chapter 13: Founder Biography  
-Chapter 14: Call to Action  
-Appendix A: Image Placement Guide  
-Appendix B: Partner One‑Sheet Copy  
-Appendix C: Volunteer Commitment Statement  
+Cover Page
+Letter from the Founder
+Chapter 1: Our Story
+Chapter 2: The Reality of Limb Loss
+Chapter 3: Why Lost Limb Riders Exists
+Chapter 4: Mission, Vision & Values
+Chapter 5: The Lost Limb Riders Promise
+Chapter 6: Brotherhood and Sisterhood in Community
+Chapter 7: Programs
+Chapter 8: Speaking and Public Awareness
+Chapter 9: Events
+Chapter 10: Corporate Partnerships
+Chapter 11: Financial Stewardship
+Chapter 12: Five‑Year Vision
+Chapter 13: Founder Biography
+Chapter 14: Call to Action
+Appendix A: Image Placement Guide
+Appendix B: Partner One‑Sheet Copy
+Appendix C: Volunteer Commitment Statement
 
 ## Letter from the Founder
 
@@ -79,8 +79,8 @@ Thank you for taking the time to learn about Lost Limb Riders. Thank you for con
 
 With respect and determination,
 
-**[Founder Name]**  
-Founder, Lost Limb Riders  
+**[Founder Name]**
+Founder, Lost Limb Riders
 **“I Can. I Will.”**
 
 ## Chapter 1: Our Story
@@ -151,12 +151,12 @@ The reality of limb loss is hard. But hard does not mean hopeless. With the righ
 
 Lost Limb Riders exists because too many people fall into the space between medical treatment and real‑life recovery. Hospitals can save lives. Surgeons can close wounds. Therapists can build strength. Prosthetists can create life‑changing devices. Those professionals are essential. But after appointments end, people still go home to questions that cannot be solved by a prescription or a device alone.
 
-Who do I call when I am scared?  
-Who understands what this feels like?  
-How do I talk to my family?  
-How do I return to work?  
-How do I handle strangers staring?  
-How do I get my confidence back?  
+Who do I call when I am scared?
+Who understands what this feels like?
+How do I talk to my family?
+How do I return to work?
+How do I handle strangers staring?
+How do I get my confidence back?
 How do I believe in my future again?
 
 Lost Limb Riders exists to help answer those questions with community, mentorship, public awareness, practical resources, and a culture that refuses to let people disappear.
@@ -189,28 +189,28 @@ Our vision is to become a trusted national model for post‑limb‑loss communit
 
 ## Core Values
 
-**Dignity**  
+**Dignity**
 Every person deserves to be seen as whole, capable, and worthy of respect. Limb loss changes a body, but it does not reduce a life.
 
-**Brotherhood and Sisterhood**  
+**Brotherhood and Sisterhood**
 We build real community. We believe people heal better when they are surrounded by others who show up consistently, listen honestly, and stand beside them without judgment.
 
-**Courage**  
+**Courage**
 Courage is not pretending the road is easy. Courage is taking the next step anyway. We honor every act of progress, whether it happens in public or in private.
 
-**Service**  
+**Service**
 We serve with humility. We do not make people feel like burdens. We meet needs where we can, connect people where we cannot, and treat service as a privilege.
 
-**Accountability**  
+**Accountability**
 We handle resources responsibly, communicate honestly, and build programs that can be trusted by families, donors, partners, and the community.
 
-**Inclusion**  
+**Inclusion**
 Lost Limb Riders welcomes amputees, limb‑different individuals, families, caregivers, veterans, riders, non‑riders, supporters, and allies. The road is wide enough for all of us.
 
-**Resilience**  
+**Resilience**
 We believe people can rebuild after devastating change. Resilience is not automatic; it is strengthened through support, opportunity, and daily practice.
 
-**Authenticity**  
+**Authenticity**
 We tell the truth about hardship and hope. We do not use polished language to hide real pain, and we do not use pain to create pity. We speak with honesty, respect, and purpose.
 
 These statements should guide every decision Lost Limb Riders makes. Programs, partnerships, events, speeches, media appearances, sponsorship packages, and volunteer training should all reflect the same foundation. If an opportunity helps restore dignity, reduce isolation, build confidence, educate the public, strengthen families, and move the mission forward, it belongs in the conversation. If it distracts from those priorities, it should be reconsidered.
@@ -330,7 +330,6 @@ Programs are how the mission becomes real. Each program should be designed with 
 **Expected outcomes:** Reduced crisis pressure, improved resource access, faster connection to appropriate agencies, and stronger trust in the organization.
 
 **Future expansion:** Microgrant fund, partner referral network, case navigation volunteers, transportation partnerships, and emergency home accessibility support.
-
 
 ## Housing and Independence Advocacy
 
@@ -524,23 +523,23 @@ After experiencing limb loss personally, [Founder Name] came to understand that 
 
 The motto “I Can. I Will.” reflects [Founder Name]’s belief that determination is built one decision at a time. The tagline “Nobody Is Left Behind. Nobody Stands Alone.” reflects the culture Lost Limb Riders is committed to creating for every member, family, volunteer, and partner.
 
-**Media Topics:**  
-Life after limb loss  
-Motorcycle culture and recovery  
-Disability awareness  
-Peer support and community healing  
-Resilience after trauma  
-Family impact of amputation  
-Nonprofit leadership rooted in lived experience  
+**Media Topics:**
+Life after limb loss
+Motorcycle culture and recovery
+Disability awareness
+Peer support and community healing
+Resilience after trauma
+Family impact of amputation
+Nonprofit leadership rooted in lived experience
 
-**Approved short bio:**  
+**Approved short bio:**
 [Founder Name] is the founder of Lost Limb Riders, an organization supporting amputees, limb‑different individuals, and their families through community, mentorship, public awareness, and adaptive opportunity. Drawing from personal experience with limb loss, [Founder Name] speaks about resilience, dignity, and the power of making sure nobody is left behind and nobody stands alone.
 
-**Contact:**  
-Website: [Insert website]  
-Email: [Insert email]  
-Phone: [Insert phone]  
-Social media: [Insert handles]  
+**Contact:**
+Website: [Insert website]
+Email: [Insert email]
+Phone: [Insert phone]
+Social media: [Insert handles]
 
 ## Chapter 14: Call to Action
 
@@ -572,42 +571,42 @@ I Can. I Will.
 
 Use high‑resolution images whenever possible. Avoid images that feel staged, exploitative, or overly polished. The visual identity should feel strong, honest, warm, and real.
 
-**Cover:** Official logo and strong community image.  
-**Founder Letter:** Founder portrait or founder beside motorcycle.  
-**Our Story:** Open road, garage, or personal recovery image.  
-**Reality of Limb Loss:** Rehabilitation, prosthetic fitting, or supportive care image.  
-**Why We Exist:** Group image showing inclusion and strength.  
-**Mission, Vision & Values:** Detail image of hands, patch, vest, prosthetic, or road.  
-**Promise:** Members standing together.  
-**Community:** Family‑friendly gathering.  
-**Programs:** Collage of outreach and activity.  
-**Speaking:** Founder at microphone or community presentation.  
-**Events:** Registration, riders, volunteers, sponsor signage.  
-**Partnerships:** Sponsor recognition image.  
-**Stewardship:** Board or planning image.  
-**Five‑Year Vision:** Road map graphic.  
-**Founder Biography:** Professional headshot.  
+**Cover:** Official logo and strong community image.
+**Founder Letter:** Founder portrait or founder beside motorcycle.
+**Our Story:** Open road, garage, or personal recovery image.
+**Reality of Limb Loss:** Rehabilitation, prosthetic fitting, or supportive care image.
+**Why We Exist:** Group image showing inclusion and strength.
+**Mission, Vision & Values:** Detail image of hands, patch, vest, prosthetic, or road.
+**Promise:** Members standing together.
+**Community:** Family‑friendly gathering.
+**Programs:** Collage of outreach and activity.
+**Speaking:** Founder at microphone or community presentation.
+**Events:** Registration, riders, volunteers, sponsor signage.
+**Partnerships:** Sponsor recognition image.
+**Stewardship:** Board or planning image.
+**Five‑Year Vision:** Road map graphic.
+**Founder Biography:** Professional headshot.
 **Call to Action:** Open road image.
 
 ## Appendix B: Partner One‑Sheet Copy
 
 Lost Limb Riders supports amputees, limb‑different individuals, and their families through community, mentorship, public awareness, adaptive opportunities, and practical resources. Founded from lived experience, the organization exists to reduce isolation, rebuild confidence, and make sure nobody faces the journey of limb loss alone.
 
-**Why partner with us:**  
-Authentic mission rooted in lived experience  
-Visible community impact  
-Strong connection to motorcycle, veteran, healthcare, and disability communities  
-Opportunities for employee engagement and public recognition  
-Programs that serve individuals and families directly  
+**Why partner with us:**
+Authentic mission rooted in lived experience
+Visible community impact
+Strong connection to motorcycle, veteran, healthcare, and disability communities
+Opportunities for employee engagement and public recognition
+Programs that serve individuals and families directly
 
-**Ways to support:**  
-Sponsor Ride Forward  
-Fund peer connection and family support  
-Provide in‑kind goods or services  
-Host a fundraising event  
-Refer patients or families  
-Volunteer at events  
-Support emergency assistance and adaptive opportunities  
+**Ways to support:**
+Sponsor Ride Forward
+Fund peer connection and family support
+Provide in‑kind goods or services
+Host a fundraising event
+Refer patients or families
+Volunteer at events
+Support emergency assistance and adaptive opportunities
 
 **Contact:** [Insert contact information]
 
@@ -617,6 +616,6 @@ As a Lost Limb Riders volunteer, I understand that this organization serves peop
 
 I understand that volunteering is not about attention. It is about service. I will help build a community where nobody is left behind, nobody stands alone, and every person is reminded that they still have value, purpose, and a place to belong.
 
-**Volunteer name:** ______________________________  
-**Signature:** ___________________________________  
-**Date:** ________________________________________  
+**Volunteer name:** ______________________________
+**Signature:** ___________________________________
+**Date:** ________________________________________

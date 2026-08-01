@@ -11,29 +11,34 @@ Support governance continuity, advance special governance projects, assist board
 ## Primary Responsibilities
 
 ### Chairperson Support
+
 - Consult with Chairperson on meeting agendas, governance strategy, and sensitive director issues
 - Assist with board meeting facilitation, note‑taking, and action item tracking
 - Support the executive performance review process and succession planning
 - Provide sounding board for governance challenges and board dynamics
 
 ### Interim Leadership
+
 - Assume all Chairperson duties when the Chairperson is absent or unavailable
 - Call emergency meetings and facilitate urgent Board decisions when Chairperson unavailable
 - Represent the Board externally when authorized during Chairperson absence
 - Maintain continuity of governance processes and board relationships
 
 ### Governance Projects
+
 - Lead special board initiatives such as strategic planning, policy revision, or organizational transition
 - Coordinate governance task forces or work groups on specific issues
 - Track completion of governance projects and report to full Board
 
 ### Board Recruitment & Development
+
 - Support recruitment of new directors aligned with board composition goals
 - Participate in director interviews and onboarding process
 - Mentor newer directors on governance responsibilities and Board culture
 - Support director engagement and accountability
 
 ### Committee Leadership
+
 - Serve on at least one standing committee (often Governance Committee)
 - Support committee chair effectiveness and inter-committee coordination
 - Help resolve committee conflicts or inefficiencies
@@ -58,6 +63,7 @@ Support governance continuity, advance special governance projects, assist board
 ## Time Commitment
 
 4 to 8 hours monthly, including:
+
 - Preparation and attendance at Board meetings (2-3 hours per meeting)
 - Regular consultation with Chairperson (1-2 hours monthly)
 - Committee work and special projects (1-2 hours monthly)
@@ -74,26 +80,31 @@ Support governance continuity, advance special governance projects, assist board
 ## Success Measurements
 
 ### Support Effectiveness
+
 - Chairperson reports satisfaction with Vice Chairperson's support and counsel
 - Special projects are completed on schedule and with quality outcomes
 - Board meetings proceed smoothly with effective Vice Chairperson assistance
 
 ### Leadership Readiness
+
 - Vice Chairperson demonstrates ability to assume Chair role confidently when needed
 - Board directors express confidence in Vice Chairperson as successor
 - Chairperson and Executive Director report on succession readiness
 
 ### Board Recruitment
+
 - Board composition goals are clarified and documented with Vice Chairperson leadership
 - New directors are effectively recruited, interviewed, and onboarded
 - Director retention and engagement metrics are stable or improving
 
 ### Committee Coordination
+
 - Committees report clear understanding of governance expectations
 - Inter-committee conflicts are resolved constructively
 - Governance projects move forward with adequate resource allocation
 
 ### Director Development
+
 - Newer directors report confidence in their governance role
 - Director engagement and meeting attendance remain strong
 - Mentorship relationships result in director growth and deeper commitment
@@ -111,16 +122,19 @@ Support governance continuity, advance special governance projects, assist board
 The Vice Chairperson holds limited authority except when serving as interim Chairperson:
 
 **When Interim Chairperson (in Chairperson's absence):**
+
 - Set meeting agendas and facilitate Board meetings
 - Call emergency meetings and represent the Board
 - Execute all Chairperson duties and authority
 
 **In Support Role:**
+
 - Advise the Chairperson and offer perspective on governance issues
 - Recommend actions to the Board (decisions rest with Chairperson or full Board)
 - Facilitate projects or initiatives as delegated by Chairperson and Board
 
 The Vice Chairperson does NOT have independent authority to:
+
 - Make Board decisions without full Board vote
 - Represent the organization publicly without authorization
 - Override Chairperson decisions or governance processes
@@ -129,6 +143,7 @@ The Vice Chairperson does NOT have independent authority to:
 ## Policies & Compliance
 
 The Vice Chairperson must comply with:
+
 - Nonprofit governance laws of the state of incorporation
 - Lost Limb Riders bylaws and Board-adopted policies
 - Board Code of Conduct and Conflict of Interest Policy
@@ -164,20 +179,25 @@ The Vice Chairperson must comply with:
 ## Common Challenges & Solutions
 
 **Challenge:** Balancing support role with own board participation
+
 - **Solution:** Clear communication with Chairperson about workload; delegate specific projects; maintain own committee work
 
 **Challenge:** Knowing when to step in vs. waiting for Chairperson direction
+
 - **Solution:** Establish regular check-in schedule with Chairperson; clarify decision-making thresholds; trust chair's judgment
 
 **Challenge:** Pressure to align with certain board factions
+
 - **Solution:** Maintain independence; focus on mission and governance quality; work with Chairperson on controversial issues
 
 **Challenge:** Preparation for potential succession to Chairperson
+
 - **Solution:** Proactive learning from current Chair; shadow Chair activities; attend leadership training; honest feedback on readiness
 
 ## Emergency Procedures
 
 In event that Vice Chairperson must assume Chairperson duties:
+
 - Transition immediately; notify full Board and Executive Director
 - Maintain continuity of board process and governance functions
 - Consult with Chairperson after resolution on lessons learned
@@ -186,7 +206,7 @@ In event that Vice Chairperson must assume Chairperson duties:
 
 ---
 
-**Document Version:** 1.0  
-**Last Updated:** [Date]  
-**Adopted By:** Board of Directors  
+**Document Version:** 1.0
+**Last Updated:** [Date]
+**Adopted By:** Board of Directors
 **Review Schedule:** Annually or upon officer election

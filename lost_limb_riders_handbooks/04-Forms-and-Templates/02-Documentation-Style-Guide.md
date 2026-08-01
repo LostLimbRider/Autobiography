@@ -1,8 +1,8 @@
 ## Lost Limb Riders — Documentation Style Guide
 
-**Version:** 1.0  
-**Effective Date:** July 22, 2026  
-**Next Review:** Within 12 months or after major document revision  
+**Version:** 1.0
+**Effective Date:** July 22, 2026
+**Next Review:** Within 12 months or after major document revision
 **Authority:** Board-approved standard for all organizational documentation
 
 ---
@@ -58,6 +58,7 @@ See DOCUMENT-CONTROLLED-MISSION-STATEMENT.md for full hierarchy and application 
 - **Board Member / Director** -- Any voting member of the Board of Directors.
 
 **Rules:**
+
 - Use full titles on first reference in formal documents.
 - Abbreviations (ED, PD) may be used after first reference.
 - Never use "Chairman" — use "Chairperson."
@@ -73,6 +74,7 @@ See DOCUMENT-CONTROLLED-MISSION-STATEMENT.md for full hierarchy and application 
 - Term: Combined | Text: "I Can. I Will. Nobody Is Left Behind. Nobody Stands Alone." | Context: Acceptable in closing statements of speeches and presentations.
 
 **Rules:**
+
 - Motto uses first person ("I"). Tagline uses third person ("Nobody").
 - Do not modify either phrase.
 - Do not use "We Can. We Will." in official materials unless specifically approved by the founder for a particular context.
@@ -93,6 +95,7 @@ See DOCUMENT-CONTROLLED-MISSION-STATEMENT.md for full hierarchy and application 
 - Preferred: Survivor | Avoid: "Victim" (except in legal/criminal context) | Reason: Empowering, accurate for most contexts
 
 **Additional rules:**
+
 - Do not use language that implies pity, tragedy, or inspiration solely because of disability.
 - Do not describe people as "suffering from" limb loss unless quoting a medical source.
 - Respect individual identity preferences — some people prefer identity-first language ("amputee" is itself identity-first and is the community standard).

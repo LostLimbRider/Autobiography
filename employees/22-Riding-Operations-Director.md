@@ -59,7 +59,7 @@ Lead safe motorcycle operations.
 
 ---
 
-**Document Version:** 1.0  
-**Last Updated:** [Date]  
+**Document Version:** 1.0
+**Last Updated:** [Date]
 **Adopted By:** Board of Directors
 **Review Schedule:** Annually or upon organizational change

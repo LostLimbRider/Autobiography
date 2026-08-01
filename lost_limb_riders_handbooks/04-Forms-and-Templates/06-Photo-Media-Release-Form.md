@@ -1,14 +1,14 @@
 ## Lost Limb Riders Photo & Media Release Form
 
-**Version:** 1.0  
+**Version:** 1.0
 **Effective Date:** July 2026
 
 ---
 
 ## PARTICIPANT INFORMATION
 
-**Full Name:** ____________________________________  
-**Date of Birth:** ________ / ________ / ________  
+**Full Name:** ____________________________________
+**Date of Birth:** ________ / ________ / ________
 **Participant Role:** ☐ Member ☐ Volunteer ☐ Staff
 
 **Date of Event/Activity:** ____________________________
@@ -29,6 +29,7 @@ Please select ALL that apply to you:
 
 **TIER 1 — Full Authorization (Most Flexible)**
 ☐ Yes, Lost Limb Riders may use my name and photograph/video in all materials including:
+
    - Website and social media (Facebook, Instagram, etc.)
    - Promotional brochures and printed materials
    - Fundraising communications
@@ -39,14 +40,16 @@ Please select ALL that apply to you:
 
 **TIER 2 — Limited Authorization (Name Only)**
 ☐ Yes, Lost Limb Riders may use my photograph/video WITH MY NAME in:
+
    - Website and social media
    - Promotional materials
    - Organizational communications
-   
+
    NOT in external fundraising or media outreach without additional consent.
 
 **TIER 3 — Anonymous Authorization (No Name)**
 ☐ Yes, Lost Limb Riders may use my photograph/video WITHOUT MY NAME in:
+
    - Website and social media (anonymous)
    - Promotional materials (anonymous)
    - Organizational communications (anonymous)
@@ -63,7 +66,7 @@ Please select ALL that apply to you:
 
 If you selected Tier 1 or 2, please indicate your preferences for social media:
 
-**Personal Tag Preference:**  
+**Personal Tag Preference:**
 ☐ You may tag me in posts
 ☐ You may mention me in captions but please don't tag me directly
 ☐ Don't mention me by name on social media
@@ -77,10 +80,10 @@ If you selected Tier 1 or 2, please indicate your preferences for social media:
 ☐ No restrictions
 ☐ Yes (describe below)
 
-________________________________________________________________  
-________________________________________________________________
+---
+---
 
-**Sensitive Activity Restrictions:**  
+**Sensitive Activity Restrictions:**
 (Examples: hospital visits, sensitive conversations, vulnerable moments)
 
 ☐ No restrictions
@@ -92,8 +95,8 @@ ________________________________________________________________
 
 **If participant is under 18, parent/guardian must sign below:**
 
-**Parent/Guardian Name:** ____________________________________  
-**Relationship:** ____________________________  
+**Parent/Guardian Name:** ____________________________________
+**Relationship:** ____________________________
 **Signature:** ______________________________ **Date:** __________
 
 ---
@@ -101,6 +104,7 @@ ________________________________________________________________
 ## RIGHTS & ACKNOWLEDGMENTS
 
 I understand that:
+
 - Lost Limb Riders owns all photographs and videos created
 - Images may be edited, cropped, or modified
 - No royalty, fee, or other compensation is due to me
@@ -109,6 +113,7 @@ I understand that:
 - Lost Limb Riders may use images repeatedly without additional compensation
 
 **I acknowledge that:**
+
 - ☐ I have read and understand this form
 - ☐ I understand how my image will be used based on my selection above
 - ☐ I have selected my preferred authorization tier(s) above
@@ -120,8 +125,8 @@ I understand that:
 
 This authorization can be revoked in writing at any time. To revoke, contact:
 
-**Lost Limb Riders  
-Email:** ____________________________  
+**Lost Limb Riders
+Email:** ____________________________
 **Phone:** ____________________________
 
 Please allow 30 days for revocation to take effect in all materials. Images already distributed cannot be recalled.
@@ -138,14 +143,13 @@ Please allow 30 days for revocation to take effect in all materials. Images alre
 
 ## FOR STAFF USE ONLY
 
-**Date Received:** ___________________  
-**Entered Into System:** ☐ Yes ☐ No  
-**Authorization Tier:** ☐ Tier 1 ☐ Tier 2 ☐ Tier 3 ☐ Tier 4 ☐ None  
-**Verified By:** ___________________  
-**Compliance Notes:**  
-________________________________________________________________
+**Date Received:** ___________________
+**Entered Into System:** ☐ Yes ☐ No
+**Authorization Tier:** ☐ Tier 1 ☐ Tier 2 ☐ Tier 3 ☐ Tier 4 ☐ None
+**Verified By:** ___________________
+**Compliance Notes:**
+---
 
 ---
 
 **Keep original on file. Provide copy to participant.**
-

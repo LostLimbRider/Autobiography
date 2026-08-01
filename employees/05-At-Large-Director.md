@@ -11,6 +11,7 @@ Provide independent oversight and mission support through committee service, fun
 ## Primary Responsibilities
 
 ### Board Governance
+
 - Attend all Board meetings and actively participate in discussion
 - Review meeting materials before each meeting
 - Vote thoughtfully on organizational decisions
@@ -18,18 +19,21 @@ Provide independent oversight and mission support through committee service, fun
 - Fulfill fiduciary duty to act in organization's best interest
 
 ### Committee Service
+
 - Serve on at least one standing committee (Governance, Finance, Programs, Safety and Risk, Fundraising, or Chapter Development)
 - Attend committee meetings and contribute expertise
 - Support committee work and recommendations
 - Report committee findings to full Board
 
 ### Mission Support
+
 - Champion the organization's mission within personal networks
 - Advocate for Lost Limb Riders in the broader community
 - Support connection between Board work and frontline operations
 - Provide voice for communities served
 
 ### Fundraising
+
 - Support organizational fundraising goals
 - Make annual personal contribution (financially meaningful to individual)
 - Help cultivate major donors or sponsors
@@ -37,12 +41,14 @@ Provide independent oversight and mission support through committee service, fun
 - Provide introductions to potential supporters
 
 ### Policy Review
+
 - Participate in Board evaluation of organizational policies
 - Recommend improvements to governance or operational procedures
 - Support informed Board decisions on policy matters
 - Ensure policies align with mission and values
 
 ### Community Representation
+
 - Represent Board perspective in external relationships
 - Build connections with partner organizations
 - Support Board understanding of community context
@@ -61,6 +67,7 @@ Provide independent oversight and mission support through committee service, fun
 ## Preferred Experience (varies by Board composition goals)
 
 **Preferred backgrounds may include:**
+
 - Lived experience with limb loss, limb difference, amputation, or family experience
 - Healthcare, rehabilitation, disability services, or safety expertise
 - Veteran, recovery, or mental health community connection
@@ -72,6 +79,7 @@ Provide independent oversight and mission support through committee service, fun
 ## Time Commitment
 
 4 to 8 hours monthly, including:
+
 - Board meeting attendance (2-3 hours per meeting)
 - Committee meeting attendance (1-2 hours monthly)
 - Preparation and materials review (30-60 minutes before Board)
@@ -88,28 +96,33 @@ Provide independent oversight and mission support through committee service, fun
 ## Success Measurements
 
 ### Board Participation
+
 - Director attends at least 75% of Board meetings
 - Materials are reviewed and questions are asked
 - Director participates meaningfully in Board discussion
 - Votes align with fiduciary responsibility to mission
 
 ### Committee Contribution
+
 - Committee meetings attended and active participation
 - Committee work contributes meaningfully to governance
 - Expertise is applied to committee decisions
 
 ### Mission Support
+
 - Director demonstrates understanding of mission in Board discussion
 - External advocacy reflects organizational values and direction
 - Community connections strengthen organizational relationships
 
 ### Fundraising Support
+
 - Annual personal contribution made
 - Donor cultivation efforts yield relationships or contributions
 - Fundraising event participation is active
 - Support for fundraising goals is evident
 
 ### Governance Engagement
+
 - Director complies with Board Member Agreement
 - Conflict of interest is disclosed when relevant
 - Confidentiality is maintained on sensitive matters
@@ -126,6 +139,7 @@ Provide independent oversight and mission support through committee service, fun
 ## Authority & Decision‑Making
 
 At‑Large Directors hold authority to:
+
 - Vote on all Board decisions (equal authority with other directors)
 - Speak and participate in Board discussion
 - Serve on committees and provide committee leadership
@@ -133,6 +147,7 @@ At‑Large Directors hold authority to:
 - Question organizational decisions and request explanations
 
 At‑Large Directors do NOT hold authority to:
+
 - Make unilateral organizational decisions
 - Hire or fire employees or contractors
 - Approve budgets or major expenditures independently
@@ -142,6 +157,7 @@ At‑Large Directors do NOT hold authority to:
 ## Board Member Standards
 
 All At‑Large Directors must comply with:
+
 - Board Member Agreement (attendance, preparation, committee service, contribution)
 - Board Code of Conduct (respectful behavior, no harassment, ethical conduct)
 - Conflict of Interest Policy (disclose and manage conflicts)
@@ -187,6 +203,7 @@ All At‑Large Directors must comply with:
 ## Transitioning From Board
 
 When leaving the Board:
+
 - Maintain confidentiality of Board information
 - Return all confidential materials
 - Transition committee responsibilities
@@ -195,7 +212,7 @@ When leaving the Board:
 
 ---
 
-**Document Version:** 1.0  
-**Last Updated:** [Date]  
-**Adopted By:** Board of Directors  
+**Document Version:** 1.0
+**Last Updated:** [Date]
+**Adopted By:** Board of Directors
 **Review Schedule:** Annually or upon organizational change

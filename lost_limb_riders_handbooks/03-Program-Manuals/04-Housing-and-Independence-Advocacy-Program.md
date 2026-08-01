@@ -1,5 +1,7 @@
 ## Lost Limb Riders
+
 ## Housing & Independence Advocacy Division
+
 ### Operations Manual
 
 **Version 1.0**
@@ -500,6 +502,7 @@ The Division maintains accountability through:
 - Participant satisfaction surveys administered at case closure
 - Incident reporting procedures as defined in Section 14
 - Regular supervision meetings at all levels of the organizational structure
+
 ## Section 6: Client Intake Procedures
 
 ## 6.1 Initial Contact Procedure
@@ -934,6 +937,7 @@ For each closed case, the Case Advocate documents:
 - Duration of advocacy relationship
 
 These outcomes are aggregated for program metrics reporting (Section 17).
+
 ## Section 11: Emergency Assistance Procedures
 
 ## 11.1 Housing Crisis Response
@@ -1250,6 +1254,7 @@ If a breach of confidentiality occurs:
 3. If participant notification is required, the Program Director notifies affected participants within seven days of discovery, describing what information was involved and what steps are being taken to prevent recurrence.
 4. The Program Director documents the breach and corrective actions.
 5. If the breach involves protected health information, the Program Director consults legal counsel regarding HIPAA notification requirements.
+
 ## Section 16: Documentation Standards
 
 ## 16.1 Intake Forms
@@ -1569,6 +1574,7 @@ Date: _____________  Advocate: _____________
 [ ] SNAP [ ] VA Benefits [ ] Section 8 [ ] Other: _____________
 
 **Participant-Defined Goals (in participant’s own words):**
+
 1. ________________________________________
 2. ________________________________________
 3. ________________________________________
@@ -1621,8 +1627,8 @@ Accessible parking: [ ] Yes [ ] No  Designated space: [ ] Yes [ ] No
 Sidewalk condition: _____________  Curb cuts: [ ] Yes [ ] No
 
 **Notes:**
-________________________________________
-________________________________________
+---
+---
 
 ---
 
@@ -1635,20 +1641,20 @@ Date: _____________  Time: _____________
 Advocate: _____________  Interaction Type: _____________
 
 **Individuals Involved:**
-________________________________________
+---
 
 **Summary of Discussion:**
-________________________________________
-________________________________________
-________________________________________
+---
+---
+---
 
 **Actions Taken:**
-________________________________________
-________________________________________
+---
+---
 
 **Action Items and Responsible Party:**
-________________________________________
-________________________________________
+---
+---
 
 **Follow-Up Date:** _____________
 
@@ -1727,15 +1733,15 @@ Location of Incident: ________________________________________
 [ ] Law Enforcement Involvement  [ ] Safety Concern  [ ] Other: _____________
 
 **Description of Incident:**
-________________________________________
-________________________________________
-________________________________________
+---
+---
+---
 
 **Individuals Involved:**
-________________________________________
+---
 
 **Immediate Actions Taken:**
-________________________________________
+---
 
 **Was Emergency Services Contacted?** [ ] Yes [ ] No
 If yes: _____________
@@ -1777,7 +1783,7 @@ Advocate: _____________
 Satisfaction Rating (1-5): _____________
 
 **Recommendations for Future Support:**
-________________________________________
+---
 
 **Case File Complete:** [ ] Yes
 **Financial Records Reconciled:** [ ] Yes [ ] N/A
@@ -1794,22 +1800,28 @@ ________________________________________
 Thank you for participating in the Lost Limb Riders Housing & Independence Advocacy Division. Your feedback helps us improve.
 
 1. How satisfied were you with the advocacy services you received?
+
    [ ] Very Satisfied [ ] Satisfied [ ] Neutral [ ] Dissatisfied [ ] Very Dissatisfied
 
 2. Did the advocacy support help you achieve your housing or independence goals?
+
    [ ] Yes, completely [ ] Yes, partially [ ] No [ ] Not applicable
 
 3. How satisfied were you with communication from your advocate?
+
    [ ] Very Satisfied [ ] Satisfied [ ] Neutral [ ] Dissatisfied [ ] Very Dissatisfied
 
 4. Would you recommend Lost Limb Riders Housing & Independence Advocacy services to others?
+
    [ ] Yes [ ] No  Why or why not? ________________________________________
 
 5. What could we have done better?
-   ________________________________________
+
+---
 
 6. Is there anything else you would like to share?
-   ________________________________________
+
+---
 
 ---
 

@@ -1,26 +1,26 @@
 ## Lost Limb Riders Emergency Contact Form
 
-**Version:** 1.0  
+**Version:** 1.0
 **Effective Date:** July 2026
 
 ---
 
 ## PARTICIPANT INFORMATION
 
-**Full Name:** ____________________________________  
-**Lost Limb Riders ID/Member #:** ___________________  
-**Date of Birth:** ________ / ________ / ________  
+**Full Name:** ____________________________________
+**Lost Limb Riders ID/Member #:** ___________________
+**Date of Birth:** ________ / ________ / ________
 **Primary Phone:** ____________________________
 
 ---
 
 ## PRIMARY EMERGENCY CONTACT
 
-**Name:** ____________________________________  
-**Relationship:** ____________________________  
-**Phone:** ____________________________  
-**Alternate Phone:** ____________________________  
-**Email:** ____________________________  
+**Name:** ____________________________________
+**Relationship:** ____________________________
+**Phone:** ____________________________
+**Alternate Phone:** ____________________________
+**Email:** ____________________________
 
 **Address:** __________________________________________________________
 
@@ -28,11 +28,11 @@
 
 ## SECONDARY EMERGENCY CONTACT
 
-**Name:** ____________________________________  
-**Relationship:** ____________________________  
-**Phone:** ____________________________  
-**Alternate Phone:** ____________________________  
-**Email:** ____________________________  
+**Name:** ____________________________________
+**Relationship:** ____________________________
+**Phone:** ____________________________
+**Alternate Phone:** ____________________________
+**Email:** ____________________________
 
 **Address:** __________________________________________________________
 
@@ -40,25 +40,25 @@
 
 ## MEDICAL EMERGENCY INFORMATION
 
-**Known Allergies:**  
-☐ None ☐ Yes (list below)  
-________________________________________________________________
+**Known Allergies:**
+☐ None ☐ Yes (list below)
+---
 
-**Current Medications:**  
-________________________________________________________________
+**Current Medications:**
+---
 
-**Medical Conditions (relevant to emergency response):**  
-________________________________________________________________
+**Medical Conditions (relevant to emergency response):**
+---
 
-**Prosthetic/Adaptive Equipment Currently Using:**  
-________________________________________________________________
+**Prosthetic/Adaptive Equipment Currently Using:**
+---
 
-**Healthcare Provider Name:** ____________________________________  
-**Provider Phone:** ____________________________  
+**Healthcare Provider Name:** ____________________________________
+**Provider Phone:** ____________________________
 **Provider Address:** __________________________________________________________
 
-**Insurance Company:** ____________________________  
-**Policy Number:** ____________________________  
+**Insurance Company:** ____________________________
+**Policy Number:** ____________________________
 **Group Number:** ____________________________
 
 ---
@@ -67,8 +67,8 @@ ________________________________________________________________
 
 **Are you a veteran?** ☐ Yes ☐ No
 
-**If yes, branch and service dates:**  
-____________________________________________________________________
+**If yes, branch and service dates:**
+---
 
 **VA Disability Rating:** __________________
 
@@ -78,22 +78,22 @@ ____________________________________________________________________
 
 ## SPECIAL INSTRUCTIONS
 
-**Mobility/Prosthetic Needs:**  
+**Mobility/Prosthetic Needs:**
 (How to assist if you're injured or in distress)
 
-________________________________________________________________  
-________________________________________________________________
+---
+---
 
-**Communication Needs:**  
+**Communication Needs:**
 (Hearing, vision, speech considerations)
 
-________________________________________________________________
+---
 
-**Religious/Cultural Requests in Medical Emergency:**  
-________________________________________________________________
+**Religious/Cultural Requests in Medical Emergency:**
+---
 
-**Other Important Information:**  
-________________________________________________________________
+**Other Important Information:**
+---
 
 ---
 
@@ -107,16 +107,15 @@ I authorize Lost Limb Riders to contact the individuals listed above in case of 
 
 ## FOR STAFF USE ONLY
 
-**Date Received:** ___________________  
-**Entered Into System:** ☐ Yes ☐ No  
-**Verified By:** ___________________  
-**Last Updated:** ___________________  
+**Date Received:** ___________________
+**Entered Into System:** ☐ Yes ☐ No
+**Verified By:** ___________________
+**Last Updated:** ___________________
 
-**Contact Attempt Log:**  
-Date: ______________ Contacted: ______________ Time: ______________  
+**Contact Attempt Log:**
+Date: ______________ Contacted: ______________ Time: ______________
 Outcome: ________________________________________________________________
 
 ---
 
 **Keep in participant file and accessible to staff at all times.**
-

@@ -11,6 +11,7 @@ Provide administrative support through scheduling, correspondence, filing, meeti
 ## Primary Responsibilities
 
 ### Scheduling & Calendar Management
+
 - Maintain calendars for Executive Director and leadership
 - Schedule meetings and coordinate with participants
 - Send meeting reminders and agendas
@@ -18,6 +19,7 @@ Provide administrative support through scheduling, correspondence, filing, meeti
 - Coordinate travel and logistics
 
 ### Correspondence & Communications
+
 - Manage incoming mail and email routing
 - Prepare correspondence and communications
 - Maintain distribution lists
@@ -25,6 +27,7 @@ Provide administrative support through scheduling, correspondence, filing, meeti
 - Coordinate document distribution
 
 ### Filing & Record Organization
+
 - Maintain organized filing systems (physical and digital)
 - File documents accurately and timely
 - Retrieve requested documents and records
@@ -32,6 +35,7 @@ Provide administrative support through scheduling, correspondence, filing, meeti
 - Maintain confidentiality of sensitive files
 
 ### Meeting Support
+
 - Prepare meeting materials and agendas
 - Set up meeting spaces and technology
 - Take notes during meetings (as needed)
@@ -39,6 +43,7 @@ Provide administrative support through scheduling, correspondence, filing, meeti
 - Coordinate Board and committee meetings
 
 ### Supply & Inventory Management
+
 - Monitor office supplies and equipment
 - Place orders and track deliveries
 - Maintain inventory systems
@@ -81,6 +86,6 @@ Provide administrative support through scheduling, correspondence, filing, meeti
 
 ---
 
-**Document Version:** 1.0  
-**Last Updated:** [Date]  
+**Document Version:** 1.0
+**Last Updated:** [Date]
 **Adopted By:** Board of Directors

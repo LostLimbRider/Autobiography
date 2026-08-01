@@ -1,5 +1,7 @@
 ## Lost Limb Riders
+
 ## Hospital and Prosthetic Partner Outreach
+
 ### Administrative Operations Manual
 
 **Version 1.0**
@@ -118,6 +120,7 @@ All outreach representatives must clearly communicate these limitations to partn
 Hospitals are the most common entry point for new amputees. Whether through trauma, planned surgery, or complication, the hospital is where most people first wake up without a limb. Our partnerships with hospitals focus on emergency departments, surgical units, and discharge planning teams.
 
 **Partnership activities:**
+
 - Establish a point of contact in case management, social work, or patient advocacy
 - Provide educational materials for hospital staff on the peer support model
 - Train referral coordinators on the intake process
@@ -125,6 +128,7 @@ Hospitals are the most common entry point for new amputees. Whether through trau
 - Participate in discharge planning meetings when invited
 
 **Requirements:**
+
 - Signed partnership agreement with facility administration
 - Compliance with all facility credentialing, background check, and infection control policies
 - Designated hospital liaison responsible for ongoing communication
@@ -135,12 +139,14 @@ Hospitals are the most common entry point for new amputees. Whether through trau
 Trauma centers treat patients with sudden, catastrophic injuries\u2014many of which result in amputation. These patients often have no preparation time. The psychological impact is immediate and severe. Trauma center partnerships require sensitivity, speed, and coordination with critical care teams.
 
 **Partnership activities:**
+
 - Coordinate with trauma social workers and case managers
 - Provide rapid-response peer support upon referral
 - Offer materials appropriate for family members in waiting areas
 - Respect critical care access restrictions and patient stability priorities
 
 **Requirements:**
+
 - Designated trauma center liaison (may be same as hospital liaison)
 - Training for outreach representatives on trauma-informed communication
 - Clear escalation protocol for patients experiencing acute psychological distress
@@ -151,6 +157,7 @@ Trauma centers treat patients with sudden, catastrophic injuries\u2014many of wh
 Rehabilitation hospitals are where amputees learn to live again. The stay is longer, the work is harder, and the emotional arc is different from the acute phase. Patients here are processing their new reality. Peer support at this stage can have outsized impact.
 
 **Partnership activities:**
+
 - Regular in-person peer visits scheduled with facility approval
 - Group support sessions for rehab patients when feasible
 - Collaboration with physical and occupational therapy teams
@@ -158,6 +165,7 @@ Rehabilitation hospitals are where amputees learn to live again. The stay is lon
 - Participation in family education days or caregiver support events
 
 **Requirements:**
+
 - Signed partnership agreement with rehab facility administration
 - Coordination with rehab therapy schedules to avoid disruption
 - Regular attendance by assigned outreach representative
@@ -168,11 +176,13 @@ Rehabilitation hospitals are where amputees learn to live again. The stay is lon
 Inpatient rehabilitation facilities (IRFs) provide intensive, multidisciplinary therapy for patients recovering from major conditions, including amputation. IRFs may be standalone facilities or units within larger hospitals. Partnership approach mirrors rehabilitation hospitals with adjustment for institutional structure.
 
 **Partnership activities:**
+
 - Same as Section 2.3, adapted to facility policies
 - Coordination with IRF medical director or program director
 - Integration into existing patient education and support programming
 
 **Requirements:**
+
 - Signed partnership agreement
 - Outreach representative assigned to each IRF location
 - Semi-annual program review with IRF leadership
@@ -182,6 +192,7 @@ Inpatient rehabilitation facilities (IRFs) provide intensive, multidisciplinary 
 Prosthetic and orthotic clinics are where amputees get their legs, arms, and devices. This is often the first place a new amputee goes after leaving the hospital. The prosthetist is a trusted figure in the amputee\u2019s new life. Partnering with these clinics puts peer support directly in the path of care.
 
 **Partnership activities:**
+
 - Provide clinic waiting rooms with Lost Limb Riders materials
 - Offer peer support at the clinic with patient consent
 - Train prosthetists and clinic staff on referral procedures
@@ -189,6 +200,7 @@ Prosthetic and orthotic clinics are where amputees get their legs, arms, and dev
 - Share patient feedback (with consent) to improve clinic services
 
 **Requirements:**
+
 - Signed partnership agreement with clinic ownership or management
 - Compliance with clinic scheduling and privacy requirements
 - Quarterly check-ins with clinic lead prosthetist
@@ -199,12 +211,14 @@ Prosthetic and orthotic clinics are where amputees get their legs, arms, and dev
 Physical therapists work with amputees from the first post-surgical movement through long-term gait training. They see patients at their most frustrated and their most determined. PT providers can identify patients who would benefit from peer support.
 
 **Partnership activities:**
+
 - Educational in-service for PT staff on the peer support model
 - Referral materials in PT treatment areas
 - Coordination with PT schedules for peer visit timing
 - Resource sharing on adaptive recreation and fitness
 
 **Requirements:**
+
 - Referral protocol documented with each PT practice
 - Outreach representative assigned to maintain relationship
 - Annual review of referral patterns and outcomes
@@ -214,10 +228,12 @@ Physical therapists work with amputees from the first post-surgical movement thr
 Occupational therapists help amputees relearn daily living\u2014dressing, cooking, bathing, working. Their work is deeply personal and practical. OT providers often witness the daily frustrations that peer support can help normalize.
 
 **Partnership activities:**
+
 - Same as Section 2.6, tailored to OT practice settings
 - Emphasis on adaptive equipment and home modification resources
 
 **Requirements:**
+
 - Referral protocol documented
 - Coordination between OT providers and Lost Limb Riders resource library
 - Semi-annual relationship check-in
@@ -227,12 +243,14 @@ Occupational therapists help amputees relearn daily living\u2014dressing, cookin
 Many amputees receive home health services after discharge. A home health partnership extends peer support into the home environment, where patients may feel isolated and overwhelmed.
 
 **Partnership activities:**
+
 - Provide home health agencies with referral materials
 - Coordinate peer home visits with agency approval and patient consent
 - Train home health staff on identifying patients who may benefit from peer support
 - Share community resource information through home health channels
 
 **Requirements:**
+
 - Signed partnership agreement with agency administration
 - Compliance with agency visit policies and safety protocols
 - Background check clearance for any representative conducting home visits
@@ -243,12 +261,14 @@ Many amputees receive home health services after discharge. A home health partne
 Some amputees transition to skilled nursing facilities (SNFs) before returning home. SNF stays can be long, and patients in these settings are at high risk for depression and social withdrawal. Peer support can be a lifeline.
 
 **Partnership activities:**
+
 - On-site peer visits with facility approval and patient consent
 - Group programming for SNF residents when feasible
 - Staff training on peer support resources
 - Coordination with SNF activity and social work departments
 
 **Requirements:**
+
 - Signed partnership agreement with SNF administration
 - Outreach representative assigned per facility
 - Compliance with all SNF policies, including infection control and visit scheduling
@@ -259,6 +279,7 @@ Some amputees transition to skilled nursing facilities (SNFs) before returning h
 Veterans represent a significant portion of the amputee population. VA facilities have their own structure, culture, and referral pathways. Partnerships with VA medical centers, VA prosthetic clinics, and Vet Centers require understanding of VA protocols and veteran-specific needs.
 
 **Partnership activities:**
+
 - Establish relationship with VA amputation care coordinator or prosthetics chief
 - Provide peer support services to veterans through VA referral channels
 - Coordinate with VA voluntary service office for outreach representative credentialing
@@ -266,6 +287,7 @@ Veterans represent a significant portion of the amputee population. VA facilitie
 - Offer veteran-to-veteran peer matching when available
 
 **Requirements:**
+
 - Compliance with VA credentialing, background check, and volunteer onboarding
 - Understanding of VA privacy rules and health information sharing limitations
 - Signed partnership agreement with VA facility or regional office where required
@@ -276,12 +298,14 @@ Veterans represent a significant portion of the amputee population. VA facilitie
 Community health organizations include federally qualified health centers, community clinics, disability service organizations, and nonprofit health advocacy groups. These organizations serve patients who may lack access to major hospital systems. Partnerships here extend reach into underserved communities.
 
 **Partnership activities:**
+
 - Provide educational materials and referral forms
 - Offer staff training on limb loss peer support resources
 - Coordinate peer connection for patients referred through community health channels
 - Collaborate on health fairs, community events, and awareness campaigns
 
 **Requirements:**
+
 - Signed partnership agreement or memorandum of understanding
 - Designated contact person at each organization
 - Annual review of partnership activities and outcomes
@@ -296,6 +320,7 @@ Community health organizations include federally qualified health centers, commu
 **Purpose:** Lead the Hospital and Prosthetic Partner Outreach program. Develop and maintain healthcare partnerships, supervise outreach staff and volunteers, ensure program compliance, and track outcomes.
 
 **Responsibilities:**
+
 - Identify and pursue partnership opportunities with hospitals, trauma centers, rehab facilities, prosthetic clinics, and other healthcare organizations
 - Negotiate and execute partnership agreements
 - Supervise Hospital Outreach Coordinator and Regional Outreach Representatives
@@ -308,6 +333,7 @@ Community health organizations include federally qualified health centers, commu
 - Review and update program policies annually
 
 **Qualifications:**
+
 - Experience in healthcare partnership development, hospital administration, or related field
 - Understanding of amputee care continuum and prosthetic rehabilitation
 - Strong communication and relationship management skills
@@ -321,6 +347,7 @@ Community health organizations include federally qualified health centers, commu
 **Purpose:** Coordinate day-to-day outreach operations, manage referral intake, schedule peer visits, and maintain partner communication.
 
 **Responsibilities:**
+
 - Receive and process referrals from healthcare partners
 - Match referred patients with appropriate peer support resources
 - Schedule in-hospital and in-clinic peer visits
@@ -333,6 +360,7 @@ Community health organizations include federally qualified health centers, commu
 - Assist Director with quarterly and annual reporting
 
 **Qualifications:**
+
 - Strong organizational and communication skills
 - Experience with database management and record keeping
 - Understanding of healthcare privacy requirements
@@ -346,6 +374,7 @@ Community health organizations include federally qualified health centers, commu
 **Purpose:** Serve as the face of Lost Limb Riders in a defined geographic region. Build and maintain relationships with healthcare partners, conduct peer visits, and represent the organization professionally in clinical settings.
 
 **Responsibilities:**
+
 - Develop relationships with partner organizations within assigned region
 - Conduct in-hospital and in-clinic peer visits with referred patients
 - Maintain regular communication with partner points of contact
@@ -357,6 +386,7 @@ Community health organizations include federally qualified health centers, commu
 - Represent Lost Limb Riders at community events and health fairs
 
 **Qualifications:**
+
 - Lived experience with limb loss preferred but not required
 - Excellent interpersonal and communication skills
 - Ability to navigate clinical environments professionally
@@ -371,6 +401,7 @@ Community health organizations include federally qualified health centers, commu
 **Purpose:** Support outreach activities through administrative assistance, event support, material preparation, and other program needs.
 
 **Responsibilities:**
+
 - Assist with preparation of outreach materials and resource packets
 - Support outreach events and health fairs
 - Provide administrative support for referral processing
@@ -378,6 +409,7 @@ Community health organizations include federally qualified health centers, commu
 - Serve as peer mentors under supervision of outreach staff
 
 **Qualifications:**
+
 - Completion of volunteer orientation and outreach training
 - Commitment to program mission and ethical guidelines
 - Reliability and professional conduct
@@ -413,6 +445,7 @@ Program Volunteers
 **Step 1: Identify the right contact.** Research the healthcare organization to determine the appropriate department and contact person. For hospitals, this is typically case management, social work, or patient experience. For prosthetic clinics, it is the clinic manager or lead prosthetist.
 
 **Step 2: Make initial contact.** Send a professional introduction via email or phone. Include:
+
 - Brief description of Lost Limb Riders
 - Overview of the Hospital and Prosthetic Partner Outreach program
 - Request for a meeting to discuss potential partnership
@@ -421,6 +454,7 @@ Program Volunteers
 **Step 3: Schedule an introductory meeting.** Meet in person when possible. Virtual meetings are acceptable for initial discussion. Attendees should include the potential partner decision-maker and the assigned outreach representative or Director of Medical Partnerships.
 
 **Step 4: Present the partnership opportunity.** Provide:
+
 - Program overview and mission alignment
 - Referral process explanation
 - Sample educational materials
@@ -428,6 +462,7 @@ Program Volunteers
 - Outcomes data and testimonials if available
 
 **Step 5: Address questions and concerns.** Be prepared to discuss:
+
 - Privacy and HIPAA compliance
 - Volunteer credentialing and background checks
 - Program limitations
@@ -441,6 +476,7 @@ Program Volunteers
 All healthcare partnerships require a signed partnership agreement before outreach activities begin. The agreement must be reviewed by Lost Limb Riders legal counsel before execution.
 
 **Agreement components:**
+
 - Names and contact information for both parties
 - Description of services to be provided
 - Referral procedures and points of contact
@@ -451,6 +487,7 @@ All healthcare partnerships require a signed partnership agreement before outrea
 - Signature blocks for authorized representatives
 
 **Process:**
+
 1. Director of Medical Partnerships drafts or reviews agreement
 2. Agreement reviewed by Lost Limb Riders legal counsel
 3. Agreement signed by authorized Lost Limb Riders representative (Executive Director or Board designee)
@@ -460,6 +497,7 @@ All healthcare partnerships require a signed partnership agreement before outrea
 7. Outreach activities begin per agreement terms
 
 **Renewal:**
+
 - Partnerships are reviewed annually
 - Renewal agreement or amendment is executed if terms change
 - Partnerships with no activity for twelve consecutive months are subject to termination
@@ -485,6 +523,7 @@ All documentation is maintained in the program database and is accessible to the
 Healthcare partners refer patients to Lost Limb Riders through the established referral process. Referrals may be made by phone, email, secure messaging, or written referral form.
 
 **Referral information required:**
+
 - Patient name and contact information
 - Preferred method of contact
 - Patient consent to be contacted (documented)
@@ -494,6 +533,7 @@ Healthcare partners refer patients to Lost Limb Riders through the established r
 - Any special considerations (language, accessibility, cultural needs)
 
 **Referral processing:**
+
 1. Hospital Outreach Coordinator receives referral
 2. Referral information entered into program database
 3. Patient consent verified
@@ -523,6 +563,7 @@ The Hospital Outreach Coordinator maintains credentialing records for all active
 All outreach representatives must complete initial training before making independent contact with healthcare partners or patients. Training is delivered by the Director of Medical Partnerships or designee.
 
 **Training modules:**
+
 - Module 1: Lost Limb Riders mission, history, and program overview
 - Module 2: Healthcare partner types and partnership models
 - Module 3: Referral intake and processing procedures
@@ -535,6 +576,7 @@ All outreach representatives must complete initial training before making indepe
 - Module 10: Program limitations and ethical guidelines
 
 **Training delivery:**
+
 - Training is offered in-person and virtually
 - Each module includes written materials and a knowledge check
 - Training must be completed within thirty days of appointment
@@ -546,6 +588,7 @@ All outreach representatives must complete initial training before making indepe
 Outreach representatives participate in ongoing training to maintain skills and stay current on program developments.
 
 **Ongoing training requirements:**
+
 - Quarterly program updates and refresher sessions
 - Annual HIPAA and privacy compliance training
 - Annual infection control update
@@ -557,6 +600,7 @@ Outreach representatives participate in ongoing training to maintain skills and 
 Quality assurance ensures that outreach activities meet program standards and deliver value to healthcare partners and patients.
 
 **Quality assurance activities:**
+
 - Monthly review of outreach activity logs for completeness and accuracy
 - Quarterly review of referral-to-connection conversion rates
 - Semi-annual partner satisfaction surveys
@@ -565,6 +609,7 @@ Quality assurance ensures that outreach activities meet program standards and de
 - Incident review following any reported issue or concern
 
 **Performance standards:**
+
 - Initial patient contact within seventy-two hours of referral
 - Complete documentation for every outreach interaction
 - Professional conduct in all partner interactions
@@ -576,6 +621,7 @@ Quality assurance ensures that outreach activities meet program standards and de
 Any incident involving a healthcare partner or referred patient must be documented and escalated according to the following procedures.
 
 **Reportable incidents:**
+
 - Patient complaint about an outreach representative
 - Partner complaint about program conduct
 - Privacy or confidentiality breach
@@ -585,6 +631,7 @@ Any incident involving a healthcare partner or referred patient must be document
 - Any situation requiring facility intervention or security involvement
 
 **Reporting procedure:**
+
 1. Outreach representative notifies Hospital Outreach Coordinator within twenty-four hours
 2. Hospital Outreach Coordinator completes incident report
 3. Director of Medical Partnerships reviews incident within seventy-two hours
@@ -598,6 +645,7 @@ Any incident involving a healthcare partner or referred patient must be document
 The Hospital and Prosthetic Partner Outreach program is evaluated annually to assess effectiveness, identify improvement opportunities, and demonstrate impact to stakeholders.
 
 **Evaluation components:**
+
 - Referral volume and source analysis
 - Referral-to-connection conversion rates
 - Patient satisfaction with peer support received through program
@@ -607,6 +655,7 @@ The Hospital and Prosthetic Partner Outreach program is evaluated annually to as
 - Budget and resource utilization
 
 **Evaluation process:**
+
 1. Director of Medical Partnerships compiles program data for the year
 2. Survey data collected from partners and patients (with consent)
 3. Findings presented to Executive Director and Board of Directors
@@ -616,6 +665,7 @@ The Hospital and Prosthetic Partner Outreach program is evaluated annually to as
 ## 5.6 Continuous Improvement
 
 Program policies and procedures are reviewed annually and updated as needed. Updates may also be prompted by:
+
 - Changes in healthcare regulations or privacy laws
 - Feedback from healthcare partners
 - Lessons learned from incidents or near misses
@@ -1967,4 +2017,3 @@ In year three, the program begins analyzing outcome data and preparing internal 
 In year four, with the Medical Advisory Committee in place, the program develops a formal research protocol for submission to an Institutional Review Board (IRB). The program seeks IRB approval through a partner hospital\u2019s IRB or an independent IRB. Research questions focus on the impact of peer support on patient-reported outcomes after amputation.
 
 In year five, the program publishes its first research findings in a peer-reviewed journal or presents at a national conference. The program also applies for grant funding to support continued research, targeting foundations and government agencies that fund peer support, amputation care, and rehabilitation research. Publishable outcomes, conference presentations, and grant-funded studies establish the program as a credible contributor to the evidence base for peer support in amputation care.
-

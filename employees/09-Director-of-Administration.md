@@ -11,6 +11,7 @@ Lead administrative systems including records, calendars, document control, comp
 ## Primary Responsibilities
 
 ### Records Management
+
 - Establish and maintain official organizational records
 - Develop and implement records retention and destruction procedures
 - Ensure secure storage of sensitive documents
@@ -18,6 +19,7 @@ Lead administrative systems including records, calendars, document control, comp
 - Support compliance audits and legal document requests
 
 ### Administrative Operations
+
 - Manage office space, equipment, and supplies
 - Coordinate facilities maintenance and repairs
 - Oversee administrative technology and systems
@@ -25,6 +27,7 @@ Lead administrative systems including records, calendars, document control, comp
 - Ensure safe, accessible work environment
 
 ### Calendar & Scheduling
+
 - Maintain master organizational calendar
 - Coordinate meeting scheduling (Board, staff, committees)
 - Manage Executive Director calendar
@@ -32,6 +35,7 @@ Lead administrative systems including records, calendars, document control, comp
 - Support virtual meeting technology
 
 ### Compliance Tracking
+
 - Track required licenses, permits, and registrations
 - Monitor compliance deadlines
 - Coordinate with legal and insurance advisors
@@ -39,6 +43,7 @@ Lead administrative systems including records, calendars, document control, comp
 - Alert management to compliance issues
 
 ### Administrative Staff Supervision
+
 - Recruit and hire administrative staff
 - Supervise administrative team
 - Conduct performance reviews
@@ -46,6 +51,7 @@ Lead administrative systems including records, calendars, document control, comp
 - Manage administrative department budget
 
 ### Administrative Workflows
+
 - Develop efficient administrative processes
 - Train staff on procedures and systems
 - Continuously improve administrative effectiveness
@@ -71,6 +77,7 @@ Lead administrative systems including records, calendars, document control, comp
 ## Time Commitment
 
 5-15 hours weekly (typically 20-30 hour position)
+
 - Administrative operations and staff supervision (10-15 hours)
 - Records and compliance (3-5 hours)
 - Board support and special projects (2-5 hours)
@@ -92,6 +99,6 @@ Lead administrative systems including records, calendars, document control, comp
 
 ---
 
-**Document Version:** 1.0  
-**Last Updated:** [Date]  
+**Document Version:** 1.0
+**Last Updated:** [Date]
 **Adopted By:** Board of Directors
