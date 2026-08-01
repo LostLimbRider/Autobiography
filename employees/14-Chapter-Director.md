@@ -1,4 +1,4 @@
-# Chapter Director — Position Manual
+## Chapter Director — Position Manual
 
 ## Position Overview
 

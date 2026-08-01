@@ -1,4 +1,4 @@
-# Secretary — Position Manual
+## Secretary — Position Manual
 
 ## Position Overview
 

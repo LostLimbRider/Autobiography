@@ -1,4 +1,4 @@
-# Lost Limb Riders
+## Lost Limb Riders
 ## Housing & Independence Advocacy Division
 ### Operations Manual
 
@@ -12,30 +12,26 @@
 
 ---
 
-# Document Control
+## Document Control
 
-| Field | Detail |
-|-------|--------|
-| Document Title: | Housing & Independence Advocacy Division Operations Manual |
-| Version: | 1.0 |
-| Effective Date: | [Effective Date] |
-| Document Owner: | Program Director, Housing & Independence Advocacy Division |
-| Approving Authority: | Board of Directors, Lost Limb Riders |
-| Review Cycle: | Annual |
-| Last Review Date: | [Date] |
-| Next Review Date: | [Date + 1 Year] |
+- **Document Title:** -- Housing & Independence Advocacy Division Operations Manual
+- **Version:** -- 1.0
+- **Effective Date:** -- [Effective Date]
+- **Document Owner:** -- Program Director, Housing & Independence Advocacy Division
+- **Approving Authority:** -- Board of Directors, Lost Limb Riders
+- **Review Cycle:** -- Annual
+- **Last Review Date:** -- [Date]
+- **Next Review Date:** -- [Date + 1 Year]
 
 ---
 
-# Revision History
+## Revision History
 
-| Version | Date | Author | Description of Change |
-|---------|------|--------|----------------------|
-| 1.0 | [Date] | [Author] | Initial release |
+- Version: 1.0 | Date: [Date] | Author: [Author] | Description of Change: Initial release
 
 ---
 
-# Approval Signatures
+## Approval Signatures
 
 The undersigned approve this Operations Manual as the governing document for the Housing & Independence Advocacy Division of Lost Limb Riders.
 
@@ -47,7 +43,7 @@ The undersigned approve this Operations Manual as the governing document for the
 
 ---
 
-# Table of Contents
+## Table of Contents
 
 **Section 1:** Executive Overview
 **Section 2:** Program Philosophy
@@ -72,7 +68,7 @@ The undersigned approve this Operations Manual as the governing document for the
 
 ---
 
-# Section 1: Executive Overview
+## Section 1: Executive Overview
 
 ## 1.1 Purpose of the Housing & Independence Advocacy Division
 
@@ -138,7 +134,7 @@ This Division directly advances every pillar of the Lost Limb Riders mission:
 
 ---
 
-# Section 2: Program Philosophy
+## Section 2: Program Philosophy
 
 ## 2.1 Disability Empowerment
 
@@ -204,7 +200,7 @@ Empowerment means the participant gains skills, confidence, and knowledge from e
 
 ---
 
-# Section 3: Program Scope of Services
+## Section 3: Program Scope of Services
 
 ## 3.1 Housing Advocacy
 
@@ -312,7 +308,7 @@ Emergency resource coordination includes:
 
 ---
 
-# Section 4: Eligibility and Participation Standards
+## Section 4: Eligibility and Participation Standards
 
 ## 4.1 Who Qualifies
 
@@ -400,7 +396,7 @@ Lost Limb Riders is committed to making its services accessible to all individua
 
 ---
 
-# Section 5: Organizational Structure
+## Section 5: Organizational Structure
 
 ## 5.1 Chain of Responsibility
 
@@ -504,7 +500,7 @@ The Division maintains accountability through:
 - Participant satisfaction surveys administered at case closure
 - Incident reporting procedures as defined in Section 14
 - Regular supervision meetings at all levels of the organizational structure
-# Section 6: Client Intake Procedures
+## Section 6: Client Intake Procedures
 
 ## 6.1 Initial Contact Procedure
 
@@ -611,7 +607,7 @@ The participant is notified of their assigned advocate and given the advocate’
 
 ---
 
-# Section 7: Housing Advocacy Operations
+## Section 7: Housing Advocacy Operations
 
 ## 7.1 Housing Search Assistance
 
@@ -704,7 +700,7 @@ Based on the Housing Barriers Assessment and the participant’s goals, the Case
 
 ---
 
-# Section 8: Disability Accommodation Advocacy
+## Section 8: Disability Accommodation Advocacy
 
 ## 8.1 Reasonable Accommodation Assistance
 
@@ -785,7 +781,7 @@ Participants who need legal representation are referred to legal aid organizatio
 
 ---
 
-# Section 9: Independent Living Program
+## Section 9: Independent Living Program
 
 ## 9.1 Returning to Independence After Amputation
 
@@ -849,7 +845,7 @@ Community involvement is a key outcome of independent living. The Case Advocate 
 
 ---
 
-# Section 10: Case Management System
+## Section 10: Case Management System
 
 ## 10.1 Case Creation
 
@@ -938,7 +934,7 @@ For each closed case, the Case Advocate documents:
 - Duration of advocacy relationship
 
 These outcomes are aggregated for program metrics reporting (Section 17).
-# Section 11: Emergency Assistance Procedures
+## Section 11: Emergency Assistance Procedures
 
 ## 11.1 Housing Crisis Response
 
@@ -1007,7 +1003,7 @@ The advocate does not leave a participant in crisis without at least one concret
 
 ---
 
-# Section 12: Community Resource Network
+## Section 12: Community Resource Network
 
 ## 12.1 Partnership Development
 
@@ -1051,7 +1047,7 @@ The Housing Advocacy Coordinator reviews and updates the Community Resource Netw
 
 ---
 
-# Section 13: Volunteer Advocate Program
+## Section 13: Volunteer Advocate Program
 
 ## 13.1 Volunteer Requirements
 
@@ -1130,7 +1126,7 @@ Volunteer Advocates report to the Housing Advocacy Coordinator. Reporting requir
 
 ---
 
-# Section 14: Safety Policies
+## Section 14: Safety Policies
 
 ## 14.1 Home Visit Safety
 
@@ -1193,7 +1189,7 @@ The Program Director reviews all incident reports and determines whether correct
 
 ---
 
-# Section 15: Confidentiality and Privacy
+## Section 15: Confidentiality and Privacy
 
 ## 15.1 Personal Information Protection
 
@@ -1254,7 +1250,7 @@ If a breach of confidentiality occurs:
 3. If participant notification is required, the Program Director notifies affected participants within seven days of discovery, describing what information was involved and what steps are being taken to prevent recurrence.
 4. The Program Director documents the breach and corrective actions.
 5. If the breach involves protected health information, the Program Director consults legal counsel regarding HIPAA notification requirements.
-# Section 16: Documentation Standards
+## Section 16: Documentation Standards
 
 ## 16.1 Intake Forms
 
@@ -1330,7 +1326,7 @@ Statistics are updated monthly and reported quarterly.
 
 ---
 
-# Section 17: Program Metrics and Evaluation
+## Section 17: Program Metrics and Evaluation
 
 ## 17.1 Measurable Outcomes
 
@@ -1377,7 +1373,7 @@ Program outcome data and evaluation results are used to support:
 
 ---
 
-# Section 18: Funding and Grant Reporting Support
+## Section 18: Funding and Grant Reporting Support
 
 ## 18.1 Documentation for Grant Applications
 
@@ -1429,7 +1425,7 @@ The Division prepares an annual Community Impact Report that includes:
 
 ---
 
-# Section 19: Policies and Procedures Appendix
+## Section 19: Policies and Procedures Appendix
 
 ## 19.1 Records Retention Policy
 
@@ -1479,7 +1475,7 @@ Requests for participant stories or testimonials are handled through the Program
 
 ---
 
-# Appendices: Forms and Templates
+## Appendices: Forms and Templates
 
 ## Appendix A: Participant Intake Form
 
@@ -1664,11 +1660,9 @@ ________________________________________
 
 Participant Name: _____________  Case Number: _____________
 
-| Date | Organization | Service | Method | Connected? | Outcome |
-|------|-------------|---------|--------|------------|---------|
-|      |             |         |        | [ ] Yes [ ] No [ ] Unknown | |
-|      |             |         |        | [ ] Yes [ ] No [ ] Unknown | |
-|      |             |         |        | [ ] Yes [ ] No [ ] Unknown | |
+- Date: [ ] Yes [ ] No [ ] Unknown
+- Date: [ ] Yes [ ] No [ ] Unknown
+- Date: [ ] Yes [ ] No [ ] Unknown
 
 ---
 

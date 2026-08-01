@@ -1,4 +1,4 @@
-# Records Compliance Officer — Position Manual
+## Records Compliance Officer — Position Manual
 
 ## Position Overview
 

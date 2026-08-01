@@ -1,4 +1,4 @@
-# Insurance/Risk Manager — Position Manual
+## Insurance/Risk Manager — Position Manual
 
 ## Position Overview
 

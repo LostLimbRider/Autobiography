@@ -1,4 +1,4 @@
-# Fundraising Director — Position Manual
+## Fundraising Director — Position Manual
 
 ## Position Overview
 

@@ -1,4 +1,4 @@
-# Executive Director — Position Manual
+## Executive Director — Position Manual
 
 ## Position Overview
 

@@ -1,4 +1,4 @@
-# Media Coordinator — Position Manual
+## Media Coordinator — Position Manual
 
 ## Position Overview
 

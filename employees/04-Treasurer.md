@@ -1,4 +1,4 @@
-# Treasurer — Position Manual
+## Treasurer — Position Manual
 
 ## Position Overview
 

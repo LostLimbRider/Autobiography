@@ -1,4 +1,4 @@
-# Social Media Manager — Position Manual
+## Social Media Manager — Position Manual
 
 ## Position Overview
 

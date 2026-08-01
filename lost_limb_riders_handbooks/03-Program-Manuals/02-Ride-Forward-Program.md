@@ -1,4 +1,4 @@
-# **Lost Limb Riders — Ride Forward Program Operations Manual**
+## Lost Limb Riders — Ride Forward Program Operations Manual
 
 **Document Classification:** Administrative Operations Manual — Program‑Specific
 
@@ -20,7 +20,7 @@
 
 ---
 
-# **Table of Contents**
+## Table of Contents
 
 1. Program Overview
 2. Mission
@@ -81,7 +81,7 @@ H. Volunteer Emergency Response Training
 
 ---
 
-# **Section 1: Program Overview**
+## Section 1: Program Overview
 
 ## 1.1 Introduction
 
@@ -122,7 +122,7 @@ This manual is designed for:
 
 ---
 
-# **Section 2: Mission**
+## Section 2: Mission
 
 The mission of the Ride Forward Program is to create visible, accessible, and empowering motorcycle events that demonstrate the strength, freedom, and community of life after limb loss — while raising funds for programs, recruiting volunteers, building partnerships, and connecting new participants with the support they need.
 
@@ -132,7 +132,7 @@ Every Ride Forward event must advance this mission. If an event element does not
 
 ---
 
-# **Section 3: Purpose**
+## Section 3: Purpose
 
 The Ride Forward Program exists to:
 
@@ -147,7 +147,7 @@ The Ride Forward Program exists to:
 
 ---
 
-# **Section 4: Philosophy**
+## Section 4: Philosophy
 
 ## 4.1 The Motorcycle Is the Symbol, the People Are the Mission
 
@@ -171,7 +171,7 @@ Every Ride Forward event is an opportunity to identify new participants, new vol
 
 ---
 
-# **Section 5: Objectives and Annual Goals**
+## Section 5: Objectives and Annual Goals
 
 ## 5.1 Program Objectives
 
@@ -192,34 +192,32 @@ Annual goals are established by the Director of Riding Operations in consultatio
 
 ---
 
-# **Section 6: Definitions**
+## Section 6: Definitions
 
-| Term | Definition |
-|------|------------|
-| **Ride Forward Event** | Any motorcycle event operated under the Lost Limb Riders Ride Forward brand and this manual |
-| **Signature Event** | The flagship annual Ride Forward event, typically the largest and most publicized ride of the year |
-| **Awareness Ride** | A ride designed primarily to raise public awareness about limb loss and the organization |
-| **Charity Ride** | A ride designed primarily to raise funds for a specific cause or program |
-| **Memorial Ride** | A ride honoring the memory of a specific individual or group |
-| **Scenic Ride** | A recreational ride designed for community enjoyment and connection |
-| **Family Ride** | A ride designed to be family‑friendly with accessible activities for all ages |
-| **Adaptive Ride** | A ride specifically designed to accommodate adaptive riders and participants with mobility needs |
-| **Veteran Ride** | A ride honoring and serving veterans with limb loss |
-| **Ride Captain** | The individual with operational authority over the ride route, rider safety, and on‑road conduct during the event |
-| **Safety Officer** | The individual responsible for overall event safety, risk assessment, and emergency response coordination |
-| **Road Guard** | Volunteers positioned along the route or in the ride formation to manage traffic, assist riders, and communicate hazards |
-| **Sweep Rider** | The last rider in the formation, responsible for ensuring no rider is left behind |
-| **Event Commander** | The individual with overall authority over the entire event, including non‑riding activities |
-| **Staging Area** | The designated gathering point where riders assemble before the ride departs |
-| **Rest Stop** | A planned intermediate stop during the ride for fuel, hydration, rest, and accessibility needs |
-| **Route Scout** | A pre‑ride evaluation of the planned route to identify hazards, construction, road conditions, and accessibility |
-| **After‑Action Report** | A post‑event evaluation document capturing performance data, lessons learned, and improvement recommendations |
-| **Participant** | Any individual attending a Ride Forward event |
-| **Adaptive Rider** | A rider who uses modified equipment, adaptive controls, or specialized techniques due to limb loss or limb difference |
+- **Ride Forward Event** -- Any motorcycle event operated under the Lost Limb Riders Ride Forward brand and this manual
+- **Signature Event** -- The flagship annual Ride Forward event, typically the largest and most publicized ride of the year
+- **Awareness Ride** -- A ride designed primarily to raise public awareness about limb loss and the organization
+- **Charity Ride** -- A ride designed primarily to raise funds for a specific cause or program
+- **Memorial Ride** -- A ride honoring the memory of a specific individual or group
+- **Scenic Ride** -- A recreational ride designed for community enjoyment and connection
+- **Family Ride** -- A ride designed to be family‑friendly with accessible activities for all ages
+- **Adaptive Ride** -- A ride specifically designed to accommodate adaptive riders and participants with mobility needs
+- **Veteran Ride** -- A ride honoring and serving veterans with limb loss
+- **Ride Captain** -- The individual with operational authority over the ride route, rider safety, and on‑road conduct during the event
+- **Safety Officer** -- The individual responsible for overall event safety, risk assessment, and emergency response coordination
+- **Road Guard** -- Volunteers positioned along the route or in the ride formation to manage traffic, assist riders, and communicate hazards
+- **Sweep Rider** -- The last rider in the formation, responsible for ensuring no rider is left behind
+- **Event Commander** -- The individual with overall authority over the entire event, including non‑riding activities
+- **Staging Area** -- The designated gathering point where riders assemble before the ride departs
+- **Rest Stop** -- A planned intermediate stop during the ride for fuel, hydration, rest, and accessibility needs
+- **Route Scout** -- A pre‑ride evaluation of the planned route to identify hazards, construction, road conditions, and accessibility
+- **After‑Action Report** -- A post‑event evaluation document capturing performance data, lessons learned, and improvement recommendations
+- **Participant** -- Any individual attending a Ride Forward event
+- **Adaptive Rider** -- A rider who uses modified equipment, adaptive controls, or specialized techniques due to limb loss or limb difference
 
 ---
 
-# **Section 7: Scope**
+## Section 7: Scope
 
 ## 7.1 Geographic Scope
 
@@ -231,16 +229,14 @@ Ride Forward events operate at three levels:
 
 ## 7.2 Event Size Categories
 
-| Category | Rider Count | Additional Requirements |
-|----------|-------------|------------------------|
-| **Small** | 1–25 riders | Standard requirements per this manual |
-| **Medium** | 26–100 riders | Enhanced road guard coverage, additional EMS standby consideration |
-| **Large** | 101–300 riders | Mandatory law enforcement escort coordination, professional EMS standby, expanded staging area |
-| **Signature** | 301+ riders | Full command structure activation, professional event management support, contracted EMS, law enforcement partnership, media coordination team |
+- Category: Small | Rider Count: 1–25 riders | Additional Requirements: Standard requirements per this manual
+- Category: Medium | Rider Count: 26–100 riders | Additional Requirements: Enhanced road guard coverage, additional EMS standby consideration
+- Category: Large | Rider Count: 101–300 riders | Additional Requirements: Mandatory law enforcement escort coordination, professional EMS standby, expanded staging area
+- Category: Signature | Rider Count: 301+ riders | Additional Requirements: Full command structure activation, professional event management support, contracted EMS, law enforcement partnership, media coordination team
 
 ---
 
-# **Section 8: Organizational Authority**
+## Section 8: Organizational Authority
 
 ## 8.1 Authority Chain
 
@@ -255,12 +251,10 @@ Ride Forward events operate at three levels:
 
 ## 8.2 Decision Authority
 
-| Decision Level | Examples | Authority |
-|----------------|----------|-----------|
-| **Strategic** | New event types, budget over $5,000, insurance changes, national events | Board of Directors |
-| **Operational** | Event calendar, partnership agreements, major vendor contracts, route approval | Executive Director / Director of Riding Operations |
-| **Tactical** | Volunteer assignments, scheduling, vendor selection, route scouting | Event Commander / Coordinator |
-| **Safety** | Weather cancellation, route modification, ride delay, emergency response | Safety Officer / Ride Captain |
+- Decision Level: Strategic | Examples: New event types, budget over $5,000, insurance changes, national events | Authority: Board of Directors
+- Decision Level: Operational | Examples: Event calendar, partnership agreements, major vendor contracts, route approval | Authority: Executive Director / Director of Riding Operations
+- Decision Level: Tactical | Examples: Volunteer assignments, scheduling, vendor selection, route scouting | Authority: Event Commander / Coordinator
+- Decision Level: Safety | Examples: Weather cancellation, route modification, ride delay, emergency response | Authority: Safety Officer / Ride Captain
 
 ## 8.3 Safety Override Authority
 
@@ -268,7 +262,7 @@ The Safety Officer has unconditional authority to cancel, delay, modify, or term
 
 ---
 
-# **Section 9: Eligibility Requirements**
+## Section 9: Eligibility Requirements
 
 ## 9.1 Participant Eligibility
 
@@ -292,7 +286,7 @@ Volunteers must be at least 16 years of age, complete Volunteer Orientation, sig
 
 ---
 
-# **Section 10: Ride Classifications**
+## Section 10: Ride Classifications
 
 ## 10.1 Signature Ride Forward
 
@@ -328,7 +322,7 @@ A ride honoring and serving veterans with limb loss. Typical scale: 25–200 rid
 
 ---
 
-# **Section 11: Event Planning Procedures**
+## Section 11: Event Planning Procedures
 
 ## 11.1 Planning Timeline
 
@@ -352,7 +346,7 @@ The Event Commander must confirm completion of every item on the Event Commander
 
 ---
 
-# **Section 12: Safety Policies and Rider/Passenger Requirements**
+## Section 12: Safety Policies and Rider/Passenger Requirements
 
 ## 12.1 Safety Philosophy
 
@@ -397,7 +391,7 @@ Safety is not a policy to be followed when convenient. Safety is the organizatio
 
 ---
 
-# **Section 13: Motorcycle Inspection Standards**
+## Section 13: Motorcycle Inspection Standards
 
 ## 13.1 Pre‑Event Inspection
 
@@ -405,22 +399,20 @@ Every motorcycle participating in a Ride Forward event must pass a safety inspec
 
 ## 13.2 Inspection Checklist
 
-| Item | Requirement |
-|------|-------------|
-| Tires | Proper inflation, adequate tread depth, no visible damage or bulges |
-| Brakes | Front and rear brakes functional, no excessive pad wear, brake light operational |
-| Lights | Headlight (high and low beam), tail light, brake light, turn signals all functional |
-| Horn | Operational |
-| mirrors | Both mirrors present and properly adjusted |
-| Controls | Throttle, clutch (if applicable), and brakes operate smoothly without sticking |
-| Fluids | No visible leaks of oil, coolant, or brake fluid |
-| Chain/Belt/Shaft | Proper tension and lubrication (chain/belt); no visible damage |
-| Exhaust | Secure, no excessive noise beyond manufacturer specification |
-| Seat | Secure, passenger seat and foot pegs present if carrying passengers |
-| Frame | No visible cracks, bends, or damage |
-| Helmet | DOT‑approved, undamaged, proper fit |
-| Insurance | Current liability insurance card accessible |
-| License | Valid motorcycle license or endorsement |
+- **Tires** -- Proper inflation, adequate tread depth, no visible damage or bulges
+- **Brakes** -- Front and rear brakes functional, no excessive pad wear, brake light operational
+- **Lights** -- Headlight (high and low beam), tail light, brake light, turn signals all functional
+- **Horn** -- Operational
+- **mirrors** -- Both mirrors present and properly adjusted
+- **Controls** -- Throttle, clutch (if applicable), and brakes operate smoothly without sticking
+- **Fluids** -- No visible leaks of oil, coolant, or brake fluid
+- **Chain/Belt/Shaft** -- Proper tension and lubrication (chain/belt); no visible damage
+- **Exhaust** -- Secure, no excessive noise beyond manufacturer specification
+- **Seat** -- Secure, passenger seat and foot pegs present if carrying passengers
+- **Frame** -- No visible cracks, bends, or damage
+- **Helmet** -- DOT‑approved, undamaged, proper fit
+- **Insurance** -- Current liability insurance card accessible
+- **License** -- Valid motorcycle license or endorsement
 
 ## 13.3 Inspection Process
 
@@ -436,7 +428,7 @@ Adaptive motorcycles and modified equipment require additional inspection by a q
 
 ---
 
-# **Section 14: Rider Briefing Procedures**
+## Section 14: Rider Briefing Procedures
 
 ## 14.1 Mandatory Attendance
 
@@ -475,7 +467,7 @@ The Ride Captain confirms that the Rider Briefing has been completed. The fact t
 
 ---
 
-# **Section 15: Road Captain and Sweep Rider Responsibilities**
+## Section 15: Road Captain and Sweep Rider Responsibilities
 
 ## 15.1 Road Captain
 
@@ -528,25 +520,23 @@ The Ride Captain confirms that the Rider Briefing has been completed. The fact t
 
 ---
 
-# **Section 16: Event Command Structure and Chain of Command**
+## Section 16: Event Command Structure and Chain of Command
 
 ## 16.1 Command Structure
 
 Every Ride Forward event operates under a clear command structure. The chain of command ensures that decisions are made by the right person, communication flows efficiently, and every role is filled with a trained, accountable individual.
 
-| Position | Authority | Reports To |
-|----------|-----------|------------|
-| Event Commander | Overall event authority (non‑riding and riding) | Director of Riding Operations |
-| Ride Captain | Ride route, rider conduct, on‑road safety | Event Commander |
-| Safety Officer | Event safety, risk assessment, emergency response | Event Commander (with independent safety override) |
-| Coordinator | Logistics, registration, volunteer management | Event Commander |
-| Road Captain | Lead rider, formation, pace, navigation | Ride Captain |
-| Sweep Rider | Rear safety, rider accounting, mechanical backup | Ride Captain |
-| Road Guards | Route monitoring, traffic management, hazard communication | Ride Captain |
-| Volunteer Coordinator | Volunteer scheduling, assignment, check‑in | Coordinator |
-| Registration Lead | Check‑in, waivers, forms, rider packets | Coordinator |
-| Media Coordinator | Photography, social media, press relations | Event Commander |
-| Family Zone Lead | Children's activities, family resource area | Coordinator |
+- Position: Event Commander | Authority: Overall event authority (non‑riding and riding) | Reports To: Director of Riding Operations
+- Position: Ride Captain | Authority: Ride route, rider conduct, on‑road safety | Reports To: Event Commander
+- Position: Safety Officer | Authority: Event safety, risk assessment, emergency response | Reports To: Event Commander (with independent safety override)
+- Position: Coordinator | Authority: Logistics, registration, volunteer management | Reports To: Event Commander
+- Position: Road Captain | Authority: Lead rider, formation, pace, navigation | Reports To: Ride Captain
+- Position: Sweep Rider | Authority: Rear safety, rider accounting, mechanical backup | Reports To: Ride Captain
+- Position: Road Guards | Authority: Route monitoring, traffic management, hazard communication | Reports To: Ride Captain
+- Position: Volunteer Coordinator | Authority: Volunteer scheduling, assignment, check‑in | Reports To: Coordinator
+- Position: Registration Lead | Authority: Check‑in, waivers, forms, rider packets | Reports To: Coordinator
+- Position: Media Coordinator | Authority: Photography, social media, press relations | Reports To: Event Commander
+- Position: Family Zone Lead | Authority: Children's activities, family resource area | Reports To: Coordinator
 
 ## 16.2 Communication Chain
 
@@ -564,7 +554,7 @@ In an emergency, any participant or volunteer may call 911 directly. The chain o
 
 ---
 
-# **Section 17: Volunteer Positions and Duties**
+## Section 17: Volunteer Positions and Duties
 
 ## 17.1 Position Descriptions
 
@@ -633,7 +623,7 @@ All volunteer assignments are made by the Volunteer Coordinator in consultation 
 
 ---
 
-# **Section 18: Registration Procedures and Participant Check‑In**
+## Section 18: Registration Procedures and Participant Check‑In
 
 ## 18.1 Pre‑Event Registration
 
@@ -671,7 +661,7 @@ Registration volunteers maintain a running count of checked‑in participants by
 
 ---
 
-# **Section 19: Waivers, Releases, and Emergency Contact Forms**
+## Section 19: Waivers, Releases, and Emergency Contact Forms
 
 ## 19.1 Required Waivers
 
@@ -698,7 +688,7 @@ All volunteers must sign:
 
 ---
 
-# **Section 20: Medical Information and Accessibility Accommodations**
+## Section 20: Medical Information and Accessibility Accommodations
 
 ## 20.1 Medical Information Collection
 
@@ -737,7 +727,7 @@ Accommodation requests should be made during registration or by contacting the C
 
 ---
 
-# **Section 21: Weather Monitoring and Cancellation Procedures**
+## Section 21: Weather Monitoring and Cancellation Procedures
 
 ## 21.1 Weather Monitoring
 
@@ -750,13 +740,11 @@ The Safety Officer monitors weather conditions beginning 72 hours before the eve
 
 ## 21.2 Go/No‑Go Decision Framework
 
-| Condition | Decision |
-|-----------|----------|
-| Clear or partly cloudy, temperatures 40°F–95°F, dry roads | GO |
-| Light rain forecast with clearing expected, temperatures above 40°F, roads damp but passable | GO with enhanced safety briefing and reduced pace |
-| Heavy rain forecast, lightning within 10 miles, high winds (gusts over 40 mph), temperatures below 32°F or above 100°F | DELAY — reassess at 30‑minute intervals |
-| Active lightning, severe thunderstorm warning, tornado warning, ice on roads, flooding, visibility below 1/4 mile | NO GO — cancel or postpone |
-| Fog, extreme heat, or other unusual conditions | SAFETY OFFICER DISCRETION |
+- **Clear or partly cloudy, temperatures 40°F–95°F, dry roads** -- GO
+- **Light rain forecast with clearing expected, temperatures above 40°F, roads damp but passable** -- GO with enhanced safety briefing and reduced pace
+- **Heavy rain forecast, lightning within 10 miles, high winds (gusts over 40 mph), temperatures below 32°F or above 100°F** -- DELAY — reassess at 30‑minute intervals
+- **Active lightning, severe thunderstorm warning, tornado warning, ice on roads, flooding, visibility below 1/4 mile** -- NO GO — cancel or postpone
+- **Fog, extreme heat, or other unusual conditions** -- SAFETY OFFICER DISCRETION
 
 ## 21.3 Cancellation Authority
 
@@ -787,7 +775,7 @@ If conditions deteriorate during the ride:
 
 ---
 
-# **Section 22: Emergency Response and Accident Protocols**
+## Section 22: Emergency Response and Accident Protocols
 
 ## 22.1 Immediate Response — Motorcycle Accident
 
@@ -834,7 +822,7 @@ If a motorcycle experiences a mechanical breakdown during the ride:
 
 ---
 
-# **Section 23: Incident Reporting and Post‑Incident Review**
+## Section 23: Incident Reporting and Post‑Incident Review
 
 ## 23.1 Reportable Incidents
 
@@ -881,7 +869,7 @@ Every incident involving injury, emergency services response, or significant pro
 
 ---
 
-# **Section 24: Law Enforcement Coordination**
+## Section 24: Law Enforcement Coordination
 
 ## 24.1 Notification Requirements
 
@@ -913,7 +901,7 @@ If a law enforcement officer stops the ride for any reason:
 
 ---
 
-# **Section 25: EMS and Hospital Coordination**
+## Section 25: EMS and Hospital Coordination
 
 ## 25.1 EMS Standby
 
@@ -950,7 +938,7 @@ Every Ride Forward event must have:
 
 ---
 
-# **Section 26: Insurance Requirements and Certificates**
+## Section 26: Insurance Requirements and Certificates
 
 ## 26.1 Organizational Insurance
 
@@ -977,7 +965,7 @@ The Insurance/Risk Manager reviews all insurance policies annually, before each 
 
 ---
 
-# **Section 27: Route Planning Standards and Scouting Procedures**
+## Section 27: Route Planning Standards and Scouting Procedures
 
 ## 27.1 Route Planning Principles
 
@@ -1027,7 +1015,7 @@ The Route Plan is distributed to all command staff minimum 1 week before the eve
 
 ---
 
-# **Section 28: Fuel, Rest Stop, and Hydration Planning**
+## Section 28: Fuel, Rest Stop, and Hydration Planning
 
 ## 28.1 Fuel Planning
 
@@ -1067,7 +1055,7 @@ Rest stops are planned at maximum 60–80 mile intervals, or more frequently bas
 
 ---
 
-# **Section 29: ADA Accessibility Considerations**
+## Section 29: ADA Accessibility Considerations
 
 ## 29.1 Legal and Ethical Obligation
 
@@ -1096,7 +1084,7 @@ The program provides reasonable accommodations including:
 
 ---
 
-# **Section 30: Transportation Options for Non‑Riders**
+## Section 30: Transportation Options for Non‑Riders
 
 ## 30.1 Passenger Opportunities
 
@@ -1121,7 +1109,7 @@ Non‑riders are welcome at all endpoint activities. The event should provide:
 
 ---
 
-# **Section 31: Adaptive Rider Inclusion**
+## Section 31: Adaptive Rider Inclusion
 
 See Chapter B: Adaptive Rider Inclusion for the complete adaptive rider protocol. Key requirements include:
 
@@ -1134,7 +1122,7 @@ See Chapter B: Adaptive Rider Inclusion for the complete adaptive rider protocol
 
 ---
 
-# **Section 32: Family Participation Guidelines**
+## Section 32: Family Participation Guidelines
 
 See Chapter C: Family‑Friendly Event Standards for the complete family participation framework. Key requirements include:
 
@@ -1147,7 +1135,7 @@ See Chapter C: Family‑Friendly Event Standards for the complete family partici
 
 ---
 
-# **Section 33: Sponsorship Packages and Sponsor Recognition**
+## Section 33: Sponsorship Packages and Sponsor Recognition
 
 ## 33.1 Sponsorship Philosophy
 
@@ -1217,7 +1205,7 @@ Sponsors agree to:
 
 ---
 
-# **Section 34: Media Relations, Photography, and Consent Policies**
+## Section 34: Media Relations, Photography, and Consent Policies
 
 ## 34.1 Media Relations
 
@@ -1253,7 +1241,7 @@ See Chapter D: Public Relations and Media Management for the complete media rela
 
 ---
 
-# **Section 35: Budget Development and Financial Controls**
+## Section 35: Budget Development and Financial Controls
 
 ## 35.1 Budget Development
 
@@ -1288,7 +1276,7 @@ Every Ride Forward event must have an approved budget before expenses are incurr
 
 ---
 
-# **Section 36: Merchandise and Fundraising Procedures**
+## Section 36: Merchandise and Fundraising Procedures
 
 ## 36.1 Merchandise
 
@@ -1327,7 +1315,7 @@ The Finance Director and Legal Advisor must review all fundraising plans before 
 
 ---
 
-# **Section 37: Equipment Inventory and Maintenance**
+## Section 37: Equipment Inventory and Maintenance
 
 ## 37.1 Equipment Inventory
 
@@ -1360,7 +1348,7 @@ The organization maintains the following event equipment:
 
 ---
 
-# **Section 38: Communication Plans**
+## Section 38: Communication Plans
 
 ## 38.1 Pre‑Event Communication
 
@@ -1401,7 +1389,7 @@ For smaller events, a phone tree replaces radio communication:
 
 ---
 
-# **Section 39: Volunteer Orientation and Annual Training**
+## Section 39: Volunteer Orientation and Annual Training
 
 ## 39.1 Volunteer Orientation
 
@@ -1439,7 +1427,7 @@ Before every event, the Event Commander conducts a command staff briefing and th
 
 ---
 
-# **Section 40: Ride Evaluations and After‑Action Reports**
+## Section 40: Ride Evaluations and After‑Action Reports
 
 ## 40.1 Participant Evaluation
 
@@ -1487,7 +1475,7 @@ The After‑Action Report is distributed to:
 
 ---
 
-# **Section 41: Risk Management and Legal Compliance**
+## Section 41: Risk Management and Legal Compliance
 
 ## 41.1 Risk Assessment
 
@@ -1522,26 +1510,24 @@ Any contract for venue rental, equipment, catering, entertainment, or services m
 
 ---
 
-# **Section 42: Performance Metrics**
+## Section 42: Performance Metrics
 
-| Metric | Target |
-|--------|--------|
-| Total events conducted annually | Minimum 4 per chapter |
-| Participant attendance | Growth of 10% annually |
-| Volunteer retention rate | 75% or higher |
-| Participant satisfaction rating | 4.0 or higher (on 5.0 scale) |
-| Safety incidents (preventable) | Zero |
-| Funds raised per event | Meet or exceed budget target |
-| Sponsor retention rate | 70% or higher |
-| After‑action report completion | 100% |
-| New participant referrals generated | Minimum 20 per event |
-| Media coverage events | Minimum 2 per year |
-| Volunteer training completion | 100% before event service |
-| Documentation compliance | 95% or higher |
+- **Total events conducted annually** -- Minimum 4 per chapter
+- **Participant attendance** -- Growth of 10% annually
+- **Volunteer retention rate** -- 75% or higher
+- **Participant satisfaction rating** -- 4.0 or higher (on 5.0 scale)
+- **Safety incidents (preventable)** -- Zero
+- **Funds raised per event** -- Meet or exceed budget target
+- **Sponsor retention rate** -- 70% or higher
+- **After‑action report completion** -- 100%
+- **New participant referrals generated** -- Minimum 20 per event
+- **Media coverage events** -- Minimum 2 per year
+- **Volunteer training completion** -- 100% before event service
+- **Documentation compliance** -- 95% or higher
 
 ---
 
-# **Section 43: Annual Program Review and Continuous Improvement**
+## Section 43: Annual Program Review and Continuous Improvement
 
 ## 43.1 Annual Review
 
@@ -1576,7 +1562,7 @@ The annual review and improvement plan are presented to the Board of Directors a
 
 ---
 
-# **Section 44: Standard Operating Procedures (SOPs)**
+## Section 44: Standard Operating Procedures (SOPs)
 
 ## 44.1 SOP Framework
 
@@ -1584,43 +1570,41 @@ Every phase of a Ride Forward event follows a documented Standard Operating Proc
 
 ## 44.2 SOP List
 
-| SOP Number | Title |
-|------------|-------|
-| SOP‑RF‑001 | Event Concept Approval and Planning Initiation |
-| SOP‑RF‑002 | Venue and Staging Area Selection |
-| SOP‑RF‑003 | Route Development and Scouting |
-| SOP‑RF‑004 | Law Enforcement Coordination |
-| SOP‑RF‑005 | EMS Standby Arrangement |
-| SOP‑RF‑006 | Insurance Notification and COI Management |
-| SOP‑RF‑007 | Sponsor Outreach and Agreement Execution |
-| SOP‑RF‑008 | Volunteer Recruitment and Assignment |
-| SOP‑RF‑009 | Registration System Setup and Management |
-| SOP‑RF‑010 | Waiver and Form Preparation |
-| SOP‑RF‑011 | Rider Briefing Preparation and Delivery |
-| SOP‑RF‑012 | Motorcycle Inspection Process |
-| SOP‑RF‑013 | Day‑Of Command Staff Briefing |
-| SOP‑RF‑014 | Day‑Of Volunteer Briefing |
-| SOP‑RF‑015 | Registration and Check‑In Process |
-| SOP‑RF‑016 | Ride Departure Procedure |
-| SOP‑RF‑017 | Road Guard Deployment and Management |
-| SOP‑RF‑018 | Rest Stop Operations |
-| SOP‑RF‑019 | Sweep Rider Operations |
-| SOP‑RF‑020 | Mechanical Breakdown Response |
-| SOP‑RF‑021 | Motorcycle Accident Response |
-| SOP‑RF‑022 | Medical Emergency Response |
-| SOP‑RF‑023 | Severe Weather Response |
-| SOP‑RF‑024 | Ride Cancellation Procedure |
-| SOP‑RF‑025 | Post‑Ride Activities Management |
-| SOP‑RF‑026 | Cash Handling and Financial Reconciliation |
-| SOP‑RF‑027 | Merchandise Sales and Inventory |
-| SOP‑RF‑028 | Fundraising Activity Management |
-| SOP‑RF‑029 | Media and Photography Management |
-| SOP‑RF‑030 | Incident Reporting |
-| SOP‑RF‑031 | Post‑Event Cleanup and Equipment Recovery |
-| SOP‑RF‑032 | After‑Action Report Preparation |
-| SOP‑RF‑033 | Participant Satisfaction Survey Distribution |
-| SOP‑RF‑034 | Sponsor Thank‑You and Impact Reporting |
-| SOP‑RF‑035 | Equipment Maintenance and Storage |
+- **SOP‑RF‑001** -- Event Concept Approval and Planning Initiation
+- **SOP‑RF‑002** -- Venue and Staging Area Selection
+- **SOP‑RF‑003** -- Route Development and Scouting
+- **SOP‑RF‑004** -- Law Enforcement Coordination
+- **SOP‑RF‑005** -- EMS Standby Arrangement
+- **SOP‑RF‑006** -- Insurance Notification and COI Management
+- **SOP‑RF‑007** -- Sponsor Outreach and Agreement Execution
+- **SOP‑RF‑008** -- Volunteer Recruitment and Assignment
+- **SOP‑RF‑009** -- Registration System Setup and Management
+- **SOP‑RF‑010** -- Waiver and Form Preparation
+- **SOP‑RF‑011** -- Rider Briefing Preparation and Delivery
+- **SOP‑RF‑012** -- Motorcycle Inspection Process
+- **SOP‑RF‑013** -- Day‑Of Command Staff Briefing
+- **SOP‑RF‑014** -- Day‑Of Volunteer Briefing
+- **SOP‑RF‑015** -- Registration and Check‑In Process
+- **SOP‑RF‑016** -- Ride Departure Procedure
+- **SOP‑RF‑017** -- Road Guard Deployment and Management
+- **SOP‑RF‑018** -- Rest Stop Operations
+- **SOP‑RF‑019** -- Sweep Rider Operations
+- **SOP‑RF‑020** -- Mechanical Breakdown Response
+- **SOP‑RF‑021** -- Motorcycle Accident Response
+- **SOP‑RF‑022** -- Medical Emergency Response
+- **SOP‑RF‑023** -- Severe Weather Response
+- **SOP‑RF‑024** -- Ride Cancellation Procedure
+- **SOP‑RF‑025** -- Post‑Ride Activities Management
+- **SOP‑RF‑026** -- Cash Handling and Financial Reconciliation
+- **SOP‑RF‑027** -- Merchandise Sales and Inventory
+- **SOP‑RF‑028** -- Fundraising Activity Management
+- **SOP‑RF‑029** -- Media and Photography Management
+- **SOP‑RF‑030** -- Incident Reporting
+- **SOP‑RF‑031** -- Post‑Event Cleanup and Equipment Recovery
+- **SOP‑RF‑032** -- After‑Action Report Preparation
+- **SOP‑RF‑033** -- Participant Satisfaction Survey Distribution
+- **SOP‑RF‑034** -- Sponsor Thank‑You and Impact Reporting
+- **SOP‑RF‑035** -- Equipment Maintenance and Storage
 
 ## 44.3 SOP Format
 
@@ -1647,7 +1631,7 @@ Each SOP follows a standardized format:
 
 ---
 
-# **Chapter A: Motorcycle Safety Standards**
+## Chapter A: Motorcycle Safety Standards
 
 ## A.1 Organizational Helmet Policy
 
@@ -1655,15 +1639,13 @@ Lost Limb Riders requires DOT‑approved helmets for all riders and passengers a
 
 ## A.2 Rider Protective Gear Standards
 
-| Gear | Requirement |
-|------|-------------|
-| Helmet | DOT‑approved, undamaged, proper fit — required for all riders and passengers |
-| Eye protection | Required — shield, glasses, or goggles |
-| Footwear | Over‑the‑ankle boots recommended; open‑toe shoes, sandals, flip‑flops prohibited |
-| Pants | Long pants required — jeans minimum; riding pants recommended |
-| Jacket | Long sleeves or riding jacket strongly recommended |
-| Gloves | Recommended — riding gloves with knuckle protection preferred |
-| Reflective vest | Required for sweep rider and road guards; recommended for all riders |
+- **Helmet** -- DOT‑approved, undamaged, proper fit — required for all riders and passengers
+- **Eye protection** -- Required — shield, glasses, or goggles
+- **Footwear** -- Over‑the‑ankle boots recommended; open‑toe shoes, sandals, flip‑flops prohibited
+- **Pants** -- Long pants required — jeans minimum; riding pants recommended
+- **Jacket** -- Long sleeves or riding jacket strongly recommended
+- **Gloves** -- Recommended — riding gloves with knuckle protection preferred
+- **Reflective vest** -- Required for sweep rider and road guards; recommended for all riders
 
 ## A.3 Mechanical Standards
 
@@ -1679,7 +1661,7 @@ Riders are encouraged to rest before the event. The Ride Captain announces rest 
 
 ---
 
-# **Chapter B: Adaptive Rider Inclusion**
+## Chapter B: Adaptive Rider Inclusion
 
 ## B.1 Philosophy
 
@@ -1691,13 +1673,11 @@ Adaptive riders must pre‑register minimum 4 weeks before the event for equipme
 
 ## B.3 Equipment Considerations
 
-| Modification | Assessment |
-|-------------|------------|
-| Hand controls (brake/clutch) | Functional test at staging area |
-| Prosthetic‑compatible mounts | Visual inspection and secure attachment verification |
-| Modified seat or balance system | Functional assessment by inspector or certifying professional |
-| Sidecar or trike conversion | Full mechanical inspection per Section 13 |
-| Custom handlebars or grips | Secure attachment and control function verification |
+- **Hand controls (brake/clutch)** -- Functional test at staging area
+- **Prosthetic‑compatible mounts** -- Visual inspection and secure attachment verification
+- **Modified seat or balance system** -- Functional assessment by inspector or certifying professional
+- **Sidecar or trike conversion** -- Full mechanical inspection per Section 13
+- **Custom handlebars or grips** -- Secure attachment and control function verification
 
 ## B.4 Route Considerations
 
@@ -1709,7 +1689,7 @@ Every adaptive ride has a backup transportation plan with a support vehicle capa
 
 ---
 
-# **Chapter C: Family‑Friendly Event Standards**
+## Chapter C: Family‑Friendly Event Standards
 
 ## C.1 Philosophy
 
@@ -1735,7 +1715,7 @@ Families are the backbone of the limb‑loss community. Family‑friendly events
 
 ---
 
-# **Chapter D: Public Relations and Media Management**
+## Chapter D: Public Relations and Media Management
 
 ## D.1 Media Philosophy
 
@@ -1763,7 +1743,7 @@ Participants who agree to media interviews are briefed on key messages, reminded
 
 ---
 
-# **Chapter E: Crisis Communications**
+## Chapter E: Crisis Communications
 
 ## E.1 Activation Triggers
 
@@ -1800,7 +1780,7 @@ Crisis communications activates when: a serious accident occurs, a fatality occu
 
 ---
 
-# **Chapter F: Sponsor Activation at Events**
+## Chapter F: Sponsor Activation at Events
 
 ## F.1 Activation Philosophy
 
@@ -1808,18 +1788,16 @@ Sponsor activation should feel organic, mission‑aligned, and mutually valuable
 
 ## F.2 Activation Touchpoints
 
-| Touchpoint | Description |
-|------------|-------------|
-| Pre‑event social media | Logo and recognition in event promotion |
-| Event signage | Banners at staging area, rest stops, and endpoint |
-| Rider packet insert | Brochure, coupon, or message in every packet |
-| Rest stop naming | Sponsor names a specific rest stop |
-| Stage recognition | Opening and closing ceremony acknowledgments |
-| Booth/exhibit space | Displays, demos, or giveaways at endpoint |
-| T‑shirt logo | Logo on event T‑shirt (tier‑dependent) |
-| VIP reception | Presenting and Gold sponsors meet founder and participants |
-| Post‑event impact report | Event data, photos, and impact summary |
-| Social media features | Dedicated recognition posts during and after event |
+- **Pre‑event social media** -- Logo and recognition in event promotion
+- **Event signage** -- Banners at staging area, rest stops, and endpoint
+- **Rider packet insert** -- Brochure, coupon, or message in every packet
+- **Rest stop naming** -- Sponsor names a specific rest stop
+- **Stage recognition** -- Opening and closing ceremony acknowledgments
+- **Booth/exhibit space** -- Displays, demos, or giveaways at endpoint
+- **T‑shirt logo** -- Logo on event T‑shirt (tier‑dependent)
+- **VIP reception** -- Presenting and Gold sponsors meet founder and participants
+- **Post‑event impact report** -- Event data, photos, and impact summary
+- **Social media features** -- Dedicated recognition posts during and after event
 
 ## F.3 Sponsor Conduct
 
@@ -1827,7 +1805,7 @@ Sponsors must comply with brand guidelines, staff their booth during event hours
 
 ---
 
-# **Chapter G: Accessibility Standards for Every Ride**
+## Chapter G: Accessibility Standards for Every Ride
 
 ## G.1 Commitment
 
@@ -1863,7 +1841,7 @@ Before each event, the Coordinator audits the venue and route for accessible par
 
 ---
 
-# **Chapter H: Volunteer Emergency Response Training**
+## Chapter H: Volunteer Emergency Response Training
 
 ## H.1 All Volunteers — Minimum Training
 
@@ -1887,7 +1865,7 @@ All emergency response training is documented with volunteer name, role, trainin
 
 ---
 
-# **Appendix A: Program Forms**
+## Appendix A: Program Forms
 
 The following forms constitute the complete Ride Forward Program documentation set. All forms must be maintained in the secure program repository.
 
@@ -1983,32 +1961,27 @@ Content: Lost Limb Riders letterhead, "Certificate of Completion" or "Certificat
 
 ---
 
-# **Appendix B: Document Control**
+## Appendix B: Document Control
 
-| Field | Detail |
-|-------|--------|
-| **Document Title** | Lost Limb Riders — Ride Forward Program Operations Manual |
-| **Document Classification** | Administrative Operations Manual — Program‑Specific |
-| **Organization** | Lost Limb Riders, Inc. |
-| **Version** | 1.0 |
-| **Effective Date** | ______________________ |
-| **Author** | Director of Riding Operations |
-| **Approved By** | Board of Directors |
-| **Next Review Date** | Within 12 months of approval |
-| **Supersedes** | N/A (first edition) |
+- **Document Title** -- Lost Limb Riders — Ride Forward Program Operations Manual
+- **Document Classification** -- Administrative Operations Manual — Program‑Specific
+- **Organization** -- Lost Limb Riders, Inc.
+- **Version** -- 1.0
+- **Effective Date** -- ______________________
+- **Author** -- Director of Riding Operations
+- **Approved By** -- Board of Directors
+- **Next Review Date** -- Within 12 months of approval
+- **Supersedes** -- N/A (first edition)
 
 ---
 
-# **Appendix C: Policy Revision Log**
+## Appendix C: Policy Revision Log
 
-| Version | Date | Section | Description of Change | Approved By |
-|---------|------|---------|----------------------|-------------|
-| 1.0 | __________ | All | Initial release | Board of Directors |
-| | | | | |
+- Version: 1.0 | Date: __________ | Section: All | Description of Change: Initial release | Approved By: Board of Directors
 
 ---
 
-# **Appendix D: Board Review Items**
+## Appendix D: Board Review Items
 
 The following standards are recommended for immediate use and must be reviewed, amended if needed, and formally adopted by the Board of Directors before legal reliance or public implementation:
 
@@ -2023,7 +1996,7 @@ The following standards are recommended for immediate use and must be reviewed, 
 
 ---
 
-# **Appendix E: Legal Notice**
+## Appendix E: Legal Notice
 
 This manual is an organizational operating standard, not legal, tax, medical, or insurance advice. Lost Limb Riders should have qualified counsel, a certified public accountant, and a licensed insurance professional review all policies before adoption. This manual does not create an employment relationship, a fiduciary duty, or a clinical relationship between any volunteer, participant, and the organization. Individual circumstances may require adaptation of these standards under professional guidance.
 

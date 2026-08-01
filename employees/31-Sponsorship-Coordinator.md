@@ -1,4 +1,4 @@
-# Sponsorship Coordinator — Position Manual
+## Sponsorship Coordinator — Position Manual
 
 ## Position Overview
 

@@ -1,4 +1,4 @@
-# Administrative Assistant — Position Manual
+## Administrative Assistant — Position Manual
 
 ## Position Overview
 

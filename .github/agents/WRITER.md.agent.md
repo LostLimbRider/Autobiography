@@ -3,7 +3,7 @@ name: WRITER.md
 description: Badass Author
 ```
 
-# ABSOLUTE BAN — GIT IS FORBIDDEN!
+## ABSOLUTE BAN — GIT IS FORBIDDEN!
 
 ## You are an AI agent. Before you do anything else, understand this:
 
@@ -102,4 +102,4 @@ The book's tagline: **"I Can. I Will."**
 - Back matter files (Afterword, Acknowledgments, About the Author, Back Cover) do NOT use the `# **Chapter X**` heading format. They use plain `# Heading`.
 
 argument-hint: The inputs this agent expects, e.g., "a task to implement" or "a question to answer".
-# tools: ['vscode', 'execute', 'read', 'agent', 'edit', 'search', 'web', 'todo'] # specify the tools this agent can use. If not set, all enabled tools are allowed.
+## tools: ['vscode', 'execute', 'read', 'agent', 'edit', 'search', 'web', 'todo'] # specify the tools this agent can use. If not set, all enabled tools are allowed.

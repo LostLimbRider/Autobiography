@@ -1,4 +1,4 @@
-# Copilot Instructions for Autobiography Repository
+## Copilot Instructions for Autobiography Repository
 
 This repository contains John Thompson's autobiography manuscript, keynote speeches, and supporting materials for Lost Limb Riders nonprofit.
 

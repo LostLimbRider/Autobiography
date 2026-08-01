@@ -1,4 +1,4 @@
-# Event Coordinator — Position Manual
+## Event Coordinator — Position Manual
 
 ## Position Overview
 

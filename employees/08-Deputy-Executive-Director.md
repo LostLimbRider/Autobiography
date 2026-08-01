@@ -1,4 +1,4 @@
-# Deputy Executive Director — Position Manual
+## Deputy Executive Director — Position Manual
 
 ## Position Overview
 
@@ -184,14 +184,12 @@ The organization should discuss career trajectory with Deputy ED and establish c
 
 ## Common Responsibilities by Month
 
-| Month | Primary Focus |
-|-------|---|
-| Jan-Feb | Budget support; annual planning |
-| Mar-Apr | Project planning and launch |
-| May-Jun | Midyear review; strategic progress |
-| Jul-Aug | Summer operations; chapter activities |
-| Sep-Oct | Fall planning; Board retreat prep |
-| Nov-Dec | Year-end review; succession discussion |
+- **Jan-Feb** -- Budget support; annual planning
+- **Mar-Apr** -- Project planning and launch
+- **May-Jun** -- Midyear review; strategic progress
+- **Jul-Aug** -- Summer operations; chapter activities
+- **Sep-Oct** -- Fall planning; Board retreat prep
+- **Nov-Dec** -- Year-end review; succession discussion
 
 ---
 

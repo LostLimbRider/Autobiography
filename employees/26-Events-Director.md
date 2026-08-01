@@ -1,4 +1,4 @@
-# Events Director — Position Manual
+## Events Director — Position Manual
 
 ## Position Overview
 

@@ -1,4 +1,4 @@
-# Peer Support Coordinator — Position Manual
+## Peer Support Coordinator — Position Manual
 
 ## Position Overview
 

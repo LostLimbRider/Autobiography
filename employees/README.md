@@ -1,4 +1,4 @@
-# Lost Limb Riders — Employee Position Manuals
+## Lost Limb Riders — Employee Position Manuals
 
 This directory contains operational position manuals for every role in the Lost Limb Riders organization. Each position manual details responsibilities, reporting structure, time commitment, success measurements, and onboarding requirements.
 

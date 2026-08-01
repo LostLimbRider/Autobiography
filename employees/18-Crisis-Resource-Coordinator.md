@@ -1,4 +1,4 @@
-# Crisis Resource Coordinator — Position Manual
+## Crisis Resource Coordinator — Position Manual
 
 ## Position Overview
 

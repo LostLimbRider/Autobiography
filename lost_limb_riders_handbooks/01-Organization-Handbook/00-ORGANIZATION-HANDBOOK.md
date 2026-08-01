@@ -1,4 +1,4 @@
-# Lost Limb Riders Organization Handbook
+## Lost Limb Riders Organization Handbook
 
 **Internal Document for Board Members and Executive Leadership**
 
@@ -39,7 +39,7 @@ All policies, procedures, and governance frameworks documented herein are bindin
 
 ---
 
-# Lost Limb Riders — Document-Controlled Mission Statement
+## Lost Limb Riders — Document-Controlled Mission Statement
 
 **Version:** 1.0  
 **Effective Date:** July 22, 2026  
@@ -112,11 +112,9 @@ Lost Limb Riders provides peer support, mentorship, community connection, practi
 
 ## Motto and Tagline
 
-| Term | Text | Usage |
-|------|------|-------|
-| **Motto** | "I Can. I Will." | Personal motto of the founder. Use in inspirational context, merchandise, personal communications. |
-| **Tagline** | "Nobody Is Left Behind. Nobody Stands Alone." | Organizational tagline. Use in all organizational materials, marketing, signage, presentations. |
-| **Combined closing** | "I Can. I Will. Nobody Is Left Behind. Nobody Stands Alone." | Acceptable in closing statements of speeches and presentations. |
+- Term: Motto | Text: "I Can. I Will." | Usage: Personal motto of the founder. Use in inspirational context, merchandise, personal communications.
+- Term: Tagline | Text: "Nobody Is Left Behind. Nobody Stands Alone." | Usage: Organizational tagline. Use in all organizational materials, marketing, signage, presentations.
+- Term: Combined closing | Text: "I Can. I Will. Nobody Is Left Behind. Nobody Stands Alone." | Usage: Acceptable in closing statements of speeches and presentations.
 
 **Do not use** "We Can. We Will." in official materials unless specifically approved by the founder for a particular context.
 
@@ -134,15 +132,13 @@ Lost Limb Riders provides peer support, mentorship, community connection, practi
 
 ## Documents Currently Using This Standard
 
-| Document | Tier Used | Status |
-|----------|-----------|--------|
-| Corporate Bylaws (Section 2.01) | Tier 1 | Authoritative — do not modify |
-| Public Handbook (Chapter 4) | Tier 2 | Approved |
-| About Page (NONPROFIT/02) | Tier 2 | Updated |
-| Proposal (NONPROFIT/03) | Tier 2 | Updated |
-| Presentation (NONPROFIT/01) | Tier 2 | Updated |
-| Ops Manual (Section 4) | Tier 2 | Updated |
-| Corporate Governance Manual | Tier 2 | Updated |
+- Document: Corporate Bylaws (Section 2.01) | Tier Used: Tier 1 | Status: Authoritative — do not modify
+- Document: Public Handbook (Chapter 4) | Tier Used: Tier 2 | Status: Approved
+- Document: About Page (NONPROFIT/02) | Tier Used: Tier 2 | Status: Updated
+- Document: Proposal (NONPROFIT/03) | Tier Used: Tier 2 | Status: Updated
+- Document: Presentation (NONPROFIT/01) | Tier Used: Tier 2 | Status: Updated
+- Document: Ops Manual (Section 4) | Tier Used: Tier 2 | Status: Updated
+- Document: Corporate Governance Manual | Tier Used: Tier 2 | Status: Updated
 
 ---
 
@@ -152,7 +148,7 @@ Version 1.0 — Initial controlled mission statement — July 22, 2026.
 
 ---
 
-# Lost Limb Riders Organizational Infrastructure — Start Here
+## Lost Limb Riders Organizational Infrastructure — Start Here
 
 This folder contains the complete Lost Limb Riders nonprofit organizational infrastructure package. These files belong with the existing Lost Limb Riders packet materials so they can be found, reviewed, printed, shared with board members, and used for partner or sponsor preparation.
 
@@ -184,7 +180,7 @@ These manuals are written as professional recommended operating standards. Any l
 
 ---
 
-# Lost Limb Riders Corporate Governance Manual
+## Lost Limb Riders Corporate Governance Manual
 
 ## Purpose
 
@@ -287,7 +283,7 @@ This manual is an organizational operating standard, not legal, tax, medical, or
 
 ---
 
-# Lost Limb Riders Administrative Operations Manual
+## Lost Limb Riders Administrative Operations Manual
 
 ## Purpose
 
@@ -402,7 +398,7 @@ This manual is an organizational operating standard, not legal, tax, medical, or
 
 ---
 
-# Lost Limb Riders Volunteer Handbook
+## Lost Limb Riders Volunteer Handbook
 
 ## Welcome
 
@@ -461,7 +457,7 @@ This manual is an organizational operating standard, not legal, tax, medical, or
 
 ---
 
-# Lost Limb Riders Family Support Program Manual
+## Lost Limb Riders Family Support Program Manual
 
 ## Purpose
 
@@ -520,7 +516,7 @@ This manual is an organizational operating standard, not legal, tax, medical, or
 
 ---
 
-# Lost Limb Riders Safety and Risk Management Manual
+## Lost Limb Riders Safety and Risk Management Manual
 
 ## Purpose
 
@@ -579,7 +575,7 @@ This manual is an organizational operating standard, not legal, tax, medical, or
 
 ---
 
-# Lost Limb Riders Financial Procedures Manual
+## Lost Limb Riders Financial Procedures Manual
 
 ## Purpose
 
@@ -638,7 +634,7 @@ This manual is an organizational operating standard, not legal, tax, medical, or
 
 ---
 
-# Lost Limb Riders Chapter Development Manual
+## Lost Limb Riders Chapter Development Manual
 
 ## Purpose
 
@@ -693,7 +689,7 @@ This manual is an organizational operating standard, not legal, tax, medical, or
 
 ---
 
-# Lost Limb Riders Position Description Manual
+## Lost Limb Riders Position Description Manual
 
 ## Purpose
 
@@ -890,7 +886,7 @@ This manual is an organizational operating standard, not legal, tax, medical, or
 
 ---
 
-# Lost Limb Riders Governance Document Index
+## Lost Limb Riders Governance Document Index
 
 ## Purpose
 
@@ -951,7 +947,7 @@ Version 1.0 — Initial board review draft — July 22, 2026.
 
 ---
 
-# Lost Limb Riders Corporate Bylaws
+## Lost Limb Riders Corporate Bylaws
 
 ## Article I — Name, Status, and Principal Office
 
@@ -1224,7 +1220,7 @@ Version 1.0 — Initial board review draft — July 22, 2026.
 
 ---
 
-# Lost Limb Riders Governance Manual
+## Lost Limb Riders Governance Manual
 
 ## 1. Governance Philosophy
 
@@ -1339,7 +1335,7 @@ Version 1.0 — Initial board review draft — July 22, 2026.
 
 ---
 
-# Lost Limb Riders Board Member Handbook
+## Lost Limb Riders Board Member Handbook
 
 ## Welcome
 
@@ -1396,7 +1392,7 @@ Version 1.0 — Initial board review draft — July 22, 2026.
 
 ---
 
-# Lost Limb Riders Board Orientation Guide
+## Lost Limb Riders Board Orientation Guide
 
 ## Orientation Purpose
 
@@ -1449,7 +1445,7 @@ Version 1.0 — Initial board review draft — July 22, 2026.
 
 ---
 
-# Lost Limb Riders Governance Policies
+## Lost Limb Riders Governance Policies
 
 ## Conflict of Interest Policy
 
@@ -1841,7 +1837,7 @@ Version 1.0 — Initial board review draft — July 22, 2026.
 
 ---
 
-# Lost Limb Riders Committee Charters
+## Lost Limb Riders Committee Charters
 
 ## Executive Committee Charter
 

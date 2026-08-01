@@ -1,4 +1,4 @@
-# At‑Large Director — Position Manual
+## At‑Large Director — Position Manual
 
 ## Position Overview
 
@@ -177,14 +177,12 @@ All At‑Large Directors must comply with:
 
 ## Common Board Responsibilities During Year
 
-| When | Task | Detail |
-|------|------|--------|
-| **Monthly** | Board meeting | 2-3 hours; active participation |
-| **Monthly** | Committee work | 1-2 hours; committee-specific |
-| **Quarterly** | Preparation | Review materials before Board meeting |
-| **Annually** | Personal contribution | Make financially meaningful gift |
-| **Annually** | Fundraising events | Attend and participate in 1-2 events |
-| **Annually** | Committee commitment review | Confirm continued committee service |
+- When: Monthly | Task: Board meeting | Detail: 2-3 hours; active participation
+- When: Monthly | Task: Committee work | Detail: 1-2 hours; committee-specific
+- When: Quarterly | Task: Preparation | Detail: Review materials before Board meeting
+- When: Annually | Task: Personal contribution | Detail: Make financially meaningful gift
+- When: Annually | Task: Fundraising events | Detail: Attend and participate in 1-2 events
+- When: Annually | Task: Committee commitment review | Detail: Confirm continued committee service
 
 ## Transitioning From Board
 

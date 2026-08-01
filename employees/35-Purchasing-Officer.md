@@ -1,4 +1,4 @@
-# Purchasing Officer — Position Manual
+## Purchasing Officer — Position Manual
 
 ## Position Overview
 

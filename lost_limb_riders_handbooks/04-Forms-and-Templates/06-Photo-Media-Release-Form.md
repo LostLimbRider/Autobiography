@@ -1,4 +1,4 @@
-# Lost Limb Riders Photo & Media Release Form
+## Lost Limb Riders Photo & Media Release Form
 
 **Version:** 1.0  
 **Effective Date:** July 2026

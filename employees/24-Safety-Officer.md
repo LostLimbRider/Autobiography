@@ -1,4 +1,4 @@
-# Safety Officer — Position Manual
+## Safety Officer — Position Manual
 
 ## Position Overview
 

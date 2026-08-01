@@ -1,4 +1,4 @@
-# Community Relations Coordinator — Position Manual
+## Community Relations Coordinator — Position Manual
 
 ## Position Overview
 

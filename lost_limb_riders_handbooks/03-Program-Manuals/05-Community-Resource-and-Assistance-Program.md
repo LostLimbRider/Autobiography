@@ -1,4 +1,4 @@
-# Lost Limb Riders
+## Lost Limb Riders
 ## Community Resource and Assistance Program
 ### Administrative Operations Manual
 
@@ -8,7 +8,7 @@
 
 ---
 
-# Section 1: Program Overview
+## Section 1: Program Overview
 
 ## 1.1 Mission
 
@@ -60,7 +60,7 @@ All program representatives must communicate these limitations clearly and early
 
 ---
 
-# Section 2: Eligibility
+## Section 2: Eligibility
 
 ## 2.1 Who May Request Assistance
 
@@ -118,7 +118,7 @@ Lost Limb Riders does not provide assistance for:
 
 ---
 
-# Section 3: Intake Process
+## Section 3: Intake Process
 
 ## 3.1 How Requests Are Received
 
@@ -172,18 +172,16 @@ The program representative explains all documentation requirements at the time o
 
 ## 3.5 Intake Timeline
 
-| Request Type | Initial Response Goal | Decision Timeline |
-|--------------|----------------------|-------------------|
-| Immediate emergency | Immediate | N/A (refer to emergency services) |
-| Urgent need | Within 4 business hours | Within 24 hours |
-| Routine referral | Within 2 business days | Within 5 business days |
-| Financial assistance | Within 2 business days | Within 10 business days |
+- Request Type: Immediate emergency | Initial Response Goal: Immediate | Decision Timeline: N/A (refer to emergency services)
+- Request Type: Urgent need | Initial Response Goal: Within 4 business hours | Decision Timeline: Within 24 hours
+- Request Type: Routine referral | Initial Response Goal: Within 2 business days | Decision Timeline: Within 5 business days
+- Request Type: Financial assistance | Initial Response Goal: Within 2 business days | Decision Timeline: Within 10 business days
 
 If the program cannot meet these timelines due to volume or capacity, the individual is informed of the delay and given an expected response date.
 
 ---
 
-# Section 4: Types of Assistance
+## Section 4: Types of Assistance
 
 ## 4.1 Resource Referrals
 
@@ -324,7 +322,7 @@ Benefits navigation referrals connect individuals with:
 
 ---
 
-# Section 5: Direct Financial Assistance (When Available)
+## Section 5: Direct Financial Assistance (When Available)
 
 ## 5.1 Program Context
 
@@ -365,12 +363,10 @@ These limits may be suspended or modified by Board resolution during declared em
 
 ## 5.5 Approval Authority
 
-| Amount | Approval Authority |
-|--------|-------------------|
-| Up to $100 | Director of Medical Partnerships or designee |
-| $101\u2013$250 | Director of Medical Partnerships |
-| $251\u2013$500 | Director of Medical Partnerships + Board Treasurer notification |
-| Over $500 | Board of Directors (or executive committee) approval required |
+- **Up to $100** -- Director of Medical Partnerships or designee
+- **$101\u2013$250** -- Director of Medical Partnerships
+- **$251\u2013$500** -- Director of Medical Partnerships + Board Treasurer notification
+- **Over $500** -- Board of Directors (or executive committee) approval required
 
 All approvals must be documented in writing before funds are disbursed.
 
@@ -411,7 +407,7 @@ Lost Limb Riders takes reasonable steps to prevent fraud:
 
 ---
 
-# Section 6: Community Resource Directory
+## Section 6: Community Resource Directory
 
 ## 6.1 Purpose
 
@@ -473,7 +469,7 @@ When a referral is made, the individual\u2019s name is not shared with the resou
 
 ---
 
-# Section 7: Case Management Standards
+## Section 7: Case Management Standards
 
 ## 7.1 Scope of Case Activity
 
@@ -529,7 +525,7 @@ Closed cases are retained in the program database in accordance with the record 
 
 ---
 
-# Section 8: Confidentiality
+## Section 8: Confidentiality
 
 ## 8.1 Privacy Standards
 
@@ -568,7 +564,7 @@ Consent is documented in the case file. Individuals may revoke consent at any ti
 
 ---
 
-# Section 9: Risk Management
+## Section 9: Risk Management
 
 ## 9.1 Financial Accountability
 
@@ -622,7 +618,7 @@ Any actual or potential conflict of interest must be disclosed to the Director i
 
 ---
 
-# Section 10: Program Metrics
+## Section 10: Program Metrics
 
 ## 10.1 Metrics Collected
 
@@ -662,7 +658,7 @@ If any metric shows a declining trend for two consecutive quarters, the Director
 
 ---
 
-# Section 11: Standard Operating Procedures
+## Section 11: Standard Operating Procedures
 
 ## SOP 1: Receiving a Request for Assistance
 
@@ -807,7 +803,7 @@ If any metric shows a declining trend for two consecutive quarters, the Director
 
 ---
 
-# Section 12: Forms
+## Section 12: Forms
 
 ## 12.1 Assistance Request Form
 
