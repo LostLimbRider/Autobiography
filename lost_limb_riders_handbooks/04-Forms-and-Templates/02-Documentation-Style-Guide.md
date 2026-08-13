@@ -25,12 +25,12 @@
 | Rule | Standard |
 |------|----------|
 | **Legal mission** | Bylaws Section 2.01 — do not alter |
-| **Public mission** | See DOCUMENT-CONTROLLED-MISSION-STATEMENT.md, Tier 2 |
-| **Operational mission** | See DOCUMENT-CONTROLLED-MISSION-STATEMENT.md, Tier 3 |
+| **Public mission** | Organization Handbook, Tier 2 |
+| **Operational mission** | Organization Handbook, Tier 3 |
 | **Paraphrasing** | Permitted in narrative context only; never in legal, financial, or grant documents |
-| **New documents** | Must reference the controlled mission statement file |
+| **New documents** | Must reference the controlled mission statement (Organization Handbook, Document-Controlled Mission Statement section) |
 
-See DOCUMENT-CONTROLLED-MISSION-STATEMENT.md for full hierarchy and application rules.
+See the Organization Handbook (**Document-Controlled Mission Statement**) for the full mission hierarchy and application rules.
 
 ---
 
@@ -138,8 +138,8 @@ All organizational documents should identify their place in the authority chain:
 | Bylaws | Iowa Code Chapter 504, Articles of Incorporation |
 | Governance Policies | Bylaws |
 | Committee Charters | Bylaws Article VI, Governance Policies |
-| Program Manuals | Bylaws, Governance Framework, DOCUMENT-CONTROLLED-MISSION-STATEMENT.md |
-| Public Materials (Handbook, About, Proposal) | DOCUMENT-CONTROLLED-MISSION-STATEMENT.md |
+| Program Manuals | Bylaws, Governance Framework, Organization Handbook (Document-Controlled Mission Statement) |
+| Public Materials (Handbook, About, Proposal) | Organization Handbook (Document-Controlled Mission Statement) |
 | Manuscript | Author's voice — this style guide does not govern manuscript content |
 
 When a document references governance terms (board size, committees, financial thresholds, policies), it should state that the Bylaws or Governance Framework controls in case of discrepancy.

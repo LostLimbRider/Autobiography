@@ -99,6 +99,14 @@ Full-time position (40-60 hours weekly depending on organizational phase)
 - Direct reports: All Department Directors (typically 6-8 positions)
 - Works with: CEO/Founder (if separate position), Finance Director, legal counsel
 
+## Compensation & Benefits
+
+**Category:** Salaried
+
+**Compensation:** $45,000\u2013$60,000 annual salary. Set by Board based on experience, qualifications, and nonprofit sector benchmarks for Iowa.
+
+**Benefits:** Expense reimbursement, liability insurance coverage, workers\u2019 compensation coverage, training and professional development, 15 days PTO annually
+
 ## Success Measurements
 
 ### Operational Excellence
@@ -140,7 +148,7 @@ Full-time position (40-60 hours weekly depending on organizational phase)
 - **Major Partners:** Healthcare, nonprofit, community relationship maintenance
 - **Staff & Volunteers:** Leadership, support, professional development
 
-## Authority & Decision‑Making
+## Authority & Decision-Making
 
 The Executive Director holds authority to:
 - Hire, supervise, and (with cause) terminate employees

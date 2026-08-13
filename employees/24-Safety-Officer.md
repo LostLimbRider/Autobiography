@@ -2,7 +2,7 @@
 
 ## Position Overview
 
-The Safety Officer position supports Lost Limb Riders in fulfilling its mission to serve amputees, limb-difference individuals, and families.
+The Safety Officer position supports Lost Limb Riders in fulfilling its mission to serve amputees, limb-difference individuals, families, caregivers, and allies.
 
 ## Core Purpose
 
@@ -26,40 +26,65 @@ Per event or ride
 
 - Reports to: Riding Operations Director
 
+## Compensation & Benefits
+
+**Category:** Volunteer
+
+**Compensation:** Unpaid volunteer position. Eligible for expense reimbursement and organizational liability coverage.
+
+**Benefits:** Expense reimbursement, liability insurance coverage, training and professional development
+
 ## Success Measurements
 
 - Responsibilities are completed effectively and timely
 - Stakeholders and community members report positive impact
 - Work aligns with organizational mission and values
-- Professional standards are maintained
+- Professional standards and safety protocols are maintained
+- Team collaboration and communication are strong
 
 ## Key Relationships
 
-- **Supervisor:** Regular communication and coordination
-- **Peers:** Collaboration on related initiatives
-- **Community:** Service to amputee and limb-difference community
+- **Supervisor:** Regular communication and coordination on performance
+- **Peers:** Collaboration on related initiatives and programs
+- **Community:** Service to amputee, limb-difference, and caregiver community
+- **Partners:** Collaboration with healthcare and community organizations
 
 ## Development & Support
 
-- **Orientation:** Comprehensive organizational training
-- **Mentoring:** Ongoing support from supervisor
-- **Professional Development:** Training opportunities as relevant
-- **Resources:** Tools and support needed for role success
+- **Orientation:** Comprehensive organizational training on mission and culture
+- **Mentoring:** Ongoing support from supervisor and experienced team members
+- **Professional Development:** Training opportunities in relevant areas
+- **Resources:** Tools, technology, and support needed for role success
+- **Performance Review:** Annual review and feedback from supervisor
 
 ## Onboarding Checklist
 
-- [ ] Attend organizational orientation
-- [ ] Meet with supervisor
-- [ ] Review policies and procedures
-- [ ] Complete required trainings
-- [ ] Learn role-specific systems
-- [ ] Meet team members
-- [ ] Review position manual
-- [ ] Schedule regular check-ins
+- [ ] Attend organizational orientation and mission training
+- [ ] Meet with supervisor and discuss role expectations
+- [ ] Review organizational policies and procedures manual
+- [ ] Complete required training (safety, confidentiality, background check)
+- [ ] Learn role-specific systems and technology
+- [ ] Meet team members and cross-functional partners
+- [ ] Review this position manual thoroughly
+- [ ] Schedule regular check-in meetings with supervisor
+- [ ] Ask questions and clarify any unclear expectations
+
+## Position Policies
+
+All employees and volunteers in this position must:
+
+- Maintain commitment to organizational mission and values
+- Follow all organizational policies and procedures
+- Maintain confidentiality of sensitive information
+- Support a safe, respectful, and inclusive environment
+- Complete required training and compliance certifications
+- Report concerns or safety issues immediately
+- Participate in ongoing professional development
 
 ---
 
 **Document Version:** 1.0  
 **Last Updated:** [Date]  
-**Adopted By:** Board of Directors
-**Review Schedule:** Annually or upon organizational change
+**Adopted By:** Board of Directors  
+**Review Schedule:** Annually or upon significant organizational change  
+**Position Status:** Active

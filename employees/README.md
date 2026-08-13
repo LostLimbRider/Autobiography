@@ -74,6 +74,8 @@ This directory contains operational position manuals for every role in the Lost 
 
 ## Using Position Manuals
 
+The directory also includes **Wage-Structure-and-Benefits.md**, which defines the compensation framework, wage bands for all positions, benefits eligibility, and expense reimbursement policies.
+
 Each position manual includes:
 
 - **Position Overview:** Brief description of the role

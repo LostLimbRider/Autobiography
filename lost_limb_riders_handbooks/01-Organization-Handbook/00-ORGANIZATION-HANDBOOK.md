@@ -252,7 +252,7 @@ Meetings should include mission moment, approval of prior minutes, financial rep
 
 ## Committee Structure
 
-Standing committees are established by the Corporate Bylaws, Article VI, Section 6.01, and include: Executive, Finance, Governance, Audit, Fundraising, Programs, Safety and Risk, and Membership. Chapter Development may be established as a temporary committee or task force per Bylaws Article VI, Section 6.02. Committees recommend action but do not replace full board authority unless delegated in writing by Board resolution. Committee chairs report at regular board meetings. Full committee charters are maintained in the Governance Framework (`GOVERNANCE-FRAMEWORK/06-Committee-Charters.md`).
+Standing committees are established by the Corporate Bylaws, Article VI, Section 6.01, and include: Executive, Finance, Governance, Audit, Fundraising, Programs, Safety and Risk, and Membership. Chapter Development may be established as a temporary committee or task force per Bylaws Article VI, Section 6.02. Committees recommend action but do not replace full board authority unless delegated in writing by Board resolution. Committee chairs report at regular board meetings. Full committee charters are included in this handbook under **Committee Charters**.
 
 ## Board Member Agreement
 

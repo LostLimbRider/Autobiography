@@ -1,13 +1,13 @@
 # **Lost Limb Riders Handbook**
 
-![Logo placeholder: Insert the official Lost Limb Riders logo here.](images/logo-placeholder.svg)
+![Lost Limb Riders Logo](images/logo-placeholder.svg)
 
 **Motto:** “I Can. I Will.”  
 **Tagline:** “Nobody Is Left Behind. Nobody Stands Alone.”  
 **Prepared for:** Sponsors, grant partners, corporate partners, hospitals, prosthetic providers, motorcycle organizations, donors, volunteers, media, and community leaders  
 **Document type:** Organizational handbook and partnership overview  
 
-![Cover image placeholder: Founder standing beside a motorcycle with members of the Lost Limb Riders community in the background.](images/cover-community-placeholder.svg)
+![A motorcyclist rides into the sunset on a dirt road, surrounded by mountains under a vibrant sky.](images/cover-motorcycle-sunset.jpg)
 
 ## **How to Use This Handbook**
 
@@ -53,7 +53,7 @@ Appendix C: Volunteer Commitment Statement
 
 # **Letter from the Founder**
 
-![Image placeholder: Founder portrait or founder with motorcycle.](images/founder-letter-placeholder.svg)
+![Harley-Davidson motorcycle parked on a gravel road, representing the founder\u2019s ride.](images/motorcycle-parked.jpg)
 
 Dear friend,
 
@@ -85,7 +85,7 @@ Founder, Lost Limb Riders
 
 # **Chapter 1: Our Story**
 
-![Image placeholder: A quiet road at sunrise, symbolizing the beginning of a new journey.](images/chapter-1-road-placeholder.svg)
+![Group of motorcyclists riding on a wet urban road during a rainy day, showcasing freedom and adventure.](images/road-riders-wet.jpg)
 
 Every organization has a beginning, but the best ones are not born in conference rooms. They are born from lived experience. They begin when someone goes through something hard enough to change them, then decides that pain will not be wasted.
 
@@ -121,7 +121,7 @@ Lost Limb Riders is the road after the wreck, the hand on the shoulder, the engi
 
 # **Chapter 2: The Reality of Limb Loss**
 
-![Image placeholder: Rehabilitation setting with adaptive equipment and a supportive coach.](images/chapter-2-recovery-placeholder.svg)
+![A doctor consults with a patient in a medical facility room, surrounded by healthcare equipment.](images/doctor-patient-consult.jpg)
 
 Limb loss is often described in visible terms. People notice the prosthetic, the wheelchair, the crutches, the altered gait, or the missing arm or leg. What they do not always see is the full weight of the experience. Limb loss is physical, but it is never only physical. It reaches into identity, finances, family life, employment, transportation, confidence, intimacy, faith, and mental health.
 
@@ -147,7 +147,7 @@ The reality of limb loss is hard. But hard does not mean hopeless. With the righ
 
 # **Chapter 3: Why Lost Limb Riders Exists**
 
-![Image placeholder: Group of riders and supporters gathered before an awareness ride.](images/chapter-3-group-placeholder.svg)
+![Bikers wearing helmets ride through rain on a reflective urban highway, showcasing camaraderie and adventure.](images/group-motorcycle-riders.jpg)
 
 Lost Limb Riders exists because too many people fall into the space between medical treatment and real‑life recovery. Hospitals can save lives. Surgeons can close wounds. Therapists can build strength. Prosthetists can create life‑changing devices. Those professionals are essential. But after appointments end, people still go home to questions that cannot be solved by a prescription or a device alone.
 
@@ -177,7 +177,7 @@ The organization exists because healing should have witnesses. Rebuilding should
 
 # **Chapter 4: Mission, Vision & Values**
 
-![Image placeholder: Close‑up of hands, gloves, prosthetic components, or a patch reading “I Can. I Will.”](images/chapter-4-values-placeholder.svg)
+![A group of hands stacked together symbolizing teamwork, unity, and support.](images/hands-unity-support.jpg)
 
 ## **Mission Statement**
 
@@ -217,7 +217,7 @@ These statements should guide every decision Lost Limb Riders makes. Programs, p
 
 # **Chapter 5: The Lost Limb Riders Promise**
 
-![Image placeholder: Members standing together with arms around one another after an event.](images/chapter-5-promise-placeholder.svg)
+![Friends embrace in a group hug surrounded by rocky and leafy outdoor scenery.](images/community-group-hug.jpg)
 
 We promise every person who walks through our doors that they will be treated with dignity, respect, compassion, and understanding. We know the journey of limb loss is different for every individual, but no one should have to walk it alone.
 
@@ -245,7 +245,7 @@ The Lost Limb Riders Promise is how we protect the soul of the organization as i
 
 # **Chapter 6: Brotherhood and Sisterhood in Community**
 
-![Image placeholder: Mixed group of amputees, families, riders, volunteers, and supporters at a community gathering.](images/chapter-6-community-placeholder.svg)
+![A cheerful group of young adults enjoying a sunny day together outdoors.](images/group-cheerful.jpg)
 
 Lost Limb Riders is not just motorcycles. It is not just amputees. It is people helping people.
 
@@ -267,7 +267,7 @@ Lost Limb Riders should feel like a place where grit and tenderness can stand in
 
 # **Chapter 7: Programs**
 
-![Image placeholder: Program collage with mentorship, events, hospital outreach, and adaptive activity images.](images/chapter-7-programs-placeholder.svg)
+![A close-up of diverse hands joined together symbolizing teamwork and cooperation.](images/community-unity-hands.jpg)
 
 Programs are how the mission becomes real. Each program should be designed with a clear purpose, simple intake process, defined audience, expected outcomes, and a path for future expansion. Lost Limb Riders can begin with manageable offerings and grow responsibly as funding, volunteers, partnerships, and community demand increase.
 
@@ -372,7 +372,7 @@ Programs are how the mission becomes real. Each program should be designed with 
 
 # **Chapter 8: Speaking and Public Awareness**
 
-![Image placeholder: Founder speaking from a stage or in a school auditorium.](images/chapter-8-speaking-placeholder.svg)
+![Man presenting on stage with microphone at a conference event.](images/public-speaking-stage.jpg)
 
 Lost Limb Riders has a speaking mission because stories can open doors that statistics alone cannot. Public awareness changes how communities respond to limb loss. It teaches people how to speak with respect, how to offer help without pity, how to design more inclusive spaces, and how to recognize strength without turning people into symbols.
 
@@ -410,7 +410,7 @@ Every speaking engagement should end with a clear invitation: volunteer, sponsor
 
 # **Chapter 9: Events**
 
-![Image placeholder: Event registration table with volunteers greeting attendees.](images/chapter-9-events-placeholder.svg)
+![Volunteers and attendees at a community event venue.](images/volunteer-event.jpg)
 
 Events give the public a way to experience the mission. They create connection, visibility, fundraising, volunteer engagement, and media opportunities. A strong event calendar should include both signature events and smaller gatherings that keep the community connected throughout the year.
 
@@ -442,7 +442,7 @@ Every event should have a clear purpose, written plan, accessibility review, saf
 
 # **Chapter 10: Corporate Partnerships**
 
-![Image placeholder: Sponsor banner at a ride or community event.](images/chapter-10-partnerships-placeholder.svg)
+![Close-up of a contract signing with hands over documents, representing business partnerships.](images/founder-contract-signing.jpg)
 
 Corporate partnerships allow companies to invest in a mission that is visible, human, and deeply connected to community resilience. Lost Limb Riders offers partners a chance to support amputees and families in practical ways while aligning their brand with courage, inclusion, service, and hope.
 
@@ -468,7 +468,7 @@ A strong partnership program should answer three questions for every company: Wh
 
 # **Chapter 11: Financial Stewardship**
 
-![Image placeholder: Treasurer or board member reviewing program materials and budget notes.](images/chapter-11-stewardship-placeholder.svg)
+![A speaker engages with an audience during a financial presentation or workshop.](images/motivational-speaker.jpg)
 
 Trust is one of the most valuable assets a nonprofit can have. People give money, time, referrals, and reputation when they believe an organization will act with integrity. Lost Limb Riders must handle resources with transparency, accountability, and long‑term discipline.
 
@@ -486,7 +486,7 @@ Stewardship is also emotional. When someone gives to Lost Limb Riders, they are 
 
 # **Chapter 12: Five‑Year Vision**
 
-![Image placeholder: Road map graphic showing year‑by‑year growth milestones.](images/chapter-12-vision-placeholder.svg)
+![A motorcyclist rides into the sunset on a dirt road, representing the road ahead.](images/cover-motorcycle-sunset.jpg)
 
 Five years from now, Lost Limb Riders should be known as a trusted, visible, and deeply human resource for amputees, families, and partners. The organization should still feel personal, but it should operate with enough structure to serve consistently.
 
@@ -514,7 +514,7 @@ The five‑year vision is not about becoming big for the sake of being big. It i
 
 # **Chapter 13: Founder Biography**
 
-![Image placeholder: Professional founder headshot.](images/chapter-13-founder-headshot-placeholder.svg)
+![Founder portrait \u2014 insert professional headshot here.](images/chapter-13-founder-headshot-placeholder.svg)
 
 **[Founder Name]** is the founder of Lost Limb Riders, a community‑driven organization dedicated to supporting amputees, limb‑different individuals, and their families through mentorship, public awareness, adaptive opportunity, and brotherhood and sisterhood in community.
 
@@ -544,7 +544,7 @@ Social media: [Insert handles]
 
 # **Chapter 14: Call to Action**
 
-![Image placeholder: Open road with riders moving forward together.](images/chapter-14-call-to-action-placeholder.svg)
+![Group of riders on motorcycles moving forward together on the highway.](images/group-motorcycle-riders.jpg)
 
 Lost Limb Riders is building something bigger than a program calendar. We are building a place for people who need hope to find it, for families who need support to receive it, and for communities that want to serve to take meaningful action.
 

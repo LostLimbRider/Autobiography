@@ -87,6 +87,14 @@ Board-approved; typically significant commitment including:
 - Close working relationship: Executive Director (if separate position)
 - Direct relationships: Major partners, donors, media contacts, community leaders
 
+## Compensation & Benefits
+
+**Category:** Stipend
+
+**Compensation:** $0\u2013$25,000 annual stipend, set by Board at their discretion. Eligible for expense reimbursement and all organizational benefits for paid positions.
+
+**Benefits:** Expense reimbursement, liability insurance coverage, workers\u2019 compensation coverage, training and professional development, 5 days unpaid leave annually
+
 ## Success Measurements
 
 ### Mission Integrity
@@ -126,7 +134,7 @@ Board-approved; typically significant commitment including:
 - **Community:** Direct connection with amputees and limb-difference individuals
 - **Staff Leadership:** Inspiring and directing executive team
 
-## Authority & Decision‑Making
+## Authority & Decision-Making
 
 The Founder/CEO holds authority to:
 - Set organizational strategic direction (with Board approval)
@@ -134,7 +142,7 @@ The Founder/CEO holds authority to:
 - Negotiate major partnerships and sponsorships (Board approval for significant commitments)
 - Direct staff and organizational operations (or through Executive Director if separate role)
 - Make major strategic recommendations to Board
-- Approve significant organizational decisions (within Board‑delegated authority)
+- Approve significant organizational decisions (within Board-delegated authority)
 
 The Founder/CEO does NOT hold authority to:
 - Make Board decisions (Board function; Founder/CEO provides input)

@@ -30,7 +30,10 @@ POSITIONS = [
             "Enforce Board Code of Conduct and Conflict of Interest Policy"
         ],
         "reporting": "Board of Directors",
-        "time": "6-12 hours monthly"
+        "time": "6-12 hours monthly",
+        "wage_category": "Volunteer",
+        "wage_info": "Unpaid volunteer position. Eligible for expense reimbursement and organizational liability coverage.",
+        "benefits": "Expense reimbursement, liability insurance coverage, training and professional development"
     },
     {
         "number": "02",
@@ -46,7 +49,10 @@ POSITIONS = [
             "Serve on at least one standing committee"
         ],
         "reporting": "Board of Directors",
-        "time": "4-8 hours monthly"
+        "time": "4-8 hours monthly",
+        "wage_category": "Volunteer",
+        "wage_info": "Unpaid volunteer position. Eligible for expense reimbursement and organizational liability coverage.",
+        "benefits": "Expense reimbursement, liability insurance coverage, training and professional development"
     },
     {
         "number": "03",
@@ -63,7 +69,10 @@ POSITIONS = [
             "Archive and organize all governance records"
         ],
         "reporting": "Board of Directors",
-        "time": "4-8 hours monthly"
+        "time": "4-8 hours monthly",
+        "wage_category": "Volunteer",
+        "wage_info": "Unpaid volunteer position. Eligible for expense reimbursement and organizational liability coverage.",
+        "benefits": "Expense reimbursement, liability insurance coverage, training and professional development"
     },
     {
         "number": "04",
@@ -80,7 +89,10 @@ POSITIONS = [
             "Prepare for external audits"
         ],
         "reporting": "Board of Directors",
-        "time": "6-10 hours monthly"
+        "time": "6-10 hours monthly",
+        "wage_category": "Volunteer",
+        "wage_info": "Unpaid volunteer position. Eligible for expense reimbursement and organizational liability coverage.",
+        "benefits": "Expense reimbursement, liability insurance coverage, training and professional development"
     },
     {
         "number": "05",
@@ -96,7 +108,10 @@ POSITIONS = [
             "Represent community perspective in Board discussions"
         ],
         "reporting": "Board of Directors",
-        "time": "4-8 hours monthly"
+        "time": "4-8 hours monthly",
+        "wage_category": "Volunteer",
+        "wage_info": "Unpaid volunteer position. Eligible for expense reimbursement and organizational liability coverage.",
+        "benefits": "Expense reimbursement, liability insurance coverage, training and professional development"
     },
     {
         "number": "06",
@@ -113,7 +128,10 @@ POSITIONS = [
             "Leverage personal lived experience for organizational benefit"
         ],
         "reporting": "Board of Directors",
-        "time": "Board-approved; typically significant"
+        "time": "Board-approved; typically significant",
+        "wage_category": "Stipend",
+        "wage_info": "$0\u2013$25,000 annual stipend, set by Board at their discretion. Eligible for expense reimbursement and all organizational benefits for paid positions.",
+        "benefits": "Expense reimbursement, liability insurance coverage, workers\u2019 compensation coverage, training and professional development, 5 days unpaid leave annually"
     },
     {
         "number": "07",
@@ -130,7 +148,10 @@ POSITIONS = [
             "Ensure compliance with nonprofit laws and regulations"
         ],
         "reporting": "Board of Directors",
-        "time": "Full-time (40-60 hours weekly)"
+        "time": "Full-time (40-60 hours weekly)",
+        "wage_category": "Salaried",
+        "wage_info": "$45,000\u2013$60,000 annual salary. Set by Board based on experience, qualifications, and nonprofit sector benchmarks for Iowa.",
+        "benefits": "Expense reimbursement, liability insurance coverage, workers\u2019 compensation coverage, training and professional development, 15 days PTO annually"
     },
     {
         "number": "08",
@@ -146,7 +167,10 @@ POSITIONS = [
             "Maintain documentation of critical operations"
         ],
         "reporting": "Executive Director",
-        "time": "Part-time to full-time (30-40 hours weekly)"
+        "time": "Part-time to full-time (30-40 hours weekly)",
+        "wage_category": "Stipend",
+        "wage_info": "$24,000\u2013$36,000 annual stipend. Set by Executive Director and approved by Board during annual budget.",
+        "benefits": "Expense reimbursement, liability insurance coverage, workers\u2019 compensation coverage, training and professional development, 5 days unpaid leave annually"
     },
     {
         "number": "09",
@@ -162,7 +186,10 @@ POSITIONS = [
             "Supervise administrative staff"
         ],
         "reporting": "Executive Director",
-        "time": "5-15 hours weekly"
+        "time": "5-15 hours weekly",
+        "wage_category": "Stipend",
+        "wage_info": "$6,000\u2013$12,000 annual stipend. Set by Executive Director and approved by Board during annual budget.",
+        "benefits": "Expense reimbursement, liability insurance coverage, workers\u2019 compensation coverage, training and professional development, 5 days unpaid leave annually"
     },
     {
         "number": "10",
@@ -178,7 +205,10 @@ POSITIONS = [
             "Monitor office supplies and equipment"
         ],
         "reporting": "Director of Administration",
-        "time": "3-10 hours weekly"
+        "time": "3-10 hours weekly",
+        "wage_category": "Stipend",
+        "wage_info": "$3,000\u2013$8,000 annual stipend. Set by Executive Director and approved by Board during annual budget.",
+        "benefits": "Expense reimbursement, liability insurance coverage, workers\u2019 compensation coverage, training and professional development, 5 days unpaid leave annually"
     },
     {
         "number": "11",
@@ -194,7 +224,10 @@ POSITIONS = [
             "Archive and safely destroy records per policy"
         ],
         "reporting": "Director of Administration",
-        "time": "2-6 hours weekly"
+        "time": "2-6 hours weekly",
+        "wage_category": "Volunteer",
+        "wage_info": "Unpaid volunteer position. Eligible for expense reimbursement and organizational liability coverage.",
+        "benefits": "Expense reimbursement, liability insurance coverage, training and professional development"
     },
     {
         "number": "12",
@@ -210,7 +243,10 @@ POSITIONS = [
             "Maintain accurate membership database"
         ],
         "reporting": "Executive Director",
-        "time": "5-12 hours weekly"
+        "time": "5-12 hours weekly",
+        "wage_category": "Stipend",
+        "wage_info": "$5,000\u2013$10,000 annual stipend. Set by Executive Director and approved by Board during annual budget.",
+        "benefits": "Expense reimbursement, liability insurance coverage, workers\u2019 compensation coverage, training and professional development, 5 days unpaid leave annually"
     },
     {
         "number": "13",
@@ -226,7 +262,10 @@ POSITIONS = [
             "Maintain data accuracy and confidentiality"
         ],
         "reporting": "Membership Director",
-        "time": "3-8 hours weekly"
+        "time": "3-8 hours weekly",
+        "wage_category": "Stipend",
+        "wage_info": "$3,000\u2013$6,000 annual stipend. Set by Executive Director and approved by Board during annual budget.",
+        "benefits": "Expense reimbursement, liability insurance coverage, workers\u2019 compensation coverage, training and professional development, 5 days unpaid leave annually"
     },
     {
         "number": "14",
@@ -243,7 +282,10 @@ POSITIONS = [
             "Lead chapter rides and activities"
         ],
         "reporting": "Membership Director",
-        "time": "5-15 hours weekly"
+        "time": "5-15 hours weekly",
+        "wage_category": "Volunteer",
+        "wage_info": "Unpaid volunteer position. Eligible for expense reimbursement and organizational liability coverage.",
+        "benefits": "Expense reimbursement, liability insurance coverage, training and professional development"
     },
     {
         "number": "15",
@@ -260,7 +302,10 @@ POSITIONS = [
             "Supervise family support staff"
         ],
         "reporting": "Executive Director",
-        "time": "5-15 hours weekly"
+        "time": "5-15 hours weekly",
+        "wage_category": "Stipend",
+        "wage_info": "$6,000\u2013$12,000 annual stipend. Set by Executive Director and approved by Board during annual budget.",
+        "benefits": "Expense reimbursement, liability insurance coverage, workers\u2019 compensation coverage, training and professional development, 5 days unpaid leave annually"
     },
     {
         "number": "16",
@@ -277,7 +322,10 @@ POSITIONS = [
             "Track support outcomes"
         ],
         "reporting": "Family Support Director",
-        "time": "3-10 hours weekly"
+        "time": "3-10 hours weekly",
+        "wage_category": "Volunteer",
+        "wage_info": "Unpaid volunteer position. Eligible for expense reimbursement and organizational liability coverage.",
+        "benefits": "Expense reimbursement, liability insurance coverage, training and professional development"
     },
     {
         "number": "17",
@@ -294,7 +342,10 @@ POSITIONS = [
             "Maintain boundaries and confidentiality"
         ],
         "reporting": "Family Support Director",
-        "time": "2-8 hours weekly"
+        "time": "2-8 hours weekly",
+        "wage_category": "Volunteer",
+        "wage_info": "Unpaid volunteer position. Eligible for expense reimbursement and organizational liability coverage.",
+        "benefits": "Expense reimbursement, liability insurance coverage, training and professional development"
     },
     {
         "number": "18",
@@ -311,7 +362,10 @@ POSITIONS = [
             "Provide crisis follow-up support"
         ],
         "reporting": "Family Support Director",
-        "time": "On-call schedule as needed"
+        "time": "On-call schedule as needed",
+        "wage_category": "Volunteer",
+        "wage_info": "Unpaid volunteer position. Eligible for expense reimbursement and organizational liability coverage.",
+        "benefits": "Expense reimbursement, liability insurance coverage, training and professional development"
     },
     {
         "number": "19",
@@ -328,7 +382,10 @@ POSITIONS = [
             "Track partnership outcomes"
         ],
         "reporting": "Executive Director",
-        "time": "5-12 hours weekly"
+        "time": "5-12 hours weekly",
+        "wage_category": "Stipend",
+        "wage_info": "$5,000\u2013$10,000 annual stipend. Set by Executive Director and approved by Board during annual budget.",
+        "benefits": "Expense reimbursement, liability insurance coverage, workers\u2019 compensation coverage, training and professional development, 5 days unpaid leave annually"
     },
     {
         "number": "20",
@@ -345,7 +402,10 @@ POSITIONS = [
             "Address facility concerns"
         ],
         "reporting": "Outreach Director",
-        "time": "3-8 hours weekly"
+        "time": "3-8 hours weekly",
+        "wage_category": "Volunteer",
+        "wage_info": "Unpaid volunteer position. Eligible for expense reimbursement and organizational liability coverage.",
+        "benefits": "Expense reimbursement, liability insurance coverage, training and professional development"
     },
     {
         "number": "21",
@@ -362,7 +422,10 @@ POSITIONS = [
             "Represent organization at events"
         ],
         "reporting": "Outreach Director",
-        "time": "3-8 hours weekly"
+        "time": "3-8 hours weekly",
+        "wage_category": "Volunteer",
+        "wage_info": "Unpaid volunteer position. Eligible for expense reimbursement and organizational liability coverage.",
+        "benefits": "Expense reimbursement, liability insurance coverage, training and professional development"
     },
     {
         "number": "22",
@@ -379,7 +442,10 @@ POSITIONS = [
             "Ensure compliance with insurance"
         ],
         "reporting": "Executive Director",
-        "time": "5-12 hours weekly during riding season"
+        "time": "5-12 hours weekly during riding season",
+        "wage_category": "Stipend",
+        "wage_info": "$5,000\u2013$10,000 annual stipend. Set by Executive Director and approved by Board during annual budget.",
+        "benefits": "Expense reimbursement, liability insurance coverage, workers\u2019 compensation coverage, training and professional development, 5 days unpaid leave annually"
     },
     {
         "number": "23",
@@ -396,7 +462,10 @@ POSITIONS = [
             "Maintain ride documentation"
         ],
         "reporting": "Riding Operations Director",
-        "time": "Per ride plus preparation"
+        "time": "Per ride plus preparation",
+        "wage_category": "Volunteer",
+        "wage_info": "Unpaid volunteer position. Eligible for expense reimbursement and organizational liability coverage.",
+        "benefits": "Expense reimbursement, liability insurance coverage, training and professional development"
     },
     {
         "number": "24",
@@ -413,7 +482,10 @@ POSITIONS = [
             "Support training and compliance"
         ],
         "reporting": "Riding Operations Director",
-        "time": "Per event or ride"
+        "time": "Per event or ride",
+        "wage_category": "Volunteer",
+        "wage_info": "Unpaid volunteer position. Eligible for expense reimbursement and organizational liability coverage.",
+        "benefits": "Expense reimbursement, liability insurance coverage, training and professional development"
     },
     {
         "number": "25",
@@ -430,7 +502,10 @@ POSITIONS = [
             "Support ride objectives"
         ],
         "reporting": "Ride Captain",
-        "time": "Per ride"
+        "time": "Per ride",
+        "wage_category": "Volunteer",
+        "wage_info": "Unpaid volunteer position. Eligible for expense reimbursement and organizational liability coverage.",
+        "benefits": "Expense reimbursement, liability insurance coverage, training and professional development"
     },
     {
         "number": "26",
@@ -447,7 +522,10 @@ POSITIONS = [
             "Report on outcomes"
         ],
         "reporting": "Executive Director",
-        "time": "5-15 hours weekly during event cycles"
+        "time": "5-15 hours weekly during event cycles",
+        "wage_category": "Stipend",
+        "wage_info": "$6,000\u2013$12,000 annual stipend. Set by Executive Director and approved by Board during annual budget.",
+        "benefits": "Expense reimbursement, liability insurance coverage, workers\u2019 compensation coverage, training and professional development, 5 days unpaid leave annually"
     },
     {
         "number": "27",
@@ -464,7 +542,10 @@ POSITIONS = [
             "Support event day operations"
         ],
         "reporting": "Events Director",
-        "time": "Per event cycle"
+        "time": "Per event cycle",
+        "wage_category": "Volunteer",
+        "wage_info": "Unpaid volunteer position. Eligible for expense reimbursement and organizational liability coverage.",
+        "benefits": "Expense reimbursement, liability insurance coverage, training and professional development"
     },
     {
         "number": "28",
@@ -481,7 +562,10 @@ POSITIONS = [
             "Maintain volunteer database"
         ],
         "reporting": "Events Director or Director of Administration",
-        "time": "3-10 hours weekly"
+        "time": "3-10 hours weekly",
+        "wage_category": "Volunteer",
+        "wage_info": "Unpaid volunteer position. Eligible for expense reimbursement and organizational liability coverage.",
+        "benefits": "Expense reimbursement, liability insurance coverage, training and professional development"
     },
     {
         "number": "29",
@@ -498,7 +582,10 @@ POSITIONS = [
             "Report on revenue progress"
         ],
         "reporting": "Executive Director",
-        "time": "5-15 hours weekly"
+        "time": "5-15 hours weekly",
+        "wage_category": "Stipend",
+        "wage_info": "$6,000\u2013$12,000 annual stipend. Set by Executive Director and approved by Board during annual budget.",
+        "benefits": "Expense reimbursement, liability insurance coverage, workers\u2019 compensation coverage, training and professional development, 5 days unpaid leave annually"
     },
     {
         "number": "30",
@@ -515,7 +602,10 @@ POSITIONS = [
             "Maintain grant documentation"
         ],
         "reporting": "Fundraising Director",
-        "time": "Project-based"
+        "time": "Project-based",
+        "wage_category": "Volunteer",
+        "wage_info": "Unpaid volunteer position. Eligible for expense reimbursement and organizational liability coverage.",
+        "benefits": "Expense reimbursement, liability insurance coverage, training and professional development"
     },
     {
         "number": "31",
@@ -532,7 +622,10 @@ POSITIONS = [
             "Maintain sponsor relationships"
         ],
         "reporting": "Fundraising Director",
-        "time": "3-10 hours weekly"
+        "time": "3-10 hours weekly",
+        "wage_category": "Volunteer",
+        "wage_info": "Unpaid volunteer position. Eligible for expense reimbursement and organizational liability coverage.",
+        "benefits": "Expense reimbursement, liability insurance coverage, training and professional development"
     },
     {
         "number": "32",
@@ -549,7 +642,10 @@ POSITIONS = [
             "Support donor retention"
         ],
         "reporting": "Fundraising Director",
-        "time": "3-8 hours weekly"
+        "time": "3-8 hours weekly",
+        "wage_category": "Stipend",
+        "wage_info": "$3,000\u2013$6,000 annual stipend. Set by Executive Director and approved by Board during annual budget.",
+        "benefits": "Expense reimbursement, liability insurance coverage, workers\u2019 compensation coverage, training and professional development, 5 days unpaid leave annually"
     },
     {
         "number": "33",
@@ -566,7 +662,10 @@ POSITIONS = [
             "Provide financial analysis"
         ],
         "reporting": "Executive Director with Treasurer oversight",
-        "time": "5-12 hours weekly"
+        "time": "5-12 hours weekly",
+        "wage_category": "Stipend",
+        "wage_info": "$5,000\u2013$10,000 annual stipend. Set by Executive Director and approved by Board during annual budget.",
+        "benefits": "Expense reimbursement, liability insurance coverage, workers\u2019 compensation coverage, training and professional development, 5 days unpaid leave annually"
     },
     {
         "number": "34",
@@ -583,7 +682,10 @@ POSITIONS = [
             "Support audit process"
         ],
         "reporting": "Finance Director",
-        "time": "3-10 hours weekly"
+        "time": "3-10 hours weekly",
+        "wage_category": "Stipend",
+        "wage_info": "$3,000\u2013$8,000 annual stipend. Set by Executive Director and approved by Board during annual budget.",
+        "benefits": "Expense reimbursement, liability insurance coverage, workers\u2019 compensation coverage, training and professional development, 5 days unpaid leave annually"
     },
     {
         "number": "35",
@@ -600,7 +702,10 @@ POSITIONS = [
             "Report on spending"
         ],
         "reporting": "Finance Director",
-        "time": "2-6 hours weekly"
+        "time": "2-6 hours weekly",
+        "wage_category": "Stipend",
+        "wage_info": "$2,000\u2013$5,000 annual stipend. Set by Executive Director and approved by Board during annual budget.",
+        "benefits": "Expense reimbursement, liability insurance coverage, workers\u2019 compensation coverage, training and professional development, 5 days unpaid leave annually"
     },
     {
         "number": "36",
@@ -617,7 +722,10 @@ POSITIONS = [
             "Manage external messaging"
         ],
         "reporting": "Executive Director",
-        "time": "5-12 hours weekly"
+        "time": "5-12 hours weekly",
+        "wage_category": "Stipend",
+        "wage_info": "$5,000\u2013$10,000 annual stipend. Set by Executive Director and approved by Board during annual budget.",
+        "benefits": "Expense reimbursement, liability insurance coverage, workers\u2019 compensation coverage, training and professional development, 5 days unpaid leave annually"
     },
     {
         "number": "37",
@@ -634,7 +742,10 @@ POSITIONS = [
             "Maintain positive community"
         ],
         "reporting": "Communications Director",
-        "time": "3-8 hours weekly"
+        "time": "3-8 hours weekly",
+        "wage_category": "Volunteer",
+        "wage_info": "Unpaid volunteer position. Eligible for expense reimbursement and organizational liability coverage.",
+        "benefits": "Expense reimbursement, liability insurance coverage, training and professional development"
     },
     {
         "number": "38",
@@ -651,7 +762,10 @@ POSITIONS = [
             "Support user experience"
         ],
         "reporting": "Communications Director",
-        "time": "2-6 hours weekly"
+        "time": "2-6 hours weekly",
+        "wage_category": "Volunteer",
+        "wage_info": "Unpaid volunteer position. Eligible for expense reimbursement and organizational liability coverage.",
+        "benefits": "Expense reimbursement, liability insurance coverage, training and professional development"
     },
     {
         "number": "39",
@@ -668,7 +782,10 @@ POSITIONS = [
             "Support communications team"
         ],
         "reporting": "Communications Director",
-        "time": "Project-based"
+        "time": "Project-based",
+        "wage_category": "Volunteer",
+        "wage_info": "Unpaid volunteer position. Eligible for expense reimbursement and organizational liability coverage.",
+        "benefits": "Expense reimbursement, liability insurance coverage, training and professional development"
     },
     {
         "number": "40",
@@ -685,7 +802,10 @@ POSITIONS = [
             "Support risk management"
         ],
         "reporting": "Board or Executive Director",
-        "time": "As needed"
+        "time": "As needed",
+        "wage_category": "Volunteer",
+        "wage_info": "Unpaid volunteer position. Eligible for expense reimbursement and organizational liability coverage.",
+        "benefits": "Expense reimbursement, liability insurance coverage, training and professional development"
     },
     {
         "number": "41",
@@ -702,7 +822,10 @@ POSITIONS = [
             "Report on risk"
         ],
         "reporting": "Legal and Risk Management lead",
-        "time": "2-6 hours weekly"
+        "time": "2-6 hours weekly",
+        "wage_category": "Volunteer",
+        "wage_info": "Unpaid volunteer position. Eligible for expense reimbursement and organizational liability coverage.",
+        "benefits": "Expense reimbursement, liability insurance coverage, training and professional development"
     },
     {
         "number": "42",
@@ -719,7 +842,10 @@ POSITIONS = [
             "Support risk management"
         ],
         "reporting": "Executive Director or Legal lead",
-        "time": "3-8 hours weekly"
+        "time": "3-8 hours weekly",
+        "wage_category": "Volunteer",
+        "wage_info": "Unpaid volunteer position. Eligible for expense reimbursement and organizational liability coverage.",
+        "benefits": "Expense reimbursement, liability insurance coverage, training and professional development"
     }
 ]
 
@@ -746,6 +872,14 @@ The {pos['name']} position supports Lost Limb Riders in fulfilling its mission t
 ## Reporting Structure
 
 - Reports to: {pos['reporting']}
+
+## Compensation & Benefits
+
+**Category:** {pos['wage_category']}
+
+**Compensation:** {pos['wage_info']}
+
+**Benefits:** {pos['benefits']}
 
 ## Success Measurements
 
