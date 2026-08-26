@@ -25,21 +25,34 @@ This index lists every operational form, checklist, and template in the transact
 
 ### Human Resources (03-HUMAN-RESOURCES)
 
+**⚠ These HR forms now live in the canonical HR packet:** `lost_limb_riders_handbooks/transactional_operations/03-HUMAN-RESOURCES/`
+
+| Canonical ID | Form | Procedure |
+|-------------|------|-----------|
+| HR-CHK-001 | Employer Setup Checklist | HR-SOP-001 |
+| HR-FORM-001 | Position Authorization Form | HR-SOP-003 |
+| HR-SOP-002 | Recruitment SOP | HR-POL-001 |
+| HR-FORM-002 | Employee Application Form | HR-SOP-002 |
+| HR-FORM-003 | Interview Evaluation Form | HR-SOP-002 |
+| HR-FORM-004 | Offer Letter Template | HR-SOP-003 |
+| HR-CHK-002 | Employee Onboarding Checklist | HR-SOP-004 |
+| HR-CHK-003 | Personnel File Checklist | HR-SOP-004 |
+| HR-FORM-005 | Position Compensation Worksheet | HR-SOP-003 |
+| HR-TIME-001 | Employee Time Record | HR-SOP-005 |
+| HR-FORM-007 | Performance Review Form | HR-SOP-007 |
+| HR-FORM-008 | Disciplinary Action Form | HR-SOP-007 |
+| HR-FORM-009 | Separation Notice Form | HR-SOP-006 |
+| HR-CHK-004 | Employee Separation Checklist | HR-SOP-006 |
+| HR-CHK-005 | Final Payroll Checklist | FIN-PROC-004 |
+
+**Payroll forms (Finance):**
+
 | Document ID | Form | Procedure |
 |-------------|------|-----------|
-| HR-ADM-001 | Employer Setup Checklist | HR-PROC-001, HR-PROC-004 |
-| HR-POS-001 | Position Authorization Form | HR-PROC-001 |
-| HR-REC-001 | Recruitment Checklist | HR-PROC-001 |
-| HR-APP-001 | Employment Application (template) | HR-PROC-001 |
-| HR-INT-001 | Interview Evaluation Form | HR-PROC-001 |
-| HR-OFR-001 | Offer Letter Template | HR-PROC-001 |
-| HR-ONB-001 | Employee Onboarding Checklist | HR-PROC-001 |
-| HR-FIL-001 | Personnel File System | GOV-POL-001 |
-| HR-COMP-001 | Position Compensation Worksheet | HR-PROC-002 |
-| HR-TIME-001 | Employee Time Record | HR-PROC-003 |
-| HR-CHK-001 | Payroll Checklists (regular/correction/final/year-end) | HR-PROC-004 |
-| HR-PERF-001 | Performance Review Form | HR-PROC-001 |
-| HR-SEP-001 | Employee Separation Checklist | HR-PROC-001 |
+| FIN-CHK-001 | Payroll Checklist (regular/correction) | FIN-PROC-004 |
+| FIN-CHK-003 | Year-End Close Checklist | FIN-PROC-008 |
+
+Index: `HR-REF-002-HR-Packet-Index.md` in the canonical HR packet.
 
 ### Contractors (04-CONTRACTORS)
 

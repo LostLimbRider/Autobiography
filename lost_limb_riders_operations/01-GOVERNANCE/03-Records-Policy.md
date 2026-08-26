@@ -62,7 +62,7 @@ Every transaction is opened with a Transaction ID and entered in the Master Tran
 ## **7. Access and Confidentiality**
 
 - Access to restricted records is limited to authorized personnel on a need-to-know basis.
-- Personnel, medical, and I-9 records are kept in separate, restricted files (see HR-FIL-001).
+- Personnel, medical, and I-9 records are kept in separate, restricted files (see HR-CHK-003).
 - Donor records are kept confidential per the Privacy Policy.
 - No public disclosure of restricted information without a signed release or legal obligation.
 

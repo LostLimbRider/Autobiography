@@ -1,3 +1,14 @@
+> **⛔ DO NOT USE — SUPERSEDED (August 25, 2026)**
+>
+> This document has been superseded. The authoritative version is:
+>
+> **HR-FORM-004 (Offer Letter Template)**
+>
+> Location: `lost_limb_riders_handbooks/transactional_operations/03-HUMAN-RESOURCES/`
+> Index: `HR-REF-002-HR-Packet-Index.md`
+>
+> Do not use this document for any new employment activity. All prior references to this document's legacy ID should be updated to point to the canonical replacement above.
+
 # **Lost Limb Riders — Offer Letter Template**
 
 **Document ID:** HR-OFR-001  

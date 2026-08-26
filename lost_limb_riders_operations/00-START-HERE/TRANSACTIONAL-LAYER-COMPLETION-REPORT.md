@@ -95,10 +95,10 @@ The following items require review by an attorney, CPA, payroll professional, or
 
 | Item | Professional required | Where |
 |------|----------------------|-------|
-| Employee vs. contractor classification, wage and hour, Iowa employment law (before first hire) | Attorney + payroll professional | HR-PROC-001 |
-| Compensation: IRC §4958 excess-benefit compliance and Form 990 disclosure for key employees/disqualified persons | Attorney / CPA | HR-PROC-002 |
-| Iowa payroll forms, deadlines, and rates (at setup and annually) | Payroll provider, IWD, Iowa DOR | HR-PROC-004 |
-| COBRA eligibility and notices | Benefits provider / attorney | HR-SEP-001 |
+| Employee vs. contractor classification, wage and hour, Iowa employment law (before first hire) | Attorney + payroll professional | HR-EMP-001 |
+| Compensation: IRC §4958 excess-benefit compliance and Form 990 disclosure for key employees/disqualified persons | Attorney / CPA | HR-SOP-003 |
+| Iowa payroll forms, deadlines, and rates (at setup and annually) | Payroll provider, IWD, Iowa DOR | FIN-PROC-004 |
+| COBRA eligibility and notices | Benefits provider / attorney | HR-CHK-004 |
 | Contractor classification and W-9/TIN issues | Attorney | CTR-001, CTR-PROC-001 |
 | Contractor agreement terms and indemnification | Attorney | CTR-002 |
 | Contracts for real property, loans, leases; debt/loan resolutions | Attorney | FIN-CTRL-001 |
@@ -110,13 +110,13 @@ The following items require review by an attorney, CPA, payroll professional, or
 | UBIT review of revenue streams (year-end) | CPA | CMP-IRS-001, FUND-REF-001 |
 | Iowa sales/use tax obligations (merchandise, admissions) | Iowa DOR / CPA | CMP-IA-001, FIN-PUR-001 |
 | Insurance claims: settlement and admissions of fault | Carrier / attorney | SAF-INS-001 |
-| Employment agreement provisions | Attorney | HR-OFR-001 |
+| Employment agreement provisions | Attorney | HR-FORM-004 |
 
 ## **8. Known Gaps and Deferred Items**
 
 1. **Validation test execution (scenarios 1–12):** defined but not yet executed. Scheduled per section 15. Test records, even fictional, are restricted and are stored outside this repository.
-2. **Pending professional reviews:** the retention schedule (CMP-RET-001), IRS matrix (CMP-IRS-001), and compensation procedure (HR-PROC-002) carry build notes that their numbers/rates are subject to counsel or CPA review. Nothing in this layer is legal, tax, or insurance advice; the items in section 7 must be confirmed before reliance.
-3. **Board decisions required before first use:** pay frequency and pay dates (HR-PROC-004 section 2) are placeholders awaiting board resolution; any internal-control thresholds referenced as board-defined follow the same rule.
+2. **Pending professional reviews:** the retention schedule (CMP-RET-001), IRS matrix (CMP-IRS-001), and compensation procedure (HR-SOP-003) carry build notes that their numbers/rates are subject to counsel or CPA review. Nothing in this layer is legal, tax, or insurance advice; the items in section 7 must be confirmed before reliance.
+3. **Board decisions required before first use:** pay frequency and pay dates (FIN-PROC-004 section 2) are placeholders awaiting board resolution; any internal-control thresholds referenced as board-defined follow the same rule.
 4. **Validation tooling:** `tools/validate_ops.py` is advisory automation. It does not replace document-owner review, professional review (section 7), or the change-control process (CMP-CHG-001).
 5. **Archive hygiene:** superseded and archived material under `ARCHIVE/` is preserved intentionally and is not deleted (ADM-REF-003).
 
@@ -124,7 +124,7 @@ The following items require review by an attorney, CPA, payroll professional, or
 
 1. Execute the twelve validation scenarios on simulated data and record results in section 5 before the first live use of the layer.
 2. Obtain the professional reviews in section 7 before the first hire, first payroll, first grant award, or first restricted-fund acceptance.
-3. Complete the board resolutions required in HR-PROC-004 (pay frequency and pay dates) before the first payroll run.
+3. Complete the board resolutions required in FIN-PROC-004 (pay frequency and pay dates) before the first payroll run.
 4. Re-run the validator after any change that touches document IDs, header fields, or file paths.
 5. Review this report annually and update it through the change-control procedure.
 
@@ -167,7 +167,7 @@ The transactional layer is **built and structurally validated**. The layer is re
 |----------|-------|-----------------|
 | Run validation scenarios 1–12 on simulated data; record results | Records & Compliance Officer | Before first live use |
 | Professional reviews (section 7) | Board / ED with counsel, CPA, payroll, insurance providers | Before first hire, payroll, grant, or restricted acceptance |
-| Board resolutions: pay frequency and pay dates (HR-PROC-004) | Board | Before first payroll |
+| Board resolutions: pay frequency and pay dates (FIN-PROC-004) | Board | Before first payroll |
 | Re-run validator | Records & Compliance Officer | After any material change |
 | Review this completion report | Board / ED | Annual, via CMP-CHG-001 |
 

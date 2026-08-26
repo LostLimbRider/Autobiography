@@ -10,7 +10,7 @@
 **Document Owner:** Finance Director  
 **Approving Authority:** Executive Director  
 **Supersedes:** None  
-**Related Documents:** FIN-EXP-001, FIN-PAY-001, EVT-CLOSE-001, HR-PROC-004, FUND-PROC-001, 12-COMPLIANCE, 05-FINANCE/10-Bank-Reconciliation-Procedure.md, 05-FINANCE/09-Annual-Budget-Procedure.md  
+**Related Documents:** FIN-EXP-001, FIN-PAY-001, EVT-CLOSE-001, FIN-PROC-004, FUND-PROC-001, 12-COMPLIANCE, 05-FINANCE/10-Bank-Reconciliation-Procedure.md, 05-FINANCE/09-Annual-Budget-Procedure.md  
 **Related Forms:** FIN-EXP-001, FIN-PAY-001, EVT-CLOSE-001  
 **Record Classification:** Finance  
 **Retention Requirement:** 7 years (CMP-RET-001)
@@ -44,7 +44,7 @@ Follow GRT-PROC-001: expenditures vs. budget, reporting deadlines, deliverables,
 
 1. Complete all journal entries; adjust accruals per CPA guidance.
 2. Reconcile all balance sheet accounts (cash, receivables, payables, restricted funds, fixed assets).
-3. Run W-2/1099 processes (HR-CHK-001 Checklist D, CTR-CHK-001).
+3. Run W-2/1099 processes (FIN-CHK-003 Year-End Close, CTR-CHK-001).
 4. Complete Form 990 (CMP-IRS-001) and Iowa filings (CMP-IA-001) with CPA review.
 5. Produce annual financial statements; complete audit/review/compilation as determined by the Board (Bylaws 9.04).
 6. Archive records per CMP-RET-001.

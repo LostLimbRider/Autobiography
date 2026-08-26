@@ -40,7 +40,7 @@ This matrix defines who may authorize expenses, approve purchases, sign contract
 | Purchase needing competitive quotes | L2+ | Quote comparison sheet | Required over $1,000 unless impractical; documented |
 | Expense reimbursement | Supervisor (not the claimant) | Expense report (FIN-EXP-001) | Claimant never approves own reimbursement |
 | Payroll run | Executive Director (approval), Finance (execution), Treasurer (review) | Payroll approval checklist | Two-person review; Treasurer reviews bank statement monthly |
-| Compensation (new or change) | Board (officers/key employees); Executive Director proposes, Board approves (staff) | HR-COMP-001, HR-PROC-002 | Interested persons recuse; see conflict controls |
+| Compensation (new or change) | Board (officers/key employees); Executive Director proposes, Board approves (staff) | HR-FORM-005, HR-SOP-003 | Interested persons recuse; see conflict controls |
 | Event authorization | Executive Director up to L2 risk; Board for events with contract > $5,000 or significant risk | EVT-AUTH-001, EVT-FIN-001 | Financial feasibility required for paid assignments |
 | Contract signing | Per limits: ED ≤ $1,000; Finance Committee ≤ $5,000; Board > $5,000 | Written contract | Two signatures recommended; counsel review for real property, loans, leases |
 | Bank account open/close | Board resolution | Board minutes | Two authorized signers; Treasurer as signer |
@@ -70,7 +70,7 @@ Requester → Approver → Payer → Reconciler
 
 ## **5. Conflict of Interest**
 
-No person may approve their own compensation, their own reimbursement, a payment to an entity they control, or any transaction where they have a financial interest. The conflicted person discloses, recuses, and leaves discussion when directed. See Conflict of Interest Policy (Organization Handbook) and HR-PROC-002.
+No person may approve their own compensation, their own reimbursement, a payment to an entity they control, or any transaction where they have a financial interest. The conflicted person discloses, recuses, and leaves discussion when directed. See Conflict of Interest Policy (Organization Handbook) and HR-SOP-003.
 
 ## **6. Delegation**
 

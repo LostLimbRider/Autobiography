@@ -10,8 +10,8 @@
 **Document Owner:** Records & Compliance Officer  
 **Approving Authority:** Executive Director  
 **Supersedes:** None  
-**Related Documents:** CMP-IRS-001, CMP-IA-001, CMP-ANN-001, CMP-CHG-001, HR-CHK-001 (year-end), CTR-CHK-001  
-**Related Forms:** CMP-ANN-001, HR-CHK-001, CTR-CHK-001  
+**Related Documents:** CMP-IRS-001, CMP-IA-001, CMP-ANN-001, CMP-CHG-001, FIN-CHK-003 (year-end), CTR-CHK-001  
+**Related Forms:** CMP-ANN-001, FIN-CHK-003, CTR-CHK-001  
 **Record Classification:** Compliance  
 **Retention Requirement:** Permanent
 

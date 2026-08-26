@@ -10,7 +10,7 @@
 **Document Owner:** Events Director  
 **Approving Authority:** Executive Director  
 **Supersedes:** None  
-**Related Documents:** EVT-AUTH-001, EVT-BUD-001, EVT-CLOSE-001, HR-PROC-004, 04-CONTRACTORS  
+**Related Documents:** EVT-AUTH-001, EVT-BUD-001, EVT-CLOSE-001, FIN-PROC-004, 04-CONTRACTORS  
 **Related Forms:** EVT-AUTH-001, EVT-BUD-001, EVT-CLOSE-001  
 **Record Classification:** Event records / Finance  
 **Retention Requirement:** 7 years (CMP-RET-001)

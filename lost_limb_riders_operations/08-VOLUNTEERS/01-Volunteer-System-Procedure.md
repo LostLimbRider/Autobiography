@@ -10,7 +10,7 @@
 **Document Owner:** Volunteer Coordinator  
 **Approving Authority:** Executive Director  
 **Supersedes:** None  
-**Related Documents:** VOL-001, VOL-002, forms (Volunteer Application, Volunteer Hours Tracking, Emergency Contact, Release), HR-PROC-001  
+**Related Documents:** VOL-001, VOL-002, forms (Volunteer Application, Volunteer Hours Tracking, Emergency Contact, Release), HR-EMP-001  
 **Related Forms:** VOL-001  
 **Record Classification:** Volunteer records  
 **Retention Requirement:** 7 years after last service (CMP-RET-001)
@@ -64,7 +64,7 @@ Separation / Inactive Status
 - Volunteers receive no cash compensation for services.
 - Volunteers are not substituted for paid employees where law requires employees.
 - Volunteer expenses are reimbursed only when pre-approved and documented.
-- Volunteers who begin performing integral, supervised, ongoing work for pay must be classified as employees (see CTR-001 / HR-PROC-001). Labeling a worker a "volunteer" does not override the facts.
+- Volunteers who begin performing integral, supervised, ongoing work for pay must be classified as employees (see CTR-001 / HR-EMP-001). Labeling a worker a "volunteer" does not override the facts.
 
 ## **5. Revision History**
 

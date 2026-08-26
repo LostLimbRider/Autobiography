@@ -10,8 +10,8 @@
 **Document Owner:** Finance Director  
 **Approving Authority:** Finance Director  
 **Supersedes:** None  
-**Related Documents:** CTR-005, CTR-004, HR-CHK-001 (Checklist D), CMP-IRS-001  
-**Related Forms:** CTR-005, CTR-004, HR-CHK-001  
+**Related Documents:** CTR-005, CTR-004, FIN-CHK-003 (Year-End Close), CMP-IRS-001  
+**Related Forms:** CTR-005, CTR-004, FIN-CHK-003  
 **Record Classification:** Contracts / Finance  
 **Retention Requirement:** Contract + 7 years (CMP-RET-001 — IRS requires 4 years after filing; the organization uses the longest applicable requirement)
 

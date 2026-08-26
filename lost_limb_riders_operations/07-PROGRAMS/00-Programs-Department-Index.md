@@ -34,7 +34,7 @@ The transactional layer does not duplicate program manuals. Program operational 
 
 ## **How Programs Use the Transactional Layer**
 
-- Program labor → time records (HR-TIME-001) and payroll (HR-PROC-004)
+- Program labor → time records (HR-TIME-001) and payroll (FIN-PROC-004)
 - Program purchases → purchasing (FIN-PUR-001)
 - Program revenue → donations/sponsorships/grants (10-FUNDRAISING, 11-GRANTS)
 - Program incidents → incident workflow (SAF-INC-001)

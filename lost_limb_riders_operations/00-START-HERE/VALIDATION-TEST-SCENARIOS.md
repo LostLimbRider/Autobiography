@@ -27,14 +27,14 @@ Hire an employee from authorization through first payroll.
 
 | Step | Document | Expected output |
 |------|----------|-----------------|
-| Position need | HR-POS-001 | Authorization with ID |
-| Compensation | HR-COMP-001 + HR-PROC-002 | Approved rate + board/ED sign-off |
-| Recruitment/interview | HR-REC-001, HR-APP-001, HR-INT-001 | Documented selection |
-| Offer/accept | HR-OFR-001 | Signed offer |
-| Onboarding | HR-ONB-001 | W-4, I-9, Iowa withholding, direct deposit, new-hire report |
+| Position need | HR-FORM-001 | Authorization with ID |
+| Compensation | HR-FORM-005 + HR-SOP-003 | Approved rate + board/ED sign-off |
+| Recruitment/interview | HR-SOP-002, HR-FORM-002, HR-FORM-003 | Documented selection |
+| Offer/accept | HR-FORM-004 | Signed offer |
+| Onboarding | HR-CHK-002 | W-4, I-9, Iowa withholding, direct deposit, new-hire report |
 | Timekeeping | HR-TIME-001 | Certified + supervisor-approved record |
-| Payroll | HR-CHK-001, HR-PROC-004 | PAY ID, journal entry, tax deposit |
-| File/register | HR-FIL-001, ADM-REG-001 | EMP ID tracked to close |
+| Payroll | FIN-CHK-001, FIN-PROC-004 | PAY ID, journal entry, tax deposit |
+| File/register | HR-CHK-003, ADM-REG-001 | EMP ID tracked to close |
 
 **Pass criteria:** Every step has a document; the trail runs EMP → TIM → PAY; no step "handled."
 
@@ -63,7 +63,7 @@ Accept a paid event through final closeout.
 | Feasibility | EVT-FIN-001 (flags run before acceptance) |
 | Budget/staffing | EVT-BUD-001, EVT-HR-001 |
 | Event day | EVT-DAY-001 (time, revenue, expenses captured) |
-| Payroll/invoices | HR-CHK-001, CTR-005 |
+| Payroll/invoices | FIN-CHK-001, CTR-005 |
 | Closeout | EVT-CLOSE-001 (actual net; variance explained) |
 
 **Pass criteria:** Economics known before acceptance; final result calculated; unfunded-labor flag would stop the Fort Dodge concert failure (EVT-POST-001).
@@ -153,10 +153,10 @@ Same as Scenario 6, plus: restriction recorded exactly; funds tracked in FUND-RE
 
 | Step | Document |
 |------|----------|
-| Separation | HR-SEP-001 |
-| Final pay | HR-CHK-001 (Checklist C), Iowa timing |
+| Separation | HR-CHK-004 |
+| Final pay | FIN-CHK-001 (Payroll Checklist), Iowa timing |
 | Access/property | Revocation + return logs |
-| Records | HR-FIL-001 closeout; EMP ID closed in register |
+| Records | HR-CHK-003 closeout; EMP ID closed in register |
 
 **Pass criteria:** Final payroll within Iowa timing; access revoked; property logged; record retention set.
 

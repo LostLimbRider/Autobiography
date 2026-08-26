@@ -42,7 +42,7 @@ Property Return → Record Retention
 
 **Responsible chain:** Board/Executive → Hiring manager → HR/Records & Compliance → Payroll → Finance.
 
-**Control documents:** `03-HUMAN-RESOURCES/` — position authorization (HR-POS-001), recruitment (HR-REC-001), application (HR-APP-001), interview (HR-INT-001), offer (HR-OFR-001), onboarding (HR-ONB-001), personnel file (HR-FIL-001), compensation worksheet (HR-COMP-001), compensation approval (HR-PROC-002), time record (HR-TIME-001), payroll (HR-PROC-004), performance (HR-PERF-001), separation (HR-SEP-001).
+**Control documents:** `03-HUMAN-RESOURCES/` — position authorization (HR-FORM-001), recruitment (HR-SOP-002), application (HR-FORM-002), interview (HR-FORM-003), offer (HR-FORM-004), onboarding (HR-CHK-002), personnel file (HR-CHK-003), compensation worksheet (HR-FORM-005), compensation approval (HR-SOP-003), time record (HR-TIME-001), payroll (FIN-PROC-004), performance (HR-FORM-007), separation (HR-CHK-004).
 
 **Transaction IDs:** `EMP-YYYY-###` (employee file), `TIM-YYYY-###` (time records), `PAY-YYYY-###` (payroll runs).
 

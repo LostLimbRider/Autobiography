@@ -10,7 +10,7 @@
 **Document Owner:** Finance Director  
 **Approving Authority:** Board of Directors  
 **Supersedes:** None (formalizes the budget section of the Financial Procedures Manual)  
-**Related Documents:** FIN-CLOSE-001, HR-PROC-002, FIN-CTRL-001  
+**Related Documents:** FIN-CLOSE-001, HR-SOP-003, FIN-CTRL-001  
 **Related Forms:** None  
 **Record Classification:** Finance  
 **Retention Requirement:** Permanent (annual financial statements); working papers 7 years
@@ -28,7 +28,7 @@ January 1 through December 31 (Bylaws 9.02).
 ## **3. Timeline**
 
 1. **August–September:** Department directors submit program goals and budget requests (revenue, expenses, staffing needs, assumptions).
-2. **September–October:** Executive Director and Finance Director consolidate; draft budget prepared; compensation proposals per HR-PROC-002.
+2. **September–October:** Executive Director and Finance Director consolidate; draft budget prepared; compensation proposals per HR-SOP-003.
 3. **October:** Finance Committee reviews the draft and recommends approval to the Board.
 4. **November:** Board approves the final budget and records the approval in minutes (BRD-YYYY-###).
 5. **Year-round:** Budget vs. actual reported monthly; significant variances are explained; spending follows FIN-CTRL-001.

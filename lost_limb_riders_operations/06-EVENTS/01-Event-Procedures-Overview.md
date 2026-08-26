@@ -72,7 +72,7 @@ Event record filed; transaction closed in register
 
 ## **6. Worker Classifications at Events**
 
-- **Employees** — paid staff performing integral, supervised work. Paid through payroll (HR-PROC-004) with time records.
+- **Employees** — paid staff performing integral, supervised work. Paid through payroll (FIN-PROC-004) with time records.
 - **Contractors** — engaged per 04-CONTRACTORS (agreement + W-9 + invoice).
 - **Volunteers** — unpaid, per 08-VOLUNTEERS. A volunteer is not a free employee; volunteers serve under the volunteer agreement, and labor performed for pay must be classified correctly (see CTR-001).
 

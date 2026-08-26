@@ -36,7 +36,7 @@ No personal or confidential information is included. The event is reconstructed 
 | What did the organization expect to receive? | EVT-FIN-001 projected revenue line |
 | How many workers were needed? | EVT-HR-001 staffing plan |
 | How many hours were required? | EVT-HR-001 scheduled hours; HR-TIME-001 actual hours |
-| What should each worker have been paid? | Approved rates (HR-COMP-001 / payroll records) |
+| What should each worker have been paid? | Approved rates (HR-FORM-005 / payroll records) |
 | What did labor actually cost? | EVT-CLOSE-001 labor reconciliation |
 | What other expenses occurred? | EVT-CLOSE-001 expense reconciliation (FIN-EXP-001) |
 | Was the event profitable? | EVT-CLOSE-001 final result calculation |

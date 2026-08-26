@@ -84,7 +84,7 @@ Every controlled document carries a unique Document ID. Format:
 <DEPARTMENT PREFIX>-<TYPE PREFIX>-<SEQUENCE>
 ```
 
-Examples: `HR-ONB-001`, `EVT-AUTH-001`, `FIN-EXP-001`, `CMP-IRS-001`, `CTR-001`.
+Examples: `HR-CHK-002`, `EVT-AUTH-001`, `FIN-EXP-001`, `CMP-IRS-001`, `CTR-001`.
 
 Document type prefixes: POL (Policy), SOP (Standard Operating Procedure), PROC (Procedure), FORM (Form), CHK (Checklist), REG (Register), TMP (Template), REF (Reference).
 

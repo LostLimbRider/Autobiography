@@ -39,7 +39,7 @@ This map documents the inventory of the repository and the disposition of every 
 |------|----------|--------|--------|
 | `01-Chairperson.md` … `42-Safety-Coordinator.md` | 42 position manuals | Active | Retained. Used as job-description source for HR position authorization. |
 | `README.md` | Position manual index | Active | Retained. |
-| `Wage-Structure-and-Benefits.md` | Compensation framework, wage bands, benefits, expense reimbursement policy | Active | Retained and integrated. Compensation worksheet (`HR-COMP-001`) and approval procedure (`HR-PROC-002`) reference it as the compensation basis. |
+| `Wage-Structure-and-Benefits.md` | Compensation framework, wage bands, benefits, expense reimbursement policy | Active | Retained and integrated. Compensation worksheet (`HR-FORM-005`) and approval procedure (`HR-SOP-003`) reference it as the compensation basis. |
 | `generate_positions.py` | Position manual generator script | Active | Retained. |
 
 ### Archived — `ARCHIVE/CONSOLIDATION/ORG-INFRASTRUCTURE/`
@@ -95,7 +95,7 @@ This map documents the inventory of the repository and the disposition of every 
 | Grant tracking | `11-GRANTS/` |
 | Sponsorship management | `10-FUNDRAISING/04-Sponsorship-Agreement.md` |
 | Incident reporting | `09-SAFETY-RISK/` incident workflow |
-| Compensation framework | `03-HUMAN-RESOURCES/10-Compensation-Worksheet.md`, `HR-PROC-002` |
+| Compensation framework | `03-HUMAN-RESOURCES/10-Compensation-Worksheet.md`, `HR-SOP-003` |
 
 ## **New Architecture**
 

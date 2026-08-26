@@ -10,14 +10,14 @@
 **Document Owner:** Finance Director  
 **Approving Authority:** Per FIN-CTRL-001 limits  
 **Supersedes:** None  
-**Related Documents:** FIN-PUR-002, FIN-EXP-001, CTR-005, FIN-CTRL-001, HR-PROC-004  
+**Related Documents:** FIN-PUR-002, FIN-EXP-001, CTR-005, FIN-CTRL-001, FIN-PROC-004  
 **Related Forms:** FIN-PUR-002, FIN-EXP-001, CTR-005  
 **Record Classification:** Finance  
 **Retention Requirement:** 7 years (CMP-RET-001)
 
 ---
 
-**Payment Authorization — used for vendor payments, reimbursements, and other disbursements. Contractor payments are authorized on CTR-005 (Contractor Payment Authorization), not this form. Payroll has its own approval per HR-PROC-004.**
+**Payment Authorization — used for vendor payments, reimbursements, and other disbursements. Contractor payments are authorized on CTR-005 (Contractor Payment Authorization), not this form. Payroll has its own approval per FIN-PROC-004.**
 
 | Field | Entry |
 |-------|-------|

@@ -10,7 +10,7 @@
 **Document Owner:** Events Director  
 **Approving Authority:** Events Director  
 **Supersedes:** None  
-**Related Documents:** EVT-PROC-001, EVT-DAY-001, HR-TIME-001, 08-VOLUNTEERS, HR-PROC-004  
+**Related Documents:** EVT-PROC-001, EVT-DAY-001, HR-TIME-001, 08-VOLUNTEERS, FIN-PROC-004  
 **Related Forms:** EVT-DAY-001, HR-TIME-001  
 **Record Classification:** Event records  
 **Retention Requirement:** 7 years (CMP-RET-001)

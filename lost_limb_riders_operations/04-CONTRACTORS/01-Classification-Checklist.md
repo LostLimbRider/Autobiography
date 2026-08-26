@@ -10,7 +10,7 @@
 **Document Owner:** Executive Director  
 **Approving Authority:** Executive Director  
 **Supersedes:** None  
-**Related Documents:** CTR-PROC-001, CTR-002, CTR-003, CTR-005, CTR-CHK-001, HR-PROC-001  
+**Related Documents:** CTR-PROC-001, CTR-002, CTR-003, CTR-005, CTR-CHK-001, HR-EMP-001  
 **Related Forms:** CTR-002, CTR-003, CTR-005, CTR-CHK-001  
 **Record Classification:** Contracts  
 **Retention Requirement:** Contract + 7 years (CMP-RET-001)
@@ -38,7 +38,7 @@ For each factor, indicate where the relationship sits. Worker is more likely a c
 
 ## **DECISION**
 
-- [ ] **Employee** — most factors indicate employment. Do NOT engage as contractor. Route through HR-PROC-001.
+- [ ] **Employee** — most factors indicate employment. Do NOT engage as contractor. Route through HR-EMP-001.
 - [ ] **Contractor** — most factors indicate independent contractor status. Proceed with CTR-PROC-001.
 - [ ] **Mixed / uncertain** — stop. Obtain counsel review before proceeding.
 

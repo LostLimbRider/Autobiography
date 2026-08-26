@@ -10,7 +10,7 @@
 **Document Owner:** Events Director  
 **Approving Authority:** Executive Director  
 **Supersedes:** None  
-**Related Documents:** EVT-REV-001, EVT-BUD-001, HR-TIME-001, HR-PROC-004, FIN-EXP-001, CTR-004, SAF-INC-001, EVT-POST-001, ADM-REG-001  
+**Related Documents:** EVT-REV-001, EVT-BUD-001, HR-TIME-001, FIN-PROC-004, FIN-EXP-001, CTR-004, SAF-INC-001, EVT-POST-001, ADM-REG-001  
 **Related Forms:** EVT-REV-001, EVT-BUD-001, HR-TIME-001, FIN-EXP-001, CTR-004, EVT-POST-001  
 **Record Classification:** Event records / Finance  
 **Retention Requirement:** 7 years (CMP-RET-001)
