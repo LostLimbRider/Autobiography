@@ -4,6 +4,8 @@
 **Created:** July 22, 2026  
 **Purpose:** Tracking documents and issues requiring review by qualified legal counsel, a certified public accountant, or licensed insurance professionals before adoption, implementation, or public distribution.
 
+> **SUPERSEDED (August 25, 2026):** Entity and tax status is now recorded in the live record **`CMP-REF-002` (lost_limb_riders_handbooks/transactional_operations/12-COMPLIANCE/CMP-REF-002-Employer-and-Registration-Status.md)**. Rows marked "Complete" below reflect filings now done. This archive queue is retained for history only.
+
 ---
 
 ## Status Key
@@ -13,6 +15,8 @@
 | **Pending Review** | Item identified, awaiting professional review |
 | **In Review** | Under professional review |
 | **Approved** | Reviewed and approved for implementation |
+| **Complete** | Filing/action finalized and evidenced outside the repository (see CMP-REF-002) |
+| **Reconfirm** | Done previously; reconfirm at the relevant launch or period |
 | **Returned** | Reviewed and returned with required changes |
 | **On Hold** | Deferred pending other actions |
 
@@ -45,8 +49,8 @@
 | # | Document | Location | Review Needed | Status |
 |---|----------|----------|---------------|--------|
 | 3.1 | Participant Release of Liability | Doc/Lost_Limb_Riders_Packet/Participant_Release_of_Liability.md | Iowa counsel: confirm enforceability, motorcycle event liability, minor participant provisions, HIPAA considerations, disability rights compliance | Pending Review |
-| 3.2 | Articles of Incorporation | Not yet filed (TBD) | Iowa counsel: confirm filing requirements, 501(c)(3) organizational test, charitable purpose language | Pending Review |
-| 3.3 | IRS 501(c)(3) Application | Not yet filed (TBD) | Tax counsel/CPA: confirm application strategy, public support test, private benefit limits, inurement restrictions | Pending Review |
+| 3.2 | Articles of Incorporation | Filed with the State of Iowa | Iowa counsel: confirm consistent bylaws and charitable-purpose language against the filed articles | Complete |
+| 3.3 | IRS 501(c)(3) Application | Filed review (application was the path); determination received | Tax counsel/CPA: confirm public support test, private benefit limits, inurement restrictions on an ongoing basis | Complete |
 
 ---
 
@@ -65,9 +69,9 @@
 
 | # | Item | Review Needed | Status |
 |---|------|---------------|--------|
-| 5.1 | Iowa charitable solicitation registration | Iowa counsel: confirm filing requirements before any fundraising | Pending Review |
-| 5.2 | State tax exemption | Iowa counsel: confirm state-level tax exemption process | Pending Review |
-| 5.3 | Federal tax exemption (501(c)(3)) | Tax counsel/CPA: confirm application timeline and requirements | Pending Review |
+| 5.1 | Iowa charitable solicitation registration | Iowa counsel: confirm current filing requirements before any fundraising launch (Iowa general solicitation registration is not broadly required; professional fundraisers register under Ch. 13C) | Reconfirm |
+| 5.2 | State tax exemption | Iowa counsel: state-level tax exemption confirmed | Complete |
+| 5.3 | Federal tax exemption (501(c)(3)) | Tax counsel/CPA: exemption determined (application was the path); ongoing reporting per CMP-IRS-001 | Complete |
 | 5.4 | Employment law compliance | Iowa counsel: confirm worker classification (employee vs. independent contractor), wage/hour, ADA obligations | Pending Review |
 | 5.5 | HIPAA considerations | Iowa counsel: confirm whether peer visit programs create HIPAA obligations | Pending Review |
 | 5.6 | Background screening requirements | Iowa counsel: confirm permissible background check scope, disclosure requirements, disqualifying criteria | Pending Review |

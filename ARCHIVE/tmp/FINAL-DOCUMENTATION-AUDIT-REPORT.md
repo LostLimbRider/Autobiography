@@ -34,7 +34,7 @@
 | Doc/Lost_Limb_Riders_Packet/Organizational_Infrastructure/ preserved | **Confirmed** — 9 files remain (8 manuals + START-HERE index) |
 | All 8 pairs verified byte-identical before deletion | **Confirmed** via diff |
 | START-HERE index preserved | **Confirmed** — exists only in Doc/ copy |
-| Archived copies in ARCHIVE/PRE-CONSOLIDATION/ | **Confirmed** |
+| Archived copies in ARCHIVE/CONSOLIDATION/ | **Confirmed** |
 
 ### DUPLICATE-2 — Logo PNG ✅ RESOLVED
 
@@ -43,7 +43,7 @@
 | AUTOBIOGRAPHY/NONPROFIT/lost-limb-riders-logo.png deleted | **Confirmed** — file no longer exists |
 | Doc/Lost_Limb_Riders_Packet/logo.png preserved | **Confirmed** |
 | Files verified byte-identical before deletion | **Confirmed** via diff |
-| Archived copy in ARCHIVE/PRE-CONSOLIDATION/ | **Confirmed** |
+| Archived copy in ARCHIVE/CONSOLIDATION/ | **Confirmed** |
 | References to deleted path | Only in RESOLUTION-PROPOSAL-REPORT.md (documenting the change) |
 
 ### DUPLICATE-3 — Identical PDFs ✅ RESOLVED
@@ -53,7 +53,7 @@
 | Lost_Limb_Riders_Pitch_Deck.pdf deleted from Doc/ | **Confirmed** |
 | Lost_Limb_Riders_Proposal.pdf deleted from Doc/ | **Confirmed** |
 | Both verified identical (same MD5: bc1e033e2161acca18d600ea74eb44fa) | **Confirmed** |
-| Archived copies in ARCHIVE/PRE-CONSOLIDATION/ | **Confirmed** |
+| Archived copies in ARCHIVE/CONSOLIDATION/ | **Confirmed** |
 | Source files preserved | PPTX (1.3 MB) and DOCX (1.3 MB) confirmed present |
 | **ACTION REQUIRED:** Re-export PDFs from PPTX and DOCX sources | Pending — requires LibreOffice or equivalent tool. Not automated in this phase. |
 
@@ -206,10 +206,10 @@
 
 | File | Location |
 |------|----------|
-| Lost_Limb_Riders_Pitch_Deck.pdf | ARCHIVE/PRE-CONSOLIDATION/ |
-| Lost_Limb_Riders_Proposal.pdf | ARCHIVE/PRE-CONSOLIDATION/ |
-| lost-limb-riders-logo.png | ARCHIVE/PRE-CONSOLIDATION/ |
-| 8x ORG-INFRASTRUCTURE manuals | ARCHIVE/PRE-CONSOLIDATION/ORG-INFRASTRUCTURE/ |
+| Lost_Limb_Riders_Pitch_Deck.pdf | ARCHIVE/CONSOLIDATION/ |
+| Lost_Limb_Riders_Proposal.pdf | ARCHIVE/CONSOLIDATION/ |
+| lost-limb-riders-logo.png | ARCHIVE/CONSOLIDATION/ |
+| 8x ORG-INFRASTRUCTURE manuals | ARCHIVE/CONSOLIDATION/ORG-INFRASTRUCTURE/ |
 
 ---
 
@@ -265,7 +265,7 @@
 | All documents reference correct authority | ✅ Bylaws cited as controlling in all updated operational docs |
 | All internal links work | ⚠️ Not fully verified — SVG placeholder image paths may be broken (pre-existing) |
 | All terminology is standardized | ✅ Style guide created and applied to key documents |
-| All archives are preserved | ✅ ARCHIVE/PRE-CONSOLIDATION/ confirmed |
+| All archives are preserved | ✅ ARCHIVE/CONSOLIDATION/ confirmed |
 | Git history clearly documents changes | ⏳ Awaiting user commit (git is forbidden for AI per AGENTS.md) |
 
 ---

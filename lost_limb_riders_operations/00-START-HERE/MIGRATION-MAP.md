@@ -42,7 +42,7 @@ This map documents the inventory of the repository and the disposition of every 
 | `Wage-Structure-and-Benefits.md` | Compensation framework, wage bands, benefits, expense reimbursement policy | Active | Retained and integrated. Compensation worksheet (`HR-COMP-001`) and approval procedure (`HR-PROC-002`) reference it as the compensation basis. |
 | `generate_positions.py` | Position manual generator script | Active | Retained. |
 
-### Archived — `ARCHIVE/PRE-CONSOLIDATION/ORG-INFRASTRUCTURE/`
+### Archived — `ARCHIVE/CONSOLIDATION/ORG-INFRASTRUCTURE/`
 
 | File | Contents | Status | Action |
 |------|----------|--------|--------|
@@ -59,7 +59,7 @@ This map documents the inventory of the repository and the disposition of every 
 
 | Location | Contents | Status | Action |
 |----------|----------|--------|--------|
-| `ARCHIVE/tmp/org/Organizational_Infrastructure/` | Pre-consolidation copies of the eight manuals | Archived | Duplicate of `ARCHIVE/PRE-CONSOLIDATION/`. Preserved as historical. |
+| `ARCHIVE/tmp/org/Organizational_Infrastructure/` | Superseded copies of the eight manuals | Archived | Duplicate of `ARCHIVE/CONSOLIDATION/`. Preserved as historical. |
 | `ARCHIVE/tmp/org/GOVERNANCE-FRAMEWORK/` | Bylaws, governance manual, board handbook, orientation, policies, committee charters | Archived | Superseded by Organization Handbook governance framework. Preserved. |
 | `ARCHIVE/tmp/org/` program operations manuals (Peer Connection, Ride Forward) | Program operations manuals | Archived | Superseded by `lost_limb_riders_handbooks/03-Program-Manuals/`. Preserved. |
 | `ARCHIVE/tmp/org/*.md` (proposal, about, presentation) | Fundraising collateral | Archived | Preserved. |
@@ -78,7 +78,7 @@ This map documents the inventory of the repository and the disposition of every 
 
 ## **Duplicates Identified**
 
-1. **Eight ORG-INFRASTRUCTURE manuals** exist in three places: `ARCHIVE/PRE-CONSOLIDATION/ORG-INFRASTRUCTURE/`, `ARCHIVE/tmp/org/Organizational_Infrastructure/`, and consolidated into `lost_limb_riders_handbooks/01-Organization-Handbook/`. The active copy is the Organization Handbook. Archives are preserved as history.
+1. **Eight ORG-INFRASTRUCTURE manuals** exist in three places: `ARCHIVE/CONSOLIDATION/ORG-INFRASTRUCTURE/`, `ARCHIVE/tmp/org/Organizational_Infrastructure/`, and consolidated into `lost_limb_riders_handbooks/01-Organization-Handbook/`. The active copy is the Organization Handbook. Archives are preserved as history.
 2. **Governance framework** exists in `ARCHIVE/tmp/org/GOVERNANCE-FRAMEWORK/`, `ARCHIVE/tmp/AUTOBIOGRAPHY/NONPROFIT/GOVERNANCE-FRAMEWORK/`, and in the Organization Handbook. Active copy: Organization Handbook.
 3. **Program operations manuals** exist in `ARCHIVE/tmp/org/`, `ARCHIVE/tmp/AUTOBIOGRAPHY/NONPROFIT/`, and `lost_limb_riders_handbooks/03-Program-Manuals/`. Active copy: Program Manuals.
 4. **Participant release and style guide** exist in `ARCHIVE/tmp/forms/` and in `lost_limb_riders_handbooks/04-Forms-and-Templates/`. Active copy: Forms and Templates.
