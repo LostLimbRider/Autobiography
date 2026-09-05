@@ -432,7 +432,7 @@
 |---|---|---|
 | 4 different mission statements confuse stakeholders | **High** | Adopt one standard public mission statement |
 | Population lists differ across documents | **Medium** | Standardize population statement |
-| Handbook founder bio uses `[Founder Name]` placeholder | **Low** | Replace with "John Thompson" |
+| Handbook founder bio used `[Founder Name]` placeholder | **Resolved** | Replaced with canonical public identity "J. Thompson" |
 | "We Can. We Will." variant dilutes core motto | **Low** | Remove variant from presentation |
 
 ### Information Loss Risks
@@ -474,7 +474,7 @@
 - [ ] **D-2:** Standardize population statement across About, Proposal, Handbook, and Operations Manual.
 - [ ] **D-3:** Standardize expense approval thresholds to match Operations Manual.
 - [ ] **D-4:** Move "Board Review Items" block from individual manuals to the START-HERE index or Governance Manual.
-- [ ] **D-5:** Replace `[Founder Name]` placeholders in handbook with "John Thompson".
+- [x] **D-5:** Replace `[Founder Name]` placeholders in handbook with "J. Thompson".
 - [ ] **D-6:** Remove "We Can. We Will." variant from Presentation.
 
 ### Group E — Terminology

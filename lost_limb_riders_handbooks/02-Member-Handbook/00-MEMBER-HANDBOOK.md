@@ -79,7 +79,7 @@ Thank you for taking the time to learn about Lost Limb Riders. Thank you for con
 
 With respect and determination,
 
-**[Founder Name]**  
+**J. Thompson**  
 Founder, Lost Limb Riders  
 **“I Can. I Will.”**
 
@@ -514,15 +514,15 @@ The five‑year vision is not about becoming big for the sake of being big. It i
 
 # **Chapter 13: Founder Biography**
 
-![Founder portrait \u2014 insert professional headshot here.](images/chapter-13-founder-headshot-placeholder.svg)
+![J. Thompson \u2014 Founder, Lost Limb Riders](../../assets/images/FOUNDER_HEADSHOT.png)
 
-**[Founder Name]** is the founder of Lost Limb Riders, a community‑driven organization dedicated to supporting amputees, limb‑different individuals, and their families through mentorship, public awareness, adaptive opportunity, and brotherhood and sisterhood in community.
+**J. Thompson** is the founder of Lost Limb Riders, a community‑driven organization dedicated to supporting amputees, limb‑different individuals, and their families through mentorship, public awareness, adaptive opportunity, and brotherhood and sisterhood in community.
 
-After experiencing limb loss personally, [Founder Name] came to understand that recovery does not end when medical treatment is complete. The physical journey is only one part of the story. Emotional healing, confidence, family support, financial pressure, and social connection all shape the path forward. That lived experience became the foundation for Lost Limb Riders.
+After experiencing limb loss personally, J. Thompson came to understand that recovery does not end when medical treatment is complete. The physical journey is only one part of the story. Emotional healing, confidence, family support, financial pressure, and social connection all shape the path forward. That lived experience became the foundation for Lost Limb Riders.
 
-[Founder Name] created the organization with a simple conviction: no one facing limb loss should have to rebuild alone. Through speaking, community events, peer connection, and partnerships, [Founder Name] works to help others find hope, courage, and practical support after life‑changing injury or medical crisis.
+J. Thompson created the organization with a simple conviction: no one facing limb loss should have to rebuild alone. Through speaking, community events, peer connection, and partnerships, J. Thompson works to help others find hope, courage, and practical support after life‑changing injury or medical crisis.
 
-The motto “I Can. I Will.” reflects [Founder Name]’s belief that determination is built one decision at a time. The tagline “Nobody Is Left Behind. Nobody Stands Alone.” reflects the culture Lost Limb Riders is committed to creating for every member, family, volunteer, and partner.
+The motto “I Can. I Will.” reflects J. Thompson’s belief that determination is built one decision at a time. The tagline “Nobody Is Left Behind. Nobody Stands Alone.” reflects the culture Lost Limb Riders is committed to creating for every member, family, volunteer, and partner.
 
 **Media Topics:**  
 Life after limb loss  
@@ -534,12 +534,12 @@ Family impact of amputation
 Nonprofit leadership rooted in lived experience  
 
 **Approved short bio:**  
-[Founder Name] is the founder of Lost Limb Riders, an organization supporting amputees, limb‑different individuals, and their families through community, mentorship, public awareness, and adaptive opportunity. Drawing from personal experience with limb loss, [Founder Name] speaks about resilience, dignity, and the power of making sure nobody is left behind and nobody stands alone.
+J. Thompson is the founder of Lost Limb Riders, an organization supporting amputees, limb‑different individuals, and their families through community, mentorship, public awareness, and adaptive opportunity. Drawing from personal experience with limb loss, J. Thompson speaks about resilience, dignity, and the power of making sure nobody is left behind and nobody stands alone.
 
 **Contact:**  
-Website: [Insert website]  
-Email: [Insert email]  
-Phone: [Insert phone]  
+Website: lostlimbriders.org  
+Email: john.thompson@lostlimbriders.org  
+Phone: 515-890-5765  
 Social media: [Insert handles]  
 
 # **Chapter 14: Call to Action**
@@ -586,7 +586,7 @@ Use high‑resolution images whenever possible. Avoid images that feel staged, e
 **Partnerships:** Sponsor recognition image.  
 **Stewardship:** Board or planning image.  
 **Five‑Year Vision:** Road map graphic.  
-**Founder Biography:** Professional headshot.  
+**Founder Biography:** Professional headshot — J. Thompson (assets/images/FOUNDER_HEADSHOT.png).  
 **Call to Action:** Open road image.
 
 ## **Appendix B: Partner One‑Sheet Copy**
@@ -609,7 +609,7 @@ Refer patients or families
 Volunteer at events  
 Support emergency assistance and adaptive opportunities  
 
-**Contact:** [Insert contact information]
+**Contact:** lostlimbriders.org — john.thompson@lostlimbriders.org — 515-890-5765
 
 ## **Appendix C: Volunteer Commitment Statement**
 
