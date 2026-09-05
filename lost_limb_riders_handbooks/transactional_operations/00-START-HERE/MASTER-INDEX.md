@@ -12,7 +12,7 @@
 **Document Owner:** Executive Director
 **Approving Authority:** Board of Directors
 **Supersedes:** None
-**Related Documents:** GOV-POL-001 Document Control; ADM-PROC-001 Document Lifecycle; ADM-PROC-002 Change Control; 00-START-HERE.md (handbooks master index)
+**Related Documents:** GOV-POL-001 Document Control; ADM-PROC-001 Document Lifecycle; ADM-PROC-002 Change Control; ADM-REG-003 Document Access Classification; 00-START-HERE.md (handbooks master index)
 **Related Forms:** None
 **Record Classification:** Administrative
 **Retention Requirement:** Permanent (while in force)
@@ -206,6 +206,7 @@ That chain is what this layer exists to make real.
 | ADM-REF-001 | Master Index | `00-START-HERE/MASTER-INDEX.md` |
 | ADM-REF-002 | Transaction Map | `00-START-HERE/TRANSACTION-MAP.md` |
 | ADM-REF-003 | Migration Map | `00-START-HERE/MIGRATION-MAP.md` |
+| ADM-REG-003 | Document Access Classification Register | `02-ADMINISTRATION/ADM-REG-003-Document-Access-Classification-Register.md` |
 | GOV-REF-001 | Governance Index | `01-GOVERNANCE/GOV-REF-001-Governance-Index.md` |
 
 See the full register of controlled documents in `00-START-HERE/VALIDATION-REPORT.md` (generated) and the department indexes in each folder.
