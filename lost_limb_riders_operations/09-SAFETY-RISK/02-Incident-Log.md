@@ -1,3 +1,14 @@
+> **⛔ DO NOT USE — SUPERSEDED (September 4, 2026)**
+>
+> This document has been superseded. The authoritative version is:
+>
+> **Incident Register** (SAF-REG-001)
+>
+> Location: `lost_limb_riders_handbooks/transactional_operations/09-SAFETY-RISK/SAF-REG-001-Incident-Register.md`
+> Index: `lost_limb_riders_handbooks/transactional_operations/00-START-HERE/MASTER-INDEX.md`
+>
+> Do not use this document for any new operational activity. All prior references to this document's ID should be updated to point to the canonical replacement above.
+
 # **Lost Limb Riders — Incident Log**
 
 **Document ID:** SAF-REG-001  

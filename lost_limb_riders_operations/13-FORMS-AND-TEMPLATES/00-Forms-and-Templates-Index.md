@@ -63,7 +63,7 @@ Index: `HR-REF-002-HR-Packet-Index.md` in the canonical HR packet.
 | CTR-003 | Scope of Work Template | CTR-PROC-001 |
 | CTR-004 | Contractor Invoice Template | CTR-PROC-001 |
 | CTR-005 | Contractor Payment Authorization | CTR-PROC-001 |
-| CTR-CHK-001 | Year-End 1099 Review | CTR-PROC-001 |
+| CTR-SOP-001 | Year-End 1099 Review SOP (supersedes CTR-CHK-001) | CTR-PROC-001 |
 
 ### Finance (05-FINANCE)
 

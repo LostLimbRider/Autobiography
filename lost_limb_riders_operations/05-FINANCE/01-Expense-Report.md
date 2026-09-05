@@ -1,3 +1,14 @@
+> **⛔ DO NOT USE — SUPERSEDED (September 4, 2026)**
+>
+> This document has been superseded. The authoritative version is:
+>
+> **Expense Report** (FIN-EXP-001)
+>
+> Location: `lost_limb_riders_handbooks/transactional_operations/05-FINANCE/FIN-EXP-001-Expense-Report.md`
+> Index: `lost_limb_riders_handbooks/transactional_operations/00-START-HERE/MASTER-INDEX.md`
+>
+> Do not use this document for any new operational activity. All prior references to this document's ID should be updated to point to the canonical replacement above.
+
 # **Lost Limb Riders — Expense Report**
 
 **Document ID:** FIN-EXP-001  

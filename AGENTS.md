@@ -69,6 +69,49 @@ All manuscript content must use Reedsy-friendly markdown that survives copy-past
 - Clean UTF-8 encoding only
 
 
+## Project Invariant — FOUNDER IDENTITY
+
+Public organizational documentation must identify the founder as "J. Thompson"
+where the abbreviated public founder identity is required (member handbook,
+pamphlet, letters, bios, and organizational publications).
+
+- Unresolved founder-name placeholders must not ship: `[founder name]`,
+  `[Founder Name]`, `[FOUNDER NAME]`, `[insert founder name]`, and variants are
+  banned in production documentation.
+- Never render the canonical public founder identity as "John", "John Thompson",
+  "J Thompson", or "J.Thompson" in founder-name placeholder replacements.
+- Founder imagery must reference the single canonical headshot:
+  `assets/images/FOUNDER_HEADSHOT.png`. Do not point founder-image references at
+  nonexistent or duplicated image paths.
+- Run the regression guard after any content change:
+  `python3 lost_limb_riders_operations/tools/validate_founder_identity.py`.
+
+
+## Project Invariant — Document ID Active Uniqueness
+
+Transactional document IDs must be unique among ACTIVE controlled
+documents across the whole repository. Superseded documents keep their
+historical IDs for provenance but do not claim them against the active
+corpus — only one authoritative ACTIVE document may own any given ID.
+
+- `lost_limb_riders_handbooks/transactional_operations/` is the CANONICAL
+  CURRENT TRANSACTIONAL LAYER. `lost_limb_riders_operations/` is the
+  FIRST-GENERATION TRANSACTIONAL LAYER. Never describe the first-generation
+  layer as "legacy."
+- A document is retired/superseded only by adding the canonical retirement
+  banner (`> **⛔ DO NOT USE — SUPERSEDED ...**`) or setting its Status
+  header field. Retired documents must identify their authoritative
+  successor, are exempt from uniqueness checks and orphan checks, and are
+  never treated as the authority for their Document ID.
+- Active documents must not cite a retired first-generation document as
+  authority. Retarget reference by path to the canonical replacement in
+  the transactional layer. Migration records and planning documents under
+  `00-START-HERE/` are exempt (they intentionally record legacy paths).
+- Run after any content change:
+  `python3 lost_limb_riders_operations/tools/validate_ops.py`
+  `python3 lost_limb_riders_handbooks/transactional_operations/validate_transactional_layer.py`
+
+
 ## Key People
 
 - **John Thompson** — the author. Amputee (right leg, below the knee), cancer survivor, heart attack survivor, recovering addict, motorcycle rider, motivational speaker.

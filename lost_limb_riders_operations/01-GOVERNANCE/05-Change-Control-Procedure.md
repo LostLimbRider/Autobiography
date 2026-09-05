@@ -10,7 +10,7 @@
 **Document Owner:** Records & Compliance Officer  
 **Approving Authority:** Executive Director (ratified by Board)  
 **Supersedes:** None  
-**Related Documents:** ADM-DOC-001, CMP-CAL-001, 12-COMPLIANCE/01-IRS-Compliance-Matrix.md, 12-COMPLIANCE/02-Iowa-Compliance-Matrix.md  
+**Related Documents:** ADM-DOC-001, CMP-CAL-001, lost_limb_riders_handbooks/transactional_operations/12-COMPLIANCE/CMP-IRS-001-Federal-Compliance-Reference.md, lost_limb_riders_handbooks/transactional_operations/12-COMPLIANCE/CMP-IA-001-Iowa-Compliance-Reference.md  
 **Related Forms:** None  
 **Record Classification:** Permanent — Governance  
 **Retention Requirement:** Permanent (Board)

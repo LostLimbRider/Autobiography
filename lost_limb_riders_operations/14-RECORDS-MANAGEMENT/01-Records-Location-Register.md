@@ -10,7 +10,7 @@
 **Document Owner:** Records & Compliance Officer  
 **Approving Authority:** Board of Directors  
 **Supersedes:** None  
-**Related Documents:** GOV-POL-001, CMP-RET-001, ADM-DOC-001  
+**Related Documents:** GOV-POL-002 (Records and Record-Keeping), GOV-POL-003 (Records Retention), CMP-RET-001, ADM-DOC-001  
 **Related Forms:** None  
 **Record Classification:** Permanent — Governance  
 **Retention Requirement:** Permanent (Board)

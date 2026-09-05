@@ -1,3 +1,14 @@
+> **⛔ DO NOT USE — SUPERSEDED (September 4, 2026)**
+>
+> This document has been superseded. The authoritative version is:
+>
+> **Donation Receipt and Acknowledgment Procedure** (FIN-PROC-005) and **Donation Acknowledgment** (FIN-FORM-006)
+>
+> Location: `lost_limb_riders_handbooks/transactional_operations/05-FINANCE/FIN-PROC-005-Donation-Receipt-and-Acknowledgment-Procedure.md`; `lost_limb_riders_handbooks/transactional_operations/05-FINANCE/FIN-FORM-006-Donation-Acknowledgment.md`
+> Index: `lost_limb_riders_handbooks/transactional_operations/00-START-HERE/MASTER-INDEX.md`
+>
+> Do not use this document for any new operational activity. All prior references to this document's ID should be updated to point to the canonical replacement above.
+
 # **Lost Limb Riders — Donation Receipt and Acknowledgment Procedure**
 
 **Document ID:** FUND-PROC-002  

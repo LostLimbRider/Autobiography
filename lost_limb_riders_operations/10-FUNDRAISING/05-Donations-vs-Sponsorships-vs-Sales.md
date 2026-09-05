@@ -10,7 +10,7 @@
 **Document Owner:** Fundraising Director  
 **Approving Authority:** Executive Director  
 **Supersedes:** None  
-**Related Documents:** FUND-PROC-001, FUND-PROC-002, FUND-SPON-001, CMP-IRS-001  
+**Related Documents:** FUND-PROC-001 (Donation Processing), FIN-PROC-005 (Donation Receipt and Acknowledgment), FUND-PROC-002 (Sponsorship Procedure), FUND-SPON-001 (Sponsorship Agreement), CMP-IRS-001  
 **Related Forms:** FUND-SPON-001  
 **Record Classification:** Finance  
 **Retention Requirement:** 7 years (CMP-RET-001)

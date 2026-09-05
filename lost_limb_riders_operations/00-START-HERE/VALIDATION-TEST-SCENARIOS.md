@@ -48,7 +48,7 @@ Engage a contractor through payment and year-end review.
 | W-9 + agreement | CTR-PROC-001, CTR-002, CTR-003 |
 | Invoice/verification | CTR-004 |
 | Payment | CTR-005, FIN-PAY-001 |
-| Year-end | CTR-CHK-001 (1099 determination) |
+| Year-end | CTR-SOP-001 (1099 determination) |
 
 **Pass criteria:** No payment without W-9, agreement, verification; classification documented; 1099 reviewed.
 
@@ -101,7 +101,7 @@ An employee spends $250 personally and requests reimbursement.
 |------|----------|
 | Receive/identify | FUND-PROC-001 (DON ID) |
 | Restriction | Unrestricted (FUND-REST-001) |
-| Acknowledgment | FUND-PROC-002 |
+| Acknowledgment | FIN-PROC-005 |
 | Deposit/accounting | EVT-REV-001 log or donation log; journal entry |
 | Reconciliation | FIN-CLOSE-001 |
 

@@ -206,6 +206,7 @@ That chain is what this layer exists to make real.
 | ADM-REF-001 | Master Index | `00-START-HERE/MASTER-INDEX.md` |
 | ADM-REF-002 | Transaction Map | `00-START-HERE/TRANSACTION-MAP.md` |
 | ADM-REF-003 | Migration Map | `00-START-HERE/MIGRATION-MAP.md` |
+| GOV-REF-001 | Governance Index | `01-GOVERNANCE/GOV-REF-001-Governance-Index.md` |
 
 See the full register of controlled documents in `00-START-HERE/VALIDATION-REPORT.md` (generated) and the department indexes in each folder.
 

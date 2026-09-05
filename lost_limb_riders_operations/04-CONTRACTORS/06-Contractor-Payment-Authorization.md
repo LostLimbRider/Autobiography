@@ -36,7 +36,7 @@
 | Payment Date | ______________________________ |
 | Payment Reference (PAY-YYYY-###) | ______________________________ |
 | Journal Entry Reference | ______________________________ |
-| Form 1099 eligible (see CTR-CHK-001) | ☐ Yes ☐ No |
+| Form 1099 eligible (see CTR-SOP-001) | ☐ Yes ☐ No |
 
 ## **CONTROL CHECK**
 

@@ -10,8 +10,8 @@
 **Document Owner:** Finance Director  
 **Approving Authority:** Executive Director  
 **Supersedes:** None  
-**Related Documents:** CTR-002, CTR-003, CTR-005, CTR-CHK-001  
-**Related Forms:** CTR-002, CTR-003, CTR-005, CTR-CHK-001  
+**Related Documents:** CTR-002, CTR-003, CTR-005, CTR-SOP-001  
+**Related Forms:** CTR-002, CTR-003, CTR-005, CTR-SOP-001  
 **Record Classification:** Contracts / Finance  
 **Retention Requirement:** Contract + 7 years
 

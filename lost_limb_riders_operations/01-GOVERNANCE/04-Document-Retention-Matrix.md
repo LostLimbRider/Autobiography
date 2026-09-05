@@ -10,7 +10,7 @@
 **Document Owner:** Records & Compliance Officer  
 **Approving Authority:** Board of Directors  
 **Supersedes:** None (operationalizes Document Retention and Destruction Policy)  
-**Related Documents:** GOV-POL-001, 14-RECORDS-MANAGEMENT/01-Records-Location-Register.md, 01-GOVERNANCE/05-Change-Control-Procedure.md  
+**Related Documents:** GOV-POL-002 (Records and Record-Keeping), GOV-POL-003 (Records Retention), 14-RECORDS-MANAGEMENT/01-Records-Location-Register.md, 01-GOVERNANCE/05-Change-Control-Procedure.md  
 **Related Forms:** None  
 **Record Classification:** Permanent — Governance  
 **Retention Requirement:** Permanent (Board)

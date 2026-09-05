@@ -33,7 +33,7 @@
 - [ ] Two-person count completed for all cash (names: ________, ________)
 - [ ] Cash box / register secured and signed for between handlers
 - [ ] Revenue reconciled to tickets / attendance where applicable
-- [ ] Donations logged with acknowledgment status (FUND-PROC-002)
+- [ ] Donations logged with acknowledgment status (FIN-PROC-005)
 - [ ] Sponsorship payments matched to agreements (SPN-________)
 - [ ] Deposit prepared with deposit slip and logged
 - [ ] Deposit made: date ________  Bank: ________  Amount: $________

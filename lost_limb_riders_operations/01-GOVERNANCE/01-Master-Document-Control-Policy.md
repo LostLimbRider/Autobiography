@@ -10,7 +10,7 @@
 **Document Owner:** Records & Compliance Officer  
 **Approving Authority:** Board of Directors  
 **Supersedes:** Unversioned document-control practice in the Organization Handbook (Administrative Operations Manual — Document Control section)  
-**Related Documents:** FIN-CTRL-001 (Approval Matrix), 14-RECORDS-MANAGEMENT/02-Document-Lifecycle-Procedure.md, CMP-RET-001 (Retention Matrix), 01-GOVERNANCE/05-Change-Control-Procedure.md  
+**Related Documents:** FIN-CTRL-001 (Approval Matrix), lost_limb_riders_handbooks/transactional_operations/02-ADMINISTRATION/ADM-PROC-001-Document-Lifecycle-Procedure.md, CMP-RET-001 (Retention Matrix), 01-GOVERNANCE/05-Change-Control-Procedure.md  
 **Related Forms:** Document Register template (blank)  
 **Record Classification:** Permanent — Governance  
 **Retention Requirement:** Permanent (Board)
@@ -130,7 +130,7 @@ Documents that do not produce a usable record or govern an actual workflow shoul
 
 ## **10. Publication and Retirement**
 
-Follow `14-RECORDS-MANAGEMENT/02-Document-Lifecycle-Procedure.md` to create, approve, publish, update, or retire a document.
+Follow `lost_limb_riders_handbooks/transactional_operations/02-ADMINISTRATION/ADM-PROC-001-Document-Lifecycle-Procedure.md` to create, approve, publish, update, or retire a document.
 
 ## **11. Compliance Notes**
 

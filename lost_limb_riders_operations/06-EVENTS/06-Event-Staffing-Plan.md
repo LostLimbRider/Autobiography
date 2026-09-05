@@ -1,3 +1,14 @@
+> **⛔ DO NOT USE — SUPERSEDED (September 4, 2026)**
+>
+> This document has been superseded. The authoritative version is:
+>
+> **Event Staffing and Personnel Procedure** (EVT-HR-001)
+>
+> Location: `lost_limb_riders_handbooks/transactional_operations/06-EVENTS/EVT-HR-001-Event-Staffing-and-Personnel.md`
+> Index: `lost_limb_riders_handbooks/transactional_operations/00-START-HERE/MASTER-INDEX.md`
+>
+> Do not use this document for any new operational activity. All prior references to this document's ID should be updated to point to the canonical replacement above.
+
 # **Lost Limb Riders — Event Staffing Plan**
 
 **Document ID:** EVT-HR-001  

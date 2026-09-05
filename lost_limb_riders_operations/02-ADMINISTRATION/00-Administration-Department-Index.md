@@ -25,12 +25,12 @@ This index points to the administrative and document-control system of the trans
 
 | Document ID | Document | Location |
 |-------------|----------|----------|
-| ADM-REF-001 | Master Index | `00-START-HERE/MASTER-INDEX.md` |
-| ADM-REF-002 | Transaction Map | `00-START-HERE/TRANSACTION-MAP.md` |
-| ADM-REF-003 | Repository Migration Map | `00-START-HERE/MIGRATION-MAP.md` |
-| ADM-REG-001 | Master Transaction Register | `14-RECORDS-MANAGEMENT/03-Master-Transaction-Register.md` |
+| ADM-REF-001 | Master Index | `lost_limb_riders_handbooks/transactional_operations/00-START-HERE/MASTER-INDEX.md` |
+| ADM-REF-002 | Transaction Map | `lost_limb_riders_handbooks/transactional_operations/00-START-HERE/TRANSACTION-MAP.md` |
+| ADM-REF-003 | Repository Migration Map | `lost_limb_riders_handbooks/transactional_operations/00-START-HERE/MIGRATION-MAP.md` |
+| ADM-REG-001 | Master Transaction Register | `lost_limb_riders_handbooks/transactional_operations/02-ADMINISTRATION/ADM-REG-001-Master-Transaction-Register.md` |
 | ADM-DOC-001 | Master Document Control Policy | `01-GOVERNANCE/01-Master-Document-Control-Policy.md` |
-| ADM-PROC-001 | Document Lifecycle Procedure | `14-RECORDS-MANAGEMENT/02-Document-Lifecycle-Procedure.md` |
+| ADM-PROC-001 | Document Lifecycle Procedure | `lost_limb_riders_handbooks/transactional_operations/02-ADMINISTRATION/ADM-PROC-001-Document-Lifecycle-Procedure.md` |
 | CMP-CHG-001 | Change Control Procedure | `01-GOVERNANCE/05-Change-Control-Procedure.md` |
 | REC-LOC-001 | Records Location Register | `14-RECORDS-MANAGEMENT/01-Records-Location-Register.md` |
 

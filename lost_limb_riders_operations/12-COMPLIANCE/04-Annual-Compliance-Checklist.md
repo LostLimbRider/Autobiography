@@ -10,8 +10,8 @@
 **Document Owner:** Records & Compliance Officer  
 **Approving Authority:** Board of Directors  
 **Supersedes:** None  
-**Related Documents:** CMP-IRS-001, CMP-IA-001, CMP-CAL-001, CMP-RET-001, CMP-CHG-001, FIN-CHK-003 (year-end), CTR-CHK-001  
-**Related Forms:** FIN-CHK-003, CTR-CHK-001  
+**Related Documents:** CMP-IRS-001, CMP-IA-001, CMP-CAL-001, CMP-RET-001, CMP-CHG-001, FIN-CHK-003 (year-end), CTR-SOP-001  
+**Related Forms:** FIN-CHK-003, CTR-SOP-001  
 **Record Classification:** Compliance  
 **Retention Requirement:** Permanent
 
@@ -28,7 +28,7 @@ Run this checklist once per year (recommended: October–December) to confirm th
 - [ ] Form 941s reconciled and filed for the year
 - [ ] Form 940 (FUTA) filed
 - [ ] W-2s and W-3 filed; W-2c prepared if needed
-- [ ] 1099-NEC and 1096 filed; threshold review completed (CTR-CHK-001)
+- [ ] 1099-NEC and 1096 filed; threshold review completed (CTR-SOP-001)
 - [ ] Payroll tax deposits current and reconciled
 - [ ] Charitable acknowledgments issued per policy; records retained
 - [ ] Public-inspection documents available (990, exemption application)

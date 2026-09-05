@@ -44,7 +44,7 @@ Follow GRT-PROC-001: expenditures vs. budget, reporting deadlines, deliverables,
 
 1. Complete all journal entries; adjust accruals per CPA guidance.
 2. Reconcile all balance sheet accounts (cash, receivables, payables, restricted funds, fixed assets).
-3. Run W-2/1099 processes (FIN-CHK-003 Year-End Close, CTR-CHK-001).
+3. Run W-2/1099 processes (FIN-CHK-003 Year-End Close, CTR-SOP-001).
 4. Complete Form 990 (CMP-IRS-001) and Iowa filings (CMP-IA-001) with CPA review.
 5. Produce annual financial statements; complete audit/review/compilation as determined by the Board (Bylaws 9.04).
 6. Archive records per CMP-RET-001.
