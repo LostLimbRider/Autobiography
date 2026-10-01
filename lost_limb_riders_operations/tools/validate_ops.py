@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
-"""Lost Limb Riders — Transactional Layer Validation Tool.
+"""Lost Limb Riders — Workflow Layer Validation Tool.
 
-Scans the transactional operations layer (and linked handbook folders) for:
+Scans the workflow operations layer (and linked handbook folders) for:
   - duplicate ACTIVE document IDs (superseded documents keep their
     historical IDs but do not claim them against the active corpus)
   - duplicate filenames among ACTIVE documents
@@ -373,7 +373,7 @@ def main() -> int:
 
     # ---- print report ---------------------------------------------------------
     print("=" * 70)
-    print("Lost Limb Riders — Transactional Layer Validation Report")
+    print("Lost Limb Riders — Workflow Layer Validation Report")
     print(f"Generated: {TODAY.isoformat()}   Root: {root}")
     print("=" * 70)
     print(f"Documents scanned: {len(headers)}")

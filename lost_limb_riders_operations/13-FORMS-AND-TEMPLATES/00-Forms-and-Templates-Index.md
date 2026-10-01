@@ -19,7 +19,7 @@
 
 ## **Purpose**
 
-This index lists every operational form, checklist, and template in the transactional layer and maps each to its procedure. Blank templates live in the department folders; completed records live in restricted locations (REC-LOC-001). This directory (`13-FORMS-AND-TEMPLATES/`) is a pointer index only — the authoritative copies are in the department folders.
+This index lists every operational form, checklist, and template in the workflow layer and maps each to its procedure. Blank templates live in the department folders; completed records live in restricted locations (REC-LOC-001). This directory (`13-FORMS-AND-TEMPLATES/`) is a pointer index only — the authoritative copies are in the department folders.
 
 ## **Operational Forms by Department**
 

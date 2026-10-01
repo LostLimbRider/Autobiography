@@ -1,7 +1,7 @@
-## Lost Limb Riders — Transactional Layer Validation Report
+## Lost Limb Riders — Workflow Layer Validation Report
 
 **Document ID:** VAL-REPORT-001
-**Document Title:** Transactional Layer Validation Report
+**Document Title:** Workflow Layer Validation Report
 **Department:** Compliance
 **Document Type:** REF
 **Version:** 1.0
@@ -19,7 +19,7 @@
 
 ## 1. Scope
 
-Validation of the transactional operations layer, run August 12, 2026 with `python3 validate_transactional_layer.py` (Python 3.11.2, stdlib only).
+Validation of the workflow operations layer, run August 12, 2026 with `python3 validate_transactional_layer.py` (Python 3.11.2, stdlib only).
 
 ## 2. Checks Performed
 

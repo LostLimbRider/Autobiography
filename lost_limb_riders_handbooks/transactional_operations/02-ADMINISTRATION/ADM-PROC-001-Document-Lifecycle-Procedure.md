@@ -40,7 +40,7 @@ A policy, procedure, checklist, form, or register is needed when a workflow exis
 - Approval authority per FIN-CTRL-001 and GOV-POL-001 §7. Policies need Board approval; procedures/forms need the responsible department head or Executive Director.
 
 ### Stage 5 — Publish
-- Place the document in its department folder in the transactional layer.
+- Place the document in its department folder in the workflow layer.
 - Update the department index and the forms index (13-FORMS-AND-TEMPLATES) if a form.
 - Update the MASTER-INDEX document set table.
 

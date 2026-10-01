@@ -1,7 +1,7 @@
 ## Lost Limb Riders — Governance Index
 
 **Document ID:** GOV-REF-001
-**Document Title:** Governance Index — Transactional Controls and Existing Governance
+**Document Title:** Governance Index — Workflow Controls and Existing Governance
 **Department:** Governance
 **Document Type:** REF
 **Version:** 1.0
@@ -19,7 +19,7 @@
 
 ## 1. Purpose
 
-This index maps the transactional-layer governance controls to the existing governance material in the Organization Handbook so users know where each requirement lives.
+This index maps the workflow-layer governance controls to the existing governance material in the Organization Handbook so users know where each requirement lives.
 
 ## 2. Existing Governance Material (retained in place)
 
@@ -33,7 +33,7 @@ This index maps the transactional-layer governance controls to the existing gove
 | Conflict of interest (board) | Organization Handbook — Corporate Governance Manual |
 | Position descriptions | `employees/` (42 manuals) and Organization Handbook — Position Description Manual |
 
-## 3. Transactional-Layer Governance Controls (this folder)
+## 3. Workflow-Layer Governance Controls (this folder)
 
 | Document | Purpose |
 |----------|---------|
@@ -48,7 +48,7 @@ This index maps the transactional-layer governance controls to the existing gove
 
 ## 4. Authority Hierarchy
 
-In case of conflict: **Bylaws control governance terms**; GOV-POL-001 through GOV-POL-006 control transactional governance requirements; the Organization Handbook remains authoritative for board operations and governance content. Discrepancies are resolved through ADM-PROC-002 (Change Control).
+In case of conflict: **Bylaws control governance terms**; GOV-POL-001 through GOV-POL-006 control workflow governance requirements; the Organization Handbook remains authoritative for board operations and governance content. Discrepancies are resolved through ADM-PROC-002 (Change Control).
 
 ## 5. Adoption Status
 

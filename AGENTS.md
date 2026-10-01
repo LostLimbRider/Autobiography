@@ -89,14 +89,14 @@ pamphlet, letters, bios, and organizational publications).
 
 ## Project Invariant — Document ID Active Uniqueness
 
-Transactional document IDs must be unique among ACTIVE controlled
+Workflow document IDs must be unique among ACTIVE controlled
 documents across the whole repository. Superseded documents keep their
 historical IDs for provenance but do not claim them against the active
 corpus — only one authoritative ACTIVE document may own any given ID.
 
 - `lost_limb_riders_handbooks/transactional_operations/` is the CANONICAL
-  CURRENT TRANSACTIONAL LAYER. `lost_limb_riders_operations/` is the
-  FIRST-GENERATION TRANSACTIONAL LAYER. Never describe the first-generation
+  CURRENT WORKFLOW LAYER. `lost_limb_riders_operations/` is the
+  FIRST-GENERATION WORKFLOW LAYER. Never describe the first-generation
   layer as "legacy."
 - A document is retired/superseded only by adding the canonical retirement
   banner (`> **⛔ DO NOT USE — SUPERSEDED ...**`) or setting its Status
@@ -105,7 +105,7 @@ corpus — only one authoritative ACTIVE document may own any given ID.
   never treated as the authority for their Document ID.
 - Active documents must not cite a retired first-generation document as
   authority. Retarget reference by path to the canonical replacement in
-  the transactional layer. Migration records and planning documents under
+  the workflow layer. Migration records and planning documents under
   `00-START-HERE/` are exempt (they intentionally record legacy paths).
 - Run after any content change:
   `python3 lost_limb_riders_operations/tools/validate_ops.py`
@@ -140,3 +140,15 @@ The book's tagline: **"I Can. I Will."**
 - `---` horizontal rules appear in the title page and outline but must NOT appear inside chapter content.
 - The keynote files use a different format (speech notes, audience/tone headers) — do not apply manuscript chapter rules to them.
 - Back matter files (Afterword, Acknowledgments, About the Author, Back Cover) do NOT use the `# **Chapter X**` heading format. They use plain `# Heading`.
+
+
+## Permanent Source-Direction Policy
+
+Autobiography is the authoritative source for Lost Limb Riders organizational
+documentation. Source direction is Autobiography → Official only. Corporate-document
+changes must originate here, never in Official’s checkout. Official must refresh its
+source checkout from Autobiography at the beginning of each new workday.
+
+Use workflow terminology for the organizational documentation layer. Preserve
+existing technical paths, filenames, Document IDs, and legitimate references to
+actual financial or operational transactions.

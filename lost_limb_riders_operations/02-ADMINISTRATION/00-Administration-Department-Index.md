@@ -19,7 +19,7 @@
 
 ## **Purpose**
 
-This index points to the administrative and document-control system of the transactional layer.
+This index points to the administrative and document-control system of the workflow layer.
 
 ## **Core Administration Documents**
 

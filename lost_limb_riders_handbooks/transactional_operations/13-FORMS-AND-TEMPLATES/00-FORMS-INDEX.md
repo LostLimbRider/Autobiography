@@ -19,9 +19,9 @@
 
 ## 1. Purpose
 
-Master index of every fillable form, template, and agreement in the transactional layer, plus the existing program-facing forms retained in `lost_limb_riders_handbooks/04-Forms-and-Templates/`. Use this index to locate any form; forms are stored in their department folder and linked here.
+Master index of every fillable form, template, and agreement in the workflow layer, plus the existing program-facing forms retained in `lost_limb_riders_handbooks/04-Forms-and-Templates/`. Use this index to locate any form; forms are stored in their department folder and linked here.
 
-## 2. Transactional Layer Forms
+## 2. Workflow Layer Forms
 
 | ID | Form | Location | Completes / Feeds |
 | --- | --- | --- | --- |

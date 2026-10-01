@@ -1,7 +1,7 @@
-## Lost Limb Riders — Transactional Operations Layer: Completion Report
+## Lost Limb Riders — Workflow Operations Layer: Completion Report
 
 **Document ID:** VAL-REPORT-002
-**Document Title:** Transactional Layer Completion Report
+**Document Title:** Workflow Layer Completion Report
 **Department:** Compliance
 **Document Type:** REF
 **Version:** 1.0
@@ -19,7 +19,7 @@
 
 ## 1. Status
 
-**COMPLETE.** The transactional operations layer implements the approved design: every material transaction is traceable from authorization to closeout. The validator passes clean (see §3).
+**COMPLETE.** The workflow operations layer implements the approved design: every material transaction is traceable from authorization to closeout. The validator passes clean (see §3).
 
 ## 2. What Was Built
 
@@ -31,7 +31,7 @@
 | 04-CONTRACTORS | 10 | Contractor classification, W-9, agreements, scope, invoices, payment auth, 1099 review, register |
 | 05-FINANCE | 30 | Approval matrix, financial controls, cash handling, purchasing, payment auth, expense/reimbursement, payroll, donations, restricted funds, bank reconciliation, month-end/year-end close, budget, checklists, forms, 6 registers |
 | 06-EVENTS | 8 | Event authorization, feasibility, staffing, closeout, budget/summary forms, event register |
-| 07-PROGRAMS | 3 | Programs index and transactional controls, program financial tracking, program register |
+| 07-PROGRAMS | 3 | Programs index and workflow controls, program financial tracking, program register |
 | 08-VOLUNTEERS | 5 | Volunteer policy, application, screening, onboarding checklist, register |
 | 09-SAFETY-RISK | 5 | Risk management, incident reporting, safety checklist, incident report, incident register |
 | 10-FUNDRAISING | 5 | Fundraising policy, donation processing, sponsorship procedure, sponsorship agreement, register |
