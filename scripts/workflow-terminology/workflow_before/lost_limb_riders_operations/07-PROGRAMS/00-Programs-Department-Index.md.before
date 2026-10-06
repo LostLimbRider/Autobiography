@@ -19,11 +19,11 @@
 
 ## **Purpose**
 
-The workflow layer does not duplicate program manuals. Program operational content — participant intake, support procedures, safety protocols, volunteer guidelines, and quality standards — lives in the active program manuals in `lost_limb_riders_handbooks/03-Program-Manuals/`.
+The transactional layer does not duplicate program manuals. Program operational content — participant intake, support procedures, safety protocols, volunteer guidelines, and quality standards — lives in the active program manuals in `lost_limb_riders_handbooks/03-Program-Manuals/`.
 
 ## **Active Program Manuals**
 
-| Program | Manual | Workflow Interfaces |
+| Program | Manual | Transactional Interfaces |
 |---------|--------|--------------------------|
 | Peer Connection | `03-Program-Manuals/01-Peer-Connection-Program.md` | Participant records (REC-LOC-001); incidents (SAF-INC-001); volunteer hours (VOL-PROC-001) |
 | Ride Forward | `03-Program-Manuals/02-Ride-Forward-Program.md` | Events (06-EVENTS); safety/risk (09-SAFETY-RISK); asset register (AST-001) |
@@ -32,7 +32,7 @@ The workflow layer does not duplicate program manuals. Program operational conte
 | Community Resource & Assistance | `03-Program-Manuals/05-Community-Resource-and-Assistance-Program.md` | Donations (FUND-PROC-001); restricted funds (FUND-REST-001) |
 | Family Support | `03-Program-Manuals/06-Family-Support-Program.md` | Personnel (03-HUMAN-RESOURCES); incidents (SAF-INC-001) |
 
-## **How Programs Use the Workflow Layer**
+## **How Programs Use the Transactional Layer**
 
 - Program labor → time records (HR-TIME-001) and payroll (FIN-PROC-004)
 - Program purchases → purchasing (FIN-PUR-001)

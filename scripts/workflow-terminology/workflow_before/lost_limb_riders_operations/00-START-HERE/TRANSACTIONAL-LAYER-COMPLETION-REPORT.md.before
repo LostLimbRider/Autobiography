@@ -1,7 +1,7 @@
-# **Lost Limb Riders — Workflow Layer Completion Report**
+# **Lost Limb Riders — Transactional Layer Completion Report**
 
 **Document ID:** ADM-REF-007  
-**Document Title:** Lost Limb Riders — Workflow Layer Completion Report  
+**Document Title:** Lost Limb Riders — Transactional Layer Completion Report  
 **Department:** Administration  
 **Document Type:** REF (Reference / Status report)  
 **Version:** 1.0  
@@ -19,11 +19,11 @@
 
 ## **1. Purpose**
 
-This report records the build status of the workflow operations layer in `lost_limb_riders_operations/`. It is the authoritative answer to: what exists, whether it is internally consistent, what was tested, what still requires a professional review, and what remains open. The report is the living status record referenced by the Master Index (ADM-REF-001), the Migration Map (ADM-REF-003), the Validation Test Scenarios (ADM-REF-006), and the Change Control Procedure (CMP-CHG-001).
+This report records the build status of the transactional operations layer in `lost_limb_riders_operations/`. It is the authoritative answer to: what exists, whether it is internally consistent, what was tested, what still requires a professional review, and what remains open. The report is the living status record referenced by the Master Index (ADM-REF-001), the Migration Map (ADM-REF-003), the Validation Test Scenarios (ADM-REF-006), and the Change Control Procedure (CMP-CHG-001).
 
 ## **2. Scope and Definitions**
 
-- **Workflow operations layer:** the repository at `lost_limb_riders_operations/` — the set of controlled documents describing how every material transaction is authorized, executed, documented, approved, accounted for, recorded, reconciled, and closed.
+- **Transactional operations layer:** the repository at `lost_limb_riders_operations/` — the set of controlled documents describing how every material transaction is authorized, executed, documented, approved, accounted for, recorded, reconciled, and closed.
 - **Controlled document:** a file carrying a `Document ID` header and the full metadata block defined in the Master Document Control Policy (ADM-DOC-001).
 - **Validation:** the automated consistency check implemented in `tools/validate_ops.py`.
 - **Transaction ID:** the registry key (e.g., `EVT-2026-001`, `PAY-2026-001`) assigned at transaction open and tracked in the Master Transaction Register (ADM-REG-001).
@@ -159,7 +159,7 @@ Sign-off confirms the status in this report is accurate as of the date signed.
 
 ## **14. Repository Status**
 
-The workflow layer is **built and structurally validated**. The layer is ready for the pending professional reviews (section 7), the board decisions (section 8 item 3), and scenario testing (section 5) before full operational use. Active, archived, and superseded material boundaries are documented in the Migration Map (ADM-REF-003) and preserved as required.
+The transactional layer is **built and structurally validated**. The layer is ready for the pending professional reviews (section 7), the board decisions (section 8 item 3), and scenario testing (section 5) before full operational use. Active, archived, and superseded material boundaries are documented in the Migration Map (ADM-REF-003) and preserved as required.
 
 ## **15. Follow-Up Schedule**
 

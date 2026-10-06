@@ -19,7 +19,7 @@
 
 ## **1. Purpose**
 
-This document defines twelve test scenarios that exercise the workflow layer end to end. Each scenario is run on a **simulated** basis (fictional names, no real data) and documents which documents, IDs, and controls the scenario exercises. The results are reported in the completion report (`00-START-HERE/TRANSACTIONAL-LAYER-COMPLETION-REPORT.md`).
+This document defines twelve test scenarios that exercise the transactional layer end to end. Each scenario is run on a **simulated** basis (fictional names, no real data) and documents which documents, IDs, and controls the scenario exercises. The results are reported in the completion report (`00-START-HERE/TRANSACTIONAL-LAYER-COMPLETION-REPORT.md`).
 
 ## **2. Scenario 1 — New Employee**
 
