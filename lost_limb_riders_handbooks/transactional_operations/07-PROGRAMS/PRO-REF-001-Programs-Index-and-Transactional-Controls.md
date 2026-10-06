@@ -1,7 +1,7 @@
-## Lost Limb Riders — Programs Index and Transactional Controls
+## Lost Limb Riders — Programs Index and Workflow Controls
 
 **Document ID:** PRO-REF-001
-**Document Title:** Programs Index and Transactional Controls
+**Document Title:** Programs Index and Workflow Controls
 **Department:** Programs
 **Document Type:** REF
 **Version:** 1.0
@@ -19,17 +19,17 @@
 
 ## 1. Purpose
 
-This index connects the transactional operations layer to the organization’s program manuals (held separately in `03-Program-Manuals/` and referenced by the Organization Handbook). The transactional layer does not replace program manuals; it supplies the money, people, records, safety, and compliance controls program manuals rely on.
+This index connects the workflow operations layer to the organization’s program manuals (held separately in `03-Program-Manuals/` and referenced by the Organization Handbook). The workflow layer does not replace program manuals; it supplies the money, people, records, safety, and compliance controls program manuals rely on.
 
 ## 2. Program Manuals
 
 Program-specific operating manuals (6) are maintained in `03-Program-Manuals/` (e.g., Rides/rides program, Concerts, Community Events, and related programs per the Organization Handbook). Update this index when program manuals change.
 
-| Program | Manual Location | Transactional Controls that Apply |
+| Program | Manual Location | Workflow Controls that Apply |
 |---------|-----------------|-----------------------------------|
 | (List each program manual by name) | 03-Program-Manuals/ | EVT-POL-001; EVT-FIN-001; SAF-CHK-001; FIN-PROC-001; VOL-POL-001 |
 
-## 3. Transactional Controls That Apply to All Programs
+## 3. Workflow Controls That Apply to All Programs
 
 - **Money:** revenue recorded and deposited (FIN-CHK-004); expenses approved per FIN-CTRL-001; program budgets tracked (PRO-FIN-001).
 - **People:** employees per HR policies; volunteers per VOL-POL-001; contractors per CTR-POL-001.
@@ -38,7 +38,7 @@ Program-specific operating manuals (6) are maintained in `03-Program-Manuals/` (
 
 ## 4. Cross-References
 
-Program-specific forms (including the Incident Report Form and other templates referenced in the Organization Handbook) remain the operating forms for program activity; transactional forms (this layer) attach where money, approvals, or records are involved.
+Program-specific forms (including the Incident Report Form and other templates referenced in the Organization Handbook) remain the operating forms for program activity; workflow forms (this layer) attach where money, approvals, or records are involved.
 
 ---
 

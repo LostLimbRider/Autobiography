@@ -19,7 +19,7 @@
 
 ## 1. Purpose
 
-This index lists every controlled volunteer document in the transactional layer and maps each to the stage of the volunteer assignment lifecycle (VOL-PROC-001). Use this to locate any volunteer document. Blank templates live here; completed records live in the restricted records system (REC-REF-001).
+This index lists every controlled volunteer document in the workflow layer and maps each to the stage of the volunteer assignment lifecycle (VOL-PROC-001). Use this to locate any volunteer document. Blank templates live here; completed records live in the restricted records system (REC-REF-001).
 
 ## 2. Volunteer Document Register
 

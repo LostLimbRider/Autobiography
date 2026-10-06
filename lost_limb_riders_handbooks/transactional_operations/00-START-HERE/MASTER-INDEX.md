@@ -1,9 +1,9 @@
-## Lost Limb Riders — Transactional Operations Layer
+## Lost Limb Riders — Workflow Operations Layer
 
 **Master Index**
 
 **Document ID:** ADM-REF-001
-**Document Title:** Master Index — Transactional Operations Layer
+**Document Title:** Master Index — Workflow Operations Layer
 **Department:** Administration
 **Document Type:** REF
 **Version:** 1.0
@@ -21,7 +21,7 @@
 
 ## 1. What This Repository Is
 
-This is the **transactional operations layer** for Lost Limb Riders. It sits beside the existing handbooks and contains the operational workflows, forms, registers, and controls that connect the organization’s governance, programs, and safety systems to day-to-day transactions.
+This is the **workflow operations layer** for Lost Limb Riders. It sits beside the existing handbooks and contains the operational workflows, forms, registers, and controls that connect the organization’s governance, programs, and safety systems to day-to-day transactions.
 
 The layer answers, for every material transaction:
 
@@ -58,7 +58,7 @@ No material activity ends with “someone handled it.” It ends with a **docume
 
 - **Active material** lives in `lost_limb_riders_handbooks/` and `transactional_operations/`.
 - **Archived material** lives in `ARCHIVE/` and is **off-limits**: it is not referenced, migrated, or modified. Historical records are preserved there but have no operational authority.
-- This transactional layer is **authoritative** for the transactional workflows it documents. The existing Organization Handbook and program manuals remain authoritative for governance, program, and safety *content*; this layer adds the operational *controls* around those activities.
+- This workflow layer is **authoritative** for the workflows it documents. The existing Organization Handbook and program manuals remain authoritative for governance, program, and safety *content*; this layer adds the operational *controls* around those activities.
 - Where a document in this layer conflicts with an existing handbook, the governing policy in this layer controls for the transaction in question, and the conflict must be reported through the change-control process (ADM-PROC-002).
 
 ## 4. Directory Structure
@@ -78,7 +78,7 @@ transactional_operations/
 ├── 10-FUNDRAISING/        Donations vs sponsorships vs sales; sponsorship agreements
 ├── 11-GRANTS/             Grant lifecycle, budgets, reporting, closeout
 ├── 12-COMPLIANCE/         IRS and Iowa matrices, compliance calendar, annual checklist
-├── 13-FORMS-AND-TEMPLATES/ Index of all transactional forms and letter templates
+├── 13-FORMS-AND-TEMPLATES/ Index of all workflow forms and letter templates
 └── 14-RECORDS-MANAGEMENT/ Retention matrix, storage and protection, destruction
 ```
 
@@ -191,7 +191,7 @@ All compliance documents distinguish federal, Iowa, local, contractual, insuranc
 3. Move obsolete material to the archive location designated by the Records Management function; **do not delete**.
 4. Update every reference and index that points to the old document.
 
-## 13. The Transactional Chain
+## 13. The Workflow Chain
 
 ```text
 POLICY → PROCEDURE → CHECKLIST → FORM → TRANSACTION → APPROVAL → ACCOUNTING → RECORD → RECONCILIATION → CLOSEOUT → RETENTION

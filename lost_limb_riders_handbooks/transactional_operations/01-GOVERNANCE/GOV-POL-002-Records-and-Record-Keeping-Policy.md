@@ -27,7 +27,7 @@ This policy defines what records the organization keeps, who owns them, where th
 - **Financial records** — ledgers, journals, bank statements, deposits, invoices, expense reports, payroll records, tax filings, grant and sponsorship records.
 - **Personnel records** — employee files, payroll files, medical/accommodation files, I-9s, disciplinary and separation files, contractor records.
 - **Program records** — participant files, waivers, program documentation, incident reports.
-- **Transaction records** — the completed forms, registers, and approvals produced by this transactional layer.
+- **Transaction records** — the completed forms, registers, and approvals produced by this workflow layer.
 - **Administrative records** — contracts, insurance policies, compliance filings, correspondence with lasting value.
 
 ## 3. Record Ownership

@@ -19,17 +19,17 @@
 
 ## 1. Purpose
 
-This map inventories the existing active documentation and records how the new transactional layer relates to it. It is the migration map required by the organizational implementation directive.
+This map inventories the existing active documentation and records how the new workflow layer relates to it. It is the migration map required by the organizational implementation directive.
 
 ## 2. Scope and Boundary
 
 - This map covers **active** repository material only.
 - The `ARCHIVE/` directory is **off-limits by operator directive**: it is not referenced, migrated, evaluated, or modified by this layer. No material was migrated from the archive.
-- No existing active document was moved, renamed, or rewritten. The transactional layer is a **parallel structure** that references existing documents in place.
+- No existing active document was moved, renamed, or rewritten. The workflow layer is a **parallel structure** that references existing documents in place.
 
 ## 3. Existing Active Document Inventory
 
-| Existing Document | Location | Status | Destination in Transactional Layer | Action |
+| Existing Document | Location | Status | Destination in Workflow Layer | Action |
 | ----------------- | -------- | ------ | ---------------------------------- | ------ |
 | Handbooks master index | `lost_limb_riders_handbooks/00-START-HERE.md` | Active | `transactional_operations/00-START-HERE/MASTER-INDEX.md` | Referenced; retained unchanged |
 | Organization Handbook (consolidated: governance, admin, volunteer, family support, safety & risk, financial procedures, chapter development, position descriptions, bylaws) | `lost_limb_riders_handbooks/01-Organization-Handbook/00-ORGANIZATION-HANDBOOK.md` | Active | Governance, administration, safety, HR references | Referenced; retained unchanged |
@@ -61,7 +61,7 @@ The following existing active controls were identified and are either referenced
 ## 5. Document Status Definitions
 
 - **Active** — in force; use for current operations.
-- **Referenced** — existing active document retained in place; the transactional layer links to it.
+- **Referenced** — existing active document retained in place; the workflow layer links to it.
 - **Superseded** — replaced by a newer document (tracked via headers and ADM-PROC-002).
 - **Archived** — historical, no operational authority; the ARCHIVE directory is not part of this layer.
 
@@ -72,7 +72,7 @@ The following existing active controls were identified and are either referenced
 
 ## 7. Relationship of This Layer to Existing Documents
 
-This layer is **authoritative for transactional workflows and controls**. The existing handbooks remain authoritative for governance, program content, and safety substance. Where a conflict appears, it is resolved through ADM-PROC-002 (Change Control) and reported to the Board.
+This layer is **authoritative for workflows and controls**. The existing handbooks remain authoritative for governance, program content, and safety substance. Where a conflict appears, it is resolved through ADM-PROC-002 (Change Control) and reported to the Board.
 
 ## 8. Review and Maintenance
 

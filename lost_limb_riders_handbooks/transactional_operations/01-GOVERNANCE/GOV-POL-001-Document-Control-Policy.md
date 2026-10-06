@@ -23,7 +23,7 @@ Every controlled document must be identifiable, versioned, approved, and traceab
 
 ## 2. Scope
 
-Applies to all organizational policies, procedures, standard operating procedures, checklists, forms, registers, and templates used to run the organization — including all documents in the transactional operations layer.
+Applies to all organizational policies, procedures, standard operating procedures, checklists, forms, registers, and templates used to run the organization — including all documents in the workflow operations layer.
 
 ## 3. Document IDs
 
